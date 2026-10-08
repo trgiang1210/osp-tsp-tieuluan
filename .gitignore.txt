@@ -1,0 +1,4 @@
+# Tệp tạm của R và RStudio
+.Rhistory
+.RData
+.Rproj.user/

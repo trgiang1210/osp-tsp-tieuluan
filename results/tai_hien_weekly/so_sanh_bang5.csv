@@ -1,0 +1,11 @@
+"mo_hinh","phuong_phap","MAPE_bai_bao","MASE_bai_bao","MAPE_tai_hien","MASE_tai_hien","chenh_MASE"
+"ETS","xgbcls",9.17,1.98,9.18,1.99,0.01
+"ETS","xgbreg",9.21,2,9.25,2.01,0.01
+"ETS","lgbcls",9.22,2,9.22,2,0
+"ETS","lgbreg",9.11,1.99,9.25,2.07,0.08
+"ETS","Total series",9.17,2.5,9.17,2.5,0
+"thetaf","xgbcls",9.19,2.09,9.16,2.02,-0.07
+"thetaf","xgbreg",9.25,2.12,9.14,2.12,0
+"thetaf","lgbcls",9.19,2.04,9.17,2.07,0.03
+"thetaf","lgbreg",9.27,2.12,9.25,2.13,0.01
+"thetaf","Total series",9.05,2.66,9.05,2.66,0
