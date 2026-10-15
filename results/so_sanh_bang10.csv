@@ -1,0 +1,31 @@
+"bo","mo_hinh","phuong_phap","MAPE_bai_bao","MAPE_tai_hien","MASE_bai_bao","MASE_tai_hien","MASE_theo_min","chenh_MASE","tot_hon_total"
+"Yearly","ETS","Full model",16.19,16.44,2.62,2.63,2.6,0.01,TRUE
+"Yearly","ETS","classification",16.27,16.78,2.51,2.54,2.59,0.03,TRUE
+"Yearly","ETS","Regression",16.53,16.55,2.7,2.69,2.64,-0.01,TRUE
+"Yearly","ETS","Random",17.11,16.79,3.04,3.14,3.14,0.1,TRUE
+"Yearly","ETS","Total series",18.06,18.06,3.44,3.44,3.44,0,NA
+"Yearly","thetaf","Full model",16.82,16.83,2.51,2.5,2.49,-0.01,TRUE
+"Yearly","thetaf","classification",16.98,16.92,2.41,2.52,2.46,0.11,TRUE
+"Yearly","thetaf","Regression",16.84,16.94,2.53,2.52,2.42,-0.01,TRUE
+"Yearly","thetaf","Random",17.07,17,3.01,3.19,3.19,0.18,TRUE
+"Yearly","thetaf","Total series",17.06,17.06,3.4,3.4,3.4,0,NA
+"Quarterly","ETS","Full model",11.67,12.96,0.97,1.04,1.01,0.07,TRUE
+"Quarterly","ETS","classification",11.72,12.3,0.94,1.01,1.03,0.07,TRUE
+"Quarterly","ETS","Regression",11.82,13.76,0.98,1.02,1.01,0.04,TRUE
+"Quarterly","ETS","Random",11.98,12.51,1.1,1.14,1.14,0.04,TRUE
+"Quarterly","ETS","Total series",12.2,11.47,1.15,1.17,1.17,0.02,NA
+"Quarterly","thetaf","Full model",11.79,11.57,0.99,1.03,1.01,0.04,TRUE
+"Quarterly","thetaf","classification",11.86,11.46,0.97,1.03,1.02,0.06,TRUE
+"Quarterly","thetaf","Regression",11.83,11.55,1.01,1.04,1.01,0.03,TRUE
+"Quarterly","thetaf","Random",12.01,11.79,1.14,1.22,1.22,0.08,TRUE
+"Quarterly","thetaf","Total series",11.82,11.11,1.22,1.25,1.25,0.03,NA
+"Monthly","ETS","Full model",16.46,16.85,0.85,0.9,0.89,0.05,TRUE
+"Monthly","ETS","classification",16.45,16.93,0.83,0.9,0.9,0.07,TRUE
+"Monthly","ETS","Regression",16.66,16.98,0.87,0.92,0.91,0.05,TRUE
+"Monthly","ETS","Random",16.94,17.22,1,0.98,0.98,-0.02,FALSE
+"Monthly","ETS","Total series",16.83,16.79,0.95,0.98,0.98,0.03,NA
+"Monthly","thetaf","Full model",15.44,15.82,0.86,0.92,0.91,0.06,TRUE
+"Monthly","thetaf","classification",15.46,16,0.84,0.92,0.95,0.08,TRUE
+"Monthly","thetaf","Regression",15.54,15.79,0.88,0.92,0.92,0.04,TRUE
+"Monthly","thetaf","Random",16.72,16.62,1.04,1.02,1.02,-0.02,FALSE
+"Monthly","thetaf","Total series",15.68,16.05,0.97,1.02,1.02,0.05,NA
