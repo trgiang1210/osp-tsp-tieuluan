@@ -1,0 +1,19 @@
+"tan_suat","dong","MAPE_bai_bao","MAPE_tai_hien","MASE_bai_bao","MASE_tai_hien","chenh_MASE","osp_tot_hon_cpm"
+"Yearly","OSP best",16.39,16.63,2.42,2.42,0,TRUE
+"Yearly","cpm-Thetaf",16.9,16.9,2.97,2.97,0,TRUE
+"Yearly","cpm-ETS",17.68,17.68,2.98,2.98,0,TRUE
+"Quarterly","OSP best",11.75,11.19,0.94,1,0.06,TRUE
+"Quarterly","cpm-Thetaf",12.04,12.04,1.18,1.18,0,TRUE
+"Quarterly","cpm-ETS",12.03,12.03,1.12,1.12,0,TRUE
+"Monthly","OSP best",15.49,15.8,0.83,0.9,0.07,TRUE
+"Monthly","cpm-Thetaf",15.91,15.91,0.97,0.97,0,TRUE
+"Monthly","cpm-ETS",17.11,17.11,0.95,0.95,0,TRUE
+"Weekly","OSP best",9.11,9.14,1.98,1.99,0.01,TRUE
+"Weekly","cpm-Thetaf",9.19,9.19,2.67,2.67,0,TRUE
+"Weekly","cpm-ETS",9.34,9.34,9.34,2.51,-6.83,TRUE
+"Daily","OSP best",4.81,4.98,2.69,2.7,0.01,TRUE
+"Daily","cpm-Thetaf",5.62,5.62,3.31,3.31,0,TRUE
+"Daily","cpm-ETS",5.28,5.28,3.31,3.31,0,TRUE
+"Hourly","OSP best",21.65,15.67,1.61,1.53,-0.08,TRUE
+"Hourly","cpm-Thetaf",23.81,23.81,2.48,2.48,0,TRUE
+"Hourly","cpm-ETS",29.44,29.44,1.75,1.75,0,TRUE
