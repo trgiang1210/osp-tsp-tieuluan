@@ -1,0 +1,1801 @@
+"bo","mo_hinh","lap","phan","so_chuoi_kiem_tra","nhan","phuong_phap","MASE","MAPE"
+"Yearly","ets",1,1,2300,"Actual","xgbcls",2.6349405220323,16.8328417292012
+"Yearly","ets",1,1,2300,"Actual","xgbreg",2.66804215142932,16.3601505983967
+"Yearly","ets",1,1,2300,"Actual","lgbcls",2.62971572036319,16.6426360665526
+"Yearly","ets",1,1,2300,"Actual","lgbreg",2.70049463529389,16.3976574112328
+"Yearly","ets",1,1,2300,"Actual","ket hop ca 4",2.6259738482851,16.0561536096999
+"Yearly","ets",1,1,2300,"Actual","ket hop phan loai",2.61232872320347,16.6100377503904
+"Yearly","ets",1,1,2300,"Actual","ket hop hoi quy",2.68577204093147,16.2877583838284
+"Yearly","ets",1,1,2300,"Average","xgbcls",2.54771701809614,15.9470197012362
+"Yearly","ets",1,1,2300,"Average","xgbreg",2.7101658826619,15.9171462951569
+"Yearly","ets",1,1,2300,"Average","lgbcls",2.537764555641,16.2942485844865
+"Yearly","ets",1,1,2300,"Average","lgbreg",2.74276594761266,16.002143652115
+"Yearly","ets",1,1,2300,"Average","ket hop ca 4",2.65879613239592,15.6795965723171
+"Yearly","ets",1,1,2300,"Average","ket hop phan loai",2.53747934364586,15.972234186802
+"Yearly","ets",1,1,2300,"Average","ket hop hoi quy",2.73355088684847,15.8888450316262
+"Yearly","ets",1,1,2300,"Total","Total series",3.49146955023283,17.0588842495983
+"Yearly","ets",1,2,2300,"Actual","xgbcls",2.61738427927469,18.6527333356768
+"Yearly","ets",1,2,2300,"Actual","xgbreg",2.66989946471042,17.6741993335979
+"Yearly","ets",1,2,2300,"Actual","lgbcls",2.61033943416123,18.5772209003265
+"Yearly","ets",1,2,2300,"Actual","lgbreg",2.68242833420423,17.6705172397393
+"Yearly","ets",1,2,2300,"Actual","ket hop ca 4",2.62495253819223,17.7069900436419
+"Yearly","ets",1,2,2300,"Actual","ket hop phan loai",2.58942076229326,18.5448141964521
+"Yearly","ets",1,2,2300,"Actual","ket hop hoi quy",2.67660395397527,17.5783444228783
+"Yearly","ets",1,2,2300,"Average","xgbcls",2.5201957905434,17.9691733014937
+"Yearly","ets",1,2,2300,"Average","xgbreg",2.69457486612977,17.6945724676793
+"Yearly","ets",1,2,2300,"Average","lgbcls",2.53156938950194,18.2334942372236
+"Yearly","ets",1,2,2300,"Average","lgbreg",2.72767032602728,17.5188859657805
+"Yearly","ets",1,2,2300,"Average","ket hop ca 4",2.64828139037321,17.5121888804131
+"Yearly","ets",1,2,2300,"Average","ket hop phan loai",2.52767530425964,17.9566878854235
+"Yearly","ets",1,2,2300,"Average","ket hop hoi quy",2.72096472123776,17.5196838478454
+"Yearly","ets",1,2,2300,"Total","Total series",3.47083762466706,18.3218264279894
+"Yearly","ets",1,3,2300,"Actual","xgbcls",2.68722197149798,17.8536833927844
+"Yearly","ets",1,3,2300,"Actual","xgbreg",2.73627960981681,17.6887671672326
+"Yearly","ets",1,3,2300,"Actual","lgbcls",2.69323678435646,17.9651531841248
+"Yearly","ets",1,3,2300,"Actual","lgbreg",2.75672897017555,16.7640809230062
+"Yearly","ets",1,3,2300,"Actual","ket hop ca 4",2.67130776745835,16.8258407651444
+"Yearly","ets",1,3,2300,"Actual","ket hop phan loai",2.64806225923937,17.8348583624177
+"Yearly","ets",1,3,2300,"Actual","ket hop hoi quy",2.75113225948281,17.130208246915
+"Yearly","ets",1,3,2300,"Average","xgbcls",2.59473816598898,16.8736589172199
+"Yearly","ets",1,3,2300,"Average","xgbreg",2.73981161272842,17.3323372968084
+"Yearly","ets",1,3,2300,"Average","lgbcls",2.5693404340566,16.7352527431258
+"Yearly","ets",1,3,2300,"Average","lgbreg",2.7633674933732,16.8333570871969
+"Yearly","ets",1,3,2300,"Average","ket hop ca 4",2.68625190239852,16.4427411767725
+"Yearly","ets",1,3,2300,"Average","ket hop phan loai",2.58415357300417,16.4651222601369
+"Yearly","ets",1,3,2300,"Average","ket hop hoi quy",2.75755209434198,16.9826487821465
+"Yearly","ets",1,3,2300,"Total","Total series",3.48718534585157,17.9098248129155
+"Yearly","ets",1,4,2300,"Actual","xgbcls",2.60231687853227,20.0268451236073
+"Yearly","ets",1,4,2300,"Actual","xgbreg",2.62805161346783,19.2521180391375
+"Yearly","ets",1,4,2300,"Actual","lgbcls",2.6132669359061,19.9896446310024
+"Yearly","ets",1,4,2300,"Actual","lgbreg",2.65699554441496,19.1379194082426
+"Yearly","ets",1,4,2300,"Actual","ket hop ca 4",2.59236918981619,19.1141710779977
+"Yearly","ets",1,4,2300,"Actual","ket hop phan loai",2.58626067852752,19.9371131387316
+"Yearly","ets",1,4,2300,"Actual","ket hop hoi quy",2.64078012928785,19.0593311341459
+"Yearly","ets",1,4,2300,"Average","xgbcls",2.51672264753661,19.364295459892
+"Yearly","ets",1,4,2300,"Average","xgbreg",2.65294417252892,18.8185325825103
+"Yearly","ets",1,4,2300,"Average","lgbcls",2.49909279115023,19.4343331617114
+"Yearly","ets",1,4,2300,"Average","lgbreg",2.67851360571686,19.0361166529721
+"Yearly","ets",1,4,2300,"Average","ket hop ca 4",2.59464223547583,18.7447810294706
+"Yearly","ets",1,4,2300,"Average","ket hop phan loai",2.49351811146632,19.2595110050197
+"Yearly","ets",1,4,2300,"Average","ket hop hoi quy",2.67147034777054,18.8051147087768
+"Yearly","ets",1,4,2300,"Total","Total series",3.42853580431635,21.5594313284047
+"Yearly","ets",1,5,2300,"Actual","xgbcls",2.65134267476951,17.1669740525657
+"Yearly","ets",1,5,2300,"Actual","xgbreg",2.67926220806922,16.7948040350535
+"Yearly","ets",1,5,2300,"Actual","lgbcls",2.66470779108309,17.2755620937973
+"Yearly","ets",1,5,2300,"Actual","lgbreg",2.69650195070487,16.963894454561
+"Yearly","ets",1,5,2300,"Actual","ket hop ca 4",2.62923404148949,16.6003737710553
+"Yearly","ets",1,5,2300,"Actual","ket hop phan loai",2.63962059541459,17.153759237299
+"Yearly","ets",1,5,2300,"Actual","ket hop hoi quy",2.67771408304264,16.7223223300443
+"Yearly","ets",1,5,2300,"Average","xgbcls",2.55836808628134,16.7354683597284
+"Yearly","ets",1,5,2300,"Average","xgbreg",2.70289004451152,16.4628531389494
+"Yearly","ets",1,5,2300,"Average","lgbcls",2.5633403397548,16.7226607931163
+"Yearly","ets",1,5,2300,"Average","lgbreg",2.74943296661209,16.4605062485461
+"Yearly","ets",1,5,2300,"Average","ket hop ca 4",2.65549169621448,16.225390380785
+"Yearly","ets",1,5,2300,"Average","ket hop phan loai",2.56206275083395,16.6192667939582
+"Yearly","ets",1,5,2300,"Average","ket hop hoi quy",2.7300683783348,16.3836327951551
+"Yearly","ets",1,5,2300,"Total","Total series",3.49142393287047,17.8841040687805
+"Yearly","ets",1,6,2300,"Actual","xgbcls",2.55393116925381,16.7399703199773
+"Yearly","ets",1,6,2300,"Actual","xgbreg",2.66849117154744,16.7824075765265
+"Yearly","ets",1,6,2300,"Actual","lgbcls",2.56648000131779,16.8279340169084
+"Yearly","ets",1,6,2300,"Actual","lgbreg",2.67891648773828,16.4851332148912
+"Yearly","ets",1,6,2300,"Actual","ket hop ca 4",2.6005671820933,16.3243965914382
+"Yearly","ets",1,6,2300,"Actual","ket hop phan loai",2.55098197014649,16.7149591368997
+"Yearly","ets",1,6,2300,"Actual","ket hop hoi quy",2.67345429049754,16.5418058886492
+"Yearly","ets",1,6,2300,"Average","xgbcls",2.48728430782124,16.3969801578804
+"Yearly","ets",1,6,2300,"Average","xgbreg",2.68808644776898,16.515121697625
+"Yearly","ets",1,6,2300,"Average","lgbcls",2.48734446753815,16.1898377217598
+"Yearly","ets",1,6,2300,"Average","lgbreg",2.73399154328969,16.6819183757889
+"Yearly","ets",1,6,2300,"Average","ket hop ca 4",2.63042540915089,16.0977953428831
+"Yearly","ets",1,6,2300,"Average","ket hop phan loai",2.4947714040925,16.1641541158856
+"Yearly","ets",1,6,2300,"Average","ket hop hoi quy",2.71317410081819,16.5049654226547
+"Yearly","ets",1,6,2300,"Total","Total series",3.4197076670734,17.4207261352662
+"Yearly","ets",1,7,2300,"Actual","xgbcls",2.48291703547508,15.1044085411843
+"Yearly","ets",1,7,2300,"Actual","xgbreg",2.58739810528838,15.0631594637292
+"Yearly","ets",1,7,2300,"Actual","lgbcls",2.51650485810769,15.2163305030987
+"Yearly","ets",1,7,2300,"Actual","lgbreg",2.6007300031812,15.0039328293005
+"Yearly","ets",1,7,2300,"Actual","ket hop ca 4",2.51184070354495,14.6048450826976
+"Yearly","ets",1,7,2300,"Actual","ket hop phan loai",2.47132628257495,15.0796017261366
+"Yearly","ets",1,7,2300,"Actual","ket hop hoi quy",2.5885531922992,14.881852271972
+"Yearly","ets",1,7,2300,"Average","xgbcls",2.40185084014469,13.8800470969629
+"Yearly","ets",1,7,2300,"Average","xgbreg",2.59217999214488,14.3339945928617
+"Yearly","ets",1,7,2300,"Average","lgbcls",2.39951471808861,14.2713080027535
+"Yearly","ets",1,7,2300,"Average","lgbreg",2.6309724112037,14.5672291507916
+"Yearly","ets",1,7,2300,"Average","ket hop ca 4",2.52208108460409,13.872642327039
+"Yearly","ets",1,7,2300,"Average","ket hop phan loai",2.39204216770749,13.8646756890557
+"Yearly","ets",1,7,2300,"Average","ket hop hoi quy",2.6160409594677,14.3456934251139
+"Yearly","ets",1,7,2300,"Total","Total series",3.43271619622513,15.8793894382669
+"Yearly","ets",1,8,2300,"Actual","xgbcls",2.51220651163009,16.3062400177396
+"Yearly","ets",1,8,2300,"Actual","xgbreg",2.59689286377143,15.8987128495989
+"Yearly","ets",1,8,2300,"Actual","lgbcls",2.51600195174976,16.5943379714229
+"Yearly","ets",1,8,2300,"Actual","lgbreg",2.59950295536629,15.469727703308
+"Yearly","ets",1,8,2300,"Actual","ket hop ca 4",2.53056596042007,15.633460803903
+"Yearly","ets",1,8,2300,"Actual","ket hop phan loai",2.48758613380802,16.3320112946009
+"Yearly","ets",1,8,2300,"Actual","ket hop hoi quy",2.59775547092452,15.5810381278115
+"Yearly","ets",1,8,2300,"Average","xgbcls",2.47310279672529,16.0391622679832
+"Yearly","ets",1,8,2300,"Average","xgbreg",2.63679265517359,15.2995147950694
+"Yearly","ets",1,8,2300,"Average","lgbcls",2.45832440306001,15.5287543762263
+"Yearly","ets",1,8,2300,"Average","lgbreg",2.65970084205634,15.3331110625835
+"Yearly","ets",1,8,2300,"Average","ket hop ca 4",2.58357128739941,15.1646608799845
+"Yearly","ets",1,8,2300,"Average","ket hop phan loai",2.46464675903344,15.628748998102
+"Yearly","ets",1,8,2300,"Average","ket hop hoi quy",2.65352388994481,15.2190071740838
+"Yearly","ets",1,8,2300,"Total","Total series",3.41524235245891,16.5444154438387
+"Yearly","ets",1,9,2300,"Actual","xgbcls",2.54508990249424,16.1566408718332
+"Yearly","ets",1,9,2300,"Actual","xgbreg",2.62514138576876,15.6479863461193
+"Yearly","ets",1,9,2300,"Actual","lgbcls",2.57291978510762,16.4660420897186
+"Yearly","ets",1,9,2300,"Actual","lgbreg",2.61842120389435,15.4174611938924
+"Yearly","ets",1,9,2300,"Actual","ket hop ca 4",2.55048336895464,15.4101053062823
+"Yearly","ets",1,9,2300,"Actual","ket hop phan loai",2.52775063121387,16.2390718013519
+"Yearly","ets",1,9,2300,"Actual","ket hop hoi quy",2.62023983265913,15.4306321340008
+"Yearly","ets",1,9,2300,"Average","xgbcls",2.48346682511496,15.0340469501303
+"Yearly","ets",1,9,2300,"Average","xgbreg",2.63634911675413,15.1324819799679
+"Yearly","ets",1,9,2300,"Average","lgbcls",2.4564307021361,15.5531009035876
+"Yearly","ets",1,9,2300,"Average","lgbreg",2.63932520398688,15.0660441248901
+"Yearly","ets",1,9,2300,"Average","ket hop ca 4",2.56054399743183,14.7979443247108
+"Yearly","ets",1,9,2300,"Average","ket hop phan loai",2.46317173963064,15.0925886989041
+"Yearly","ets",1,9,2300,"Average","ket hop hoi quy",2.63694997023089,15.0343635783777
+"Yearly","ets",1,9,2300,"Total","Total series",3.4062088859793,17.2565050813197
+"Yearly","ets",1,10,2300,"Actual","xgbcls",2.55085705940109,16.2766949021536
+"Yearly","ets",1,10,2300,"Actual","xgbreg",2.59034065914361,16.0153448005428
+"Yearly","ets",1,10,2300,"Actual","lgbcls",2.53377768944864,16.2129160974689
+"Yearly","ets",1,10,2300,"Actual","lgbreg",2.6261917141691,16.2290024364503
+"Yearly","ets",1,10,2300,"Actual","ket hop ca 4",2.53065901428233,15.6396333935406
+"Yearly","ets",1,10,2300,"Actual","ket hop phan loai",2.51396940996222,16.0842735092542
+"Yearly","ets",1,10,2300,"Actual","ket hop hoi quy",2.60302519259249,16.0052236766016
+"Yearly","ets",1,10,2300,"Average","xgbcls",2.4624890566761,15.5757309392769
+"Yearly","ets",1,10,2300,"Average","xgbreg",2.61385363557941,15.610944009219
+"Yearly","ets",1,10,2300,"Average","lgbcls",2.45398123475069,15.6605875561131
+"Yearly","ets",1,10,2300,"Average","lgbreg",2.65353276266191,15.6736702967453
+"Yearly","ets",1,10,2300,"Average","ket hop ca 4",2.55986502797616,15.2723926714277
+"Yearly","ets",1,10,2300,"Average","ket hop phan loai",2.46133251507732,15.4538981483038
+"Yearly","ets",1,10,2300,"Average","ket hop hoi quy",2.63964732072324,15.5577836592799
+"Yearly","ets",1,10,2300,"Total","Total series",3.40084979846354,16.4560136946474
+"Yearly","thetaf",1,1,2300,"Actual","xgbcls",2.45715242613885,15.8467830177332
+"Yearly","thetaf",1,1,2300,"Actual","xgbreg",2.51590192355253,15.5354026691409
+"Yearly","thetaf",1,1,2300,"Actual","lgbcls",2.46633723206137,16.0162793519348
+"Yearly","thetaf",1,1,2300,"Actual","lgbreg",2.51112135425005,15.7497758939098
+"Yearly","thetaf",1,1,2300,"Actual","ket hop ca 4",2.49886336580462,15.5434289245748
+"Yearly","thetaf",1,1,2300,"Actual","ket hop phan loai",2.44462395998739,15.7920162520156
+"Yearly","thetaf",1,1,2300,"Actual","ket hop hoi quy",2.52793304318823,15.606183676715
+"Yearly","thetaf",1,1,2300,"Average","xgbcls",2.41684423981317,15.8399086230537
+"Yearly","thetaf",1,1,2300,"Average","xgbreg",2.51914937082267,15.420544556856
+"Yearly","thetaf",1,1,2300,"Average","lgbcls",2.41375452913177,15.9293091278782
+"Yearly","thetaf",1,1,2300,"Average","lgbreg",2.55464343898757,15.560223146899
+"Yearly","thetaf",1,1,2300,"Average","ket hop ca 4",2.52840200030773,15.5385161400856
+"Yearly","thetaf",1,1,2300,"Average","ket hop phan loai",2.41222925232233,15.829230395515
+"Yearly","thetaf",1,1,2300,"Average","ket hop hoi quy",2.56255134456582,15.4109013475502
+"Yearly","thetaf",1,1,2300,"Total","Total series",3.46981922016621,15.7405213522064
+"Yearly","thetaf",1,2,2300,"Actual","xgbcls",2.48057959353965,18.7054382744388
+"Yearly","thetaf",1,2,2300,"Actual","xgbreg",2.50098243071199,17.7689564666234
+"Yearly","thetaf",1,2,2300,"Actual","lgbcls",2.47128407267259,18.5373322596405
+"Yearly","thetaf",1,2,2300,"Actual","lgbreg",2.50487836734237,17.7822206252043
+"Yearly","thetaf",1,2,2300,"Actual","ket hop ca 4",2.49105795850137,17.9662935821454
+"Yearly","thetaf",1,2,2300,"Actual","ket hop phan loai",2.44642706836637,18.5281838570491
+"Yearly","thetaf",1,2,2300,"Actual","ket hop hoi quy",2.51118316423896,17.684788531916
+"Yearly","thetaf",1,2,2300,"Average","xgbcls",2.4258642438244,18.3974761763096
+"Yearly","thetaf",1,2,2300,"Average","xgbreg",2.50564872957464,17.5371462347774
+"Yearly","thetaf",1,2,2300,"Average","lgbcls",2.42768128725147,18.493673063403
+"Yearly","thetaf",1,2,2300,"Average","lgbreg",2.51680641995487,17.7124840825129
+"Yearly","thetaf",1,2,2300,"Average","ket hop ca 4",2.50935535904708,17.8619651360342
+"Yearly","thetaf",1,2,2300,"Average","ket hop phan loai",2.42240329960664,18.359672671594
+"Yearly","thetaf",1,2,2300,"Average","ket hop hoi quy",2.52198840299,17.5779628544793
+"Yearly","thetaf",1,2,2300,"Total","Total series",3.41371777414696,18.1146749564274
+"Yearly","thetaf",1,3,2300,"Actual","xgbcls",2.53733763066514,17.4006610697067
+"Yearly","thetaf",1,3,2300,"Actual","xgbreg",2.55663117799035,16.8760664612139
+"Yearly","thetaf",1,3,2300,"Actual","lgbcls",2.53955217806185,17.3735241101669
+"Yearly","thetaf",1,3,2300,"Actual","lgbreg",2.56044436633817,16.8089802967066
+"Yearly","thetaf",1,3,2300,"Actual","ket hop ca 4",2.54403205951727,16.8506588685609
+"Yearly","thetaf",1,3,2300,"Actual","ket hop phan loai",2.51522350459147,17.2768687754122
+"Yearly","thetaf",1,3,2300,"Actual","ket hop hoi quy",2.56470422279865,16.7701747994936
+"Yearly","thetaf",1,3,2300,"Average","xgbcls",2.47370724021087,17.189139518648
+"Yearly","thetaf",1,3,2300,"Average","xgbreg",2.55902966916658,16.8828239481287
+"Yearly","thetaf",1,3,2300,"Average","lgbcls",2.4582523872394,17.2427535758997
+"Yearly","thetaf",1,3,2300,"Average","lgbreg",2.57141742950916,16.822854374244
+"Yearly","thetaf",1,3,2300,"Average","ket hop ca 4",2.55490440753597,16.8682150607486
+"Yearly","thetaf",1,3,2300,"Average","ket hop phan loai",2.45846023799917,17.1361015274194
+"Yearly","thetaf",1,3,2300,"Average","ket hop hoi quy",2.57395412559208,16.7853041117724
+"Yearly","thetaf",1,3,2300,"Total","Total series",3.44518037761027,17.1797102934132
+"Yearly","thetaf",1,4,2300,"Actual","xgbcls",2.48169247686629,19.1844113629529
+"Yearly","thetaf",1,4,2300,"Actual","xgbreg",2.46737057222106,19.0866955821625
+"Yearly","thetaf",1,4,2300,"Actual","lgbcls",2.4838337193996,19.2661628109464
+"Yearly","thetaf",1,4,2300,"Actual","lgbreg",2.47983180305201,19.2586393803712
+"Yearly","thetaf",1,4,2300,"Actual","ket hop ca 4",2.46264580021583,19.0135430216811
+"Yearly","thetaf",1,4,2300,"Actual","ket hop phan loai",2.46790487001489,19.1500922626073
+"Yearly","thetaf",1,4,2300,"Actual","ket hop hoi quy",2.48434208678262,19.1228323743068
+"Yearly","thetaf",1,4,2300,"Average","xgbcls",2.39847031461887,18.9185006241426
+"Yearly","thetaf",1,4,2300,"Average","xgbreg",2.47277884246744,19.01286114765
+"Yearly","thetaf",1,4,2300,"Average","lgbcls",2.41065449403717,19.1809394131571
+"Yearly","thetaf",1,4,2300,"Average","lgbreg",2.48939144919271,19.0964462368038
+"Yearly","thetaf",1,4,2300,"Average","ket hop ca 4",2.48914749768571,18.9036281071288
+"Yearly","thetaf",1,4,2300,"Average","ket hop phan loai",2.40279522838388,18.9651417157088
+"Yearly","thetaf",1,4,2300,"Average","ket hop hoi quy",2.49395791297431,19.0150565029376
+"Yearly","thetaf",1,4,2300,"Total","Total series",3.32639093239161,19.1278581015152
+"Yearly","thetaf",1,5,2300,"Actual","xgbcls",2.45215853792285,16.4517633071904
+"Yearly","thetaf",1,5,2300,"Actual","xgbreg",2.45775054266656,15.9159202646078
+"Yearly","thetaf",1,5,2300,"Actual","lgbcls",2.45441028587574,16.5331165862693
+"Yearly","thetaf",1,5,2300,"Actual","lgbreg",2.45589697936617,16.1269107793601
+"Yearly","thetaf",1,5,2300,"Actual","ket hop ca 4",2.43919177598193,16.0288690963217
+"Yearly","thetaf",1,5,2300,"Actual","ket hop phan loai",2.4285586659242,16.4131766314652
+"Yearly","thetaf",1,5,2300,"Actual","ket hop hoi quy",2.46588562411437,15.9885852053998
+"Yearly","thetaf",1,5,2300,"Average","xgbcls",2.36161262924888,16.0681361689004
+"Yearly","thetaf",1,5,2300,"Average","xgbreg",2.46964066674986,16.1336319120876
+"Yearly","thetaf",1,5,2300,"Average","lgbcls",2.37488065241246,16.0917400349308
+"Yearly","thetaf",1,5,2300,"Average","lgbreg",2.47736445472019,16.119333687918
+"Yearly","thetaf",1,5,2300,"Average","ket hop ca 4",2.4733222202887,15.9711093887391
+"Yearly","thetaf",1,5,2300,"Average","ket hop phan loai",2.37465617008056,15.9774006275728
+"Yearly","thetaf",1,5,2300,"Average","ket hop hoi quy",2.49208672363335,16.1040719601857
+"Yearly","thetaf",1,5,2300,"Total","Total series",3.30323787270261,16.2609114394494
+"Yearly","thetaf",1,6,2300,"Actual","xgbcls",2.47773670867983,16.3873871325114
+"Yearly","thetaf",1,6,2300,"Actual","xgbreg",2.49142527789113,16.6457171819872
+"Yearly","thetaf",1,6,2300,"Actual","lgbcls",2.63697149101049,16.2814208703213
+"Yearly","thetaf",1,6,2300,"Actual","lgbreg",2.50177752939439,16.832706795124
+"Yearly","thetaf",1,6,2300,"Actual","ket hop ca 4",2.49155456298024,16.4015726357668
+"Yearly","thetaf",1,6,2300,"Actual","ket hop phan loai",2.45146413689093,16.294922458913
+"Yearly","thetaf",1,6,2300,"Actual","ket hop hoi quy",2.51345722137125,16.7101730592262
+"Yearly","thetaf",1,6,2300,"Average","xgbcls",2.40963617922602,16.4684880965199
+"Yearly","thetaf",1,6,2300,"Average","xgbreg",2.66984805500883,16.7583796460942
+"Yearly","thetaf",1,6,2300,"Average","lgbcls",2.40864502444184,16.4348850333726
+"Yearly","thetaf",1,6,2300,"Average","lgbreg",2.51687482576571,16.6521714644736
+"Yearly","thetaf",1,6,2300,"Average","ket hop ca 4",2.50440343068322,16.4736927046915
+"Yearly","thetaf",1,6,2300,"Average","ket hop phan loai",2.40551271792758,16.4064301455171
+"Yearly","thetaf",1,6,2300,"Average","ket hop hoi quy",2.53280873412061,16.6810679080448
+"Yearly","thetaf",1,6,2300,"Total","Total series",3.4652884637496,16.7848633479858
+"Yearly","thetaf",1,7,2300,"Actual","xgbcls",2.36665361693628,14.804057837433
+"Yearly","thetaf",1,7,2300,"Actual","xgbreg",2.4466170464784,14.7673354120813
+"Yearly","thetaf",1,7,2300,"Actual","lgbcls",2.39406473167012,14.8526535408038
+"Yearly","thetaf",1,7,2300,"Actual","lgbreg",2.4440780907308,14.7293309021437
+"Yearly","thetaf",1,7,2300,"Actual","ket hop ca 4",2.43179644276124,14.6135601586806
+"Yearly","thetaf",1,7,2300,"Actual","ket hop phan loai",2.36274734686895,14.7641419595514
+"Yearly","thetaf",1,7,2300,"Actual","ket hop hoi quy",2.4579271518312,14.7176014995388
+"Yearly","thetaf",1,7,2300,"Average","xgbcls",2.3308625920351,14.6557069441324
+"Yearly","thetaf",1,7,2300,"Average","xgbreg",2.45059683265886,14.6507142865573
+"Yearly","thetaf",1,7,2300,"Average","lgbcls",2.32134473026416,14.6862487166313
+"Yearly","thetaf",1,7,2300,"Average","lgbreg",2.44413033394871,14.6937896732832
+"Yearly","thetaf",1,7,2300,"Average","ket hop ca 4",2.44864479392371,14.581582764311
+"Yearly","thetaf",1,7,2300,"Average","ket hop phan loai",2.32829637835612,14.6314715750039
+"Yearly","thetaf",1,7,2300,"Average","ket hop hoi quy",2.46835151044635,14.6475573687778
+"Yearly","thetaf",1,7,2300,"Total","Total series",3.33502361594978,14.9247300225852
+"Yearly","thetaf",1,8,2300,"Actual","xgbcls",2.37635710620224,15.3900386414185
+"Yearly","thetaf",1,8,2300,"Actual","xgbreg",2.41971699020759,15.4696450744011
+"Yearly","thetaf",1,8,2300,"Actual","lgbcls",2.38458466538759,15.5868105056348
+"Yearly","thetaf",1,8,2300,"Actual","lgbreg",2.44046545312548,15.5620514575371
+"Yearly","thetaf",1,8,2300,"Actual","ket hop ca 4",2.40954259182335,15.1586077375033
+"Yearly","thetaf",1,8,2300,"Actual","ket hop phan loai",2.37393442140403,15.3263662995861
+"Yearly","thetaf",1,8,2300,"Actual","ket hop hoi quy",2.44132294857423,15.4675677066967
+"Yearly","thetaf",1,8,2300,"Average","xgbcls",2.33828636732025,15.3615307216888
+"Yearly","thetaf",1,8,2300,"Average","xgbreg",2.44617874219584,15.5132538191839
+"Yearly","thetaf",1,8,2300,"Average","lgbcls",2.33049998548688,15.2943407284591
+"Yearly","thetaf",1,8,2300,"Average","lgbreg",2.44816840451904,15.4994716929865
+"Yearly","thetaf",1,8,2300,"Average","ket hop ca 4",2.43036720881383,15.2235217186242
+"Yearly","thetaf",1,8,2300,"Average","ket hop phan loai",2.33527955547409,15.2941699552426
+"Yearly","thetaf",1,8,2300,"Average","ket hop hoi quy",2.45785057288652,15.4512175827305
+"Yearly","thetaf",1,8,2300,"Total","Total series",3.31429077078323,15.5295161902301
+"Yearly","thetaf",1,9,2300,"Actual","xgbcls",2.4337482271437,15.6736874335976
+"Yearly","thetaf",1,9,2300,"Actual","xgbreg",2.49459673401005,15.7894217900535
+"Yearly","thetaf",1,9,2300,"Actual","lgbcls",2.44576152680753,15.6730232831065
+"Yearly","thetaf",1,9,2300,"Actual","lgbreg",2.48814194797644,15.7249188152944
+"Yearly","thetaf",1,9,2300,"Actual","ket hop ca 4",2.46222371299542,15.5409219212899
+"Yearly","thetaf",1,9,2300,"Actual","ket hop phan loai",2.42043976378308,15.6075204864688
+"Yearly","thetaf",1,9,2300,"Actual","ket hop hoi quy",2.50261962814796,15.7274546696712
+"Yearly","thetaf",1,9,2300,"Average","xgbcls",2.38764500374519,15.2176923075401
+"Yearly","thetaf",1,9,2300,"Average","xgbreg",2.48368301047182,15.6296488532735
+"Yearly","thetaf",1,9,2300,"Average","lgbcls",2.39813650556991,15.4070545387151
+"Yearly","thetaf",1,9,2300,"Average","lgbreg",2.49552972692225,15.573511377919
+"Yearly","thetaf",1,9,2300,"Average","ket hop ca 4",2.46380462864858,15.3180728673955
+"Yearly","thetaf",1,9,2300,"Average","ket hop phan loai",2.39371126712218,15.273666018216
+"Yearly","thetaf",1,9,2300,"Average","ket hop hoi quy",2.50298359309707,15.5834724297436
+"Yearly","thetaf",1,9,2300,"Total","Total series",3.41515085384021,15.5355887163153
+"Yearly","thetaf",1,10,2300,"Actual","xgbcls",2.38996837562569,15.4230225503626
+"Yearly","thetaf",1,10,2300,"Actual","xgbreg",2.43352653681635,15.084705567247
+"Yearly","thetaf",1,10,2300,"Actual","lgbcls",2.39480251276252,15.4688871571413
+"Yearly","thetaf",1,10,2300,"Actual","lgbreg",2.42366797110172,15.3091323661518
+"Yearly","thetaf",1,10,2300,"Actual","ket hop ca 4",2.41400124407039,15.0238442123036
+"Yearly","thetaf",1,10,2300,"Actual","ket hop phan loai",2.37316770696765,15.2679352135157
+"Yearly","thetaf",1,10,2300,"Actual","ket hop hoi quy",2.43614532383378,15.1437840196583
+"Yearly","thetaf",1,10,2300,"Average","xgbcls",2.33261769019902,15.149107252576
+"Yearly","thetaf",1,10,2300,"Average","xgbreg",2.43586080569267,15.1339045346235
+"Yearly","thetaf",1,10,2300,"Average","lgbcls",2.32673105399541,15.2446467033363
+"Yearly","thetaf",1,10,2300,"Average","lgbreg",2.45242144013355,15.1942527301076
+"Yearly","thetaf",1,10,2300,"Average","ket hop ca 4",2.43609431442991,15.0384517254067
+"Yearly","thetaf",1,10,2300,"Average","ket hop phan loai",2.32852109138608,15.1351079283875
+"Yearly","thetaf",1,10,2300,"Average","ket hop hoi quy",2.46369439289761,15.1305394407176
+"Yearly","thetaf",1,10,2300,"Total","Total series",3.25822650565863,15.1580647649367
+"Quarterly","ets",1,1,100,"Actual","xgbcls",1.00362093140209,22.1441726679876
+"Quarterly","ets",1,1,100,"Actual","xgbreg",1.07342731555453,25.3738527959864
+"Quarterly","ets",1,1,100,"Actual","lgbcls",1.02931226172505,22.8848963815619
+"Quarterly","ets",1,1,100,"Actual","lgbreg",1.05665775157187,23.1459127582426
+"Quarterly","ets",1,1,100,"Actual","ket hop ca 4",1.02367893965381,22.8099314206256
+"Quarterly","ets",1,1,100,"Actual","ket hop phan loai",0.990407438167216,21.6556548945653
+"Quarterly","ets",1,1,100,"Actual","ket hop hoi quy",1.07106805975596,24.2287553023786
+"Quarterly","ets",1,1,100,"Average","xgbcls",1.11334024593093,26.0369551384485
+"Quarterly","ets",1,1,100,"Average","xgbreg",1.06439036461989,23.8409912677258
+"Quarterly","ets",1,1,100,"Average","lgbcls",1.08437047442273,25.8433839624427
+"Quarterly","ets",1,1,100,"Average","lgbreg",1.05117144159738,21.9175031800734
+"Quarterly","ets",1,1,100,"Average","ket hop ca 4",1.10009142538754,24.3666995255422
+"Quarterly","ets",1,1,100,"Average","ket hop phan loai",1.10552637009298,25.9321782767034
+"Quarterly","ets",1,1,100,"Average","ket hop hoi quy",1.066585616752,22.8445906324406
+"Quarterly","ets",1,1,100,"Total","Total series",1.26333133328255,26.333332274808
+"Quarterly","ets",1,2,100,"Actual","xgbcls",0.945157740303959,11.3292238516308
+"Quarterly","ets",1,2,100,"Actual","xgbreg",0.847194465563485,9.73540160267952
+"Quarterly","ets",1,2,100,"Actual","lgbcls",0.958318376540898,11.1366523823524
+"Quarterly","ets",1,2,100,"Actual","lgbreg",0.880433924772489,10.46479134804
+"Quarterly","ets",1,2,100,"Actual","ket hop ca 4",0.884866511146898,10.5006457060261
+"Quarterly","ets",1,2,100,"Actual","ket hop phan loai",0.922709356675432,11.1425245238169
+"Quarterly","ets",1,2,100,"Actual","ket hop hoi quy",0.863080516195108,10.0464949616544
+"Quarterly","ets",1,2,100,"Average","xgbcls",0.88582305254104,11.28032520483
+"Quarterly","ets",1,2,100,"Average","xgbreg",0.904648882594969,11.0853698537315
+"Quarterly","ets",1,2,100,"Average","lgbcls",0.882443400685868,11.1368042226281
+"Quarterly","ets",1,2,100,"Average","lgbreg",0.876023404919534,10.9204866106515
+"Quarterly","ets",1,2,100,"Average","ket hop ca 4",0.880214799853866,11.0196317362107
+"Quarterly","ets",1,2,100,"Average","ket hop phan loai",0.860041520680606,11.1554304486612
+"Quarterly","ets",1,2,100,"Average","ket hop hoi quy",0.876712758103322,10.9590594629875
+"Quarterly","ets",1,2,100,"Total","Total series",1.21022409989873,15.1376905168521
+"Quarterly","ets",1,3,100,"Actual","xgbcls",1.01693527781048,11.2197920744416
+"Quarterly","ets",1,3,100,"Actual","xgbreg",0.976325306421527,11.3640406474965
+"Quarterly","ets",1,3,100,"Actual","lgbcls",1.03607732512741,12.5293938596524
+"Quarterly","ets",1,3,100,"Actual","lgbreg",1.03878967206786,12.2786275361985
+"Quarterly","ets",1,3,100,"Actual","ket hop ca 4",1.01878623427368,11.6449997978509
+"Quarterly","ets",1,3,100,"Actual","ket hop phan loai",1.02679660293175,11.6439403744318
+"Quarterly","ets",1,3,100,"Actual","ket hop hoi quy",1.00767613792654,11.7329666577148
+"Quarterly","ets",1,3,100,"Average","xgbcls",1.01761321301989,11.543780183483
+"Quarterly","ets",1,3,100,"Average","xgbreg",1.05718690516491,14.9953092136861
+"Quarterly","ets",1,3,100,"Average","lgbcls",1.00869591806442,10.5635222765205
+"Quarterly","ets",1,3,100,"Average","lgbreg",1.02770581302673,11.3417198056725
+"Quarterly","ets",1,3,100,"Average","ket hop ca 4",1.04505798386315,11.7919559317425
+"Quarterly","ets",1,3,100,"Average","ket hop phan loai",1.01185548410265,10.8399168442418
+"Quarterly","ets",1,3,100,"Average","ket hop hoi quy",1.04373453801374,12.8770847555463
+"Quarterly","ets",1,3,100,"Total","Total series",1.247729710323,15.8811308506315
+"Quarterly","ets",1,4,100,"Actual","xgbcls",1.08522274897242,10.0634350189956
+"Quarterly","ets",1,4,100,"Actual","xgbreg",1.00156282458399,10.0186068409709
+"Quarterly","ets",1,4,100,"Actual","lgbcls",1.0298732514637,9.8772824240014
+"Quarterly","ets",1,4,100,"Actual","lgbreg",0.976624924291778,10.1182718324166
+"Quarterly","ets",1,4,100,"Actual","ket hop ca 4",0.975380305653779,9.88787209657434
+"Quarterly","ets",1,4,100,"Actual","ket hop phan loai",1.04156457557232,9.95897762512016
+"Quarterly","ets",1,4,100,"Actual","ket hop hoi quy",0.984236214217798,10.0092865544631
+"Quarterly","ets",1,4,100,"Average","xgbcls",0.920422174735822,9.53573810512107
+"Quarterly","ets",1,4,100,"Average","xgbreg",0.943647107681288,9.81444556759651
+"Quarterly","ets",1,4,100,"Average","lgbcls",0.91491120053103,9.62286068273475
+"Quarterly","ets",1,4,100,"Average","lgbreg",0.948866598939684,9.88959704804148
+"Quarterly","ets",1,4,100,"Average","ket hop ca 4",0.933061686278037,9.53652739093131
+"Quarterly","ets",1,4,100,"Average","ket hop phan loai",0.910408151778041,9.46895592026383
+"Quarterly","ets",1,4,100,"Average","ket hop hoi quy",0.94264743561751,9.82312302432736
+"Quarterly","ets",1,4,100,"Total","Total series",1.17763454485542,10.9732215416924
+"Quarterly","ets",1,5,100,"Actual","xgbcls",1.00101659720689,7.50036343221869
+"Quarterly","ets",1,5,100,"Actual","xgbreg",1.00229146638097,7.54127733567591
+"Quarterly","ets",1,5,100,"Actual","lgbcls",0.990509620825893,7.56898934827399
+"Quarterly","ets",1,5,100,"Actual","lgbreg",0.984488311303877,7.49203955762794
+"Quarterly","ets",1,5,100,"Actual","ket hop ca 4",0.986983725634489,7.40815004275646
+"Quarterly","ets",1,5,100,"Actual","ket hop phan loai",0.980676256173098,7.48854888059441
+"Quarterly","ets",1,5,100,"Actual","ket hop hoi quy",0.992121171420884,7.47787812103132
+"Quarterly","ets",1,5,100,"Average","xgbcls",1.01434633541787,7.38965445603536
+"Quarterly","ets",1,5,100,"Average","xgbreg",1.01085930901884,7.57222196013601
+"Quarterly","ets",1,5,100,"Average","lgbcls",0.987667485047357,7.41018933064623
+"Quarterly","ets",1,5,100,"Average","lgbreg",1.01860508887794,7.60365048013484
+"Quarterly","ets",1,5,100,"Average","ket hop ca 4",1.00526532040184,7.41994410051575
+"Quarterly","ets",1,5,100,"Average","ket hop phan loai",0.994400954389942,7.36340235497244
+"Quarterly","ets",1,5,100,"Average","ket hop hoi quy",1.02185033215757,7.54798624529579
+"Quarterly","ets",1,5,100,"Total","Total series",1.15559126727588,7.41992777986382
+"Quarterly","ets",1,6,100,"Actual","xgbcls",1.02753610722803,10.5142174966816
+"Quarterly","ets",1,6,100,"Actual","xgbreg",0.975875681116128,10.1160077167327
+"Quarterly","ets",1,6,100,"Actual","lgbcls",1.05085707876911,10.3874797917125
+"Quarterly","ets",1,6,100,"Actual","lgbreg",0.970426213776257,10.3047252227928
+"Quarterly","ets",1,6,100,"Actual","ket hop ca 4",0.993911987806229,10.1495422253764
+"Quarterly","ets",1,6,100,"Actual","ket hop phan loai",1.03943938061619,10.3703554783354
+"Quarterly","ets",1,6,100,"Actual","ket hop hoi quy",0.972876410179589,10.1526978365839
+"Quarterly","ets",1,6,100,"Average","xgbcls",1.00470863254932,10.2212078673847
+"Quarterly","ets",1,6,100,"Average","xgbreg",1.0259398039972,10.5206050305855
+"Quarterly","ets",1,6,100,"Average","lgbcls",0.998481843863527,10.1657099663533
+"Quarterly","ets",1,6,100,"Average","lgbreg",0.997648606208365,10.5495323005483
+"Quarterly","ets",1,6,100,"Average","ket hop ca 4",1.02751151977528,10.2293310061649
+"Quarterly","ets",1,6,100,"Average","ket hop phan loai",0.991297710821169,10.1227614130862
+"Quarterly","ets",1,6,100,"Average","ket hop hoi quy",1.02151765813841,10.4972731865163
+"Quarterly","ets",1,6,100,"Total","Total series",1.14264983673783,10.0997053227248
+"Quarterly","ets",1,7,100,"Actual","xgbcls",0.863521169995346,9.04927139621251
+"Quarterly","ets",1,7,100,"Actual","xgbreg",0.871650333589051,8.79950478409855
+"Quarterly","ets",1,7,100,"Actual","lgbcls",0.89452650501019,9.22286695854692
+"Quarterly","ets",1,7,100,"Actual","lgbreg",0.864822798293847,8.84243287946753
+"Quarterly","ets",1,7,100,"Actual","ket hop ca 4",0.863741938227832,8.80366434279721
+"Quarterly","ets",1,7,100,"Actual","ket hop phan loai",0.862019977646161,9.10612603529402
+"Quarterly","ets",1,7,100,"Actual","ket hop hoi quy",0.871408526951385,8.80542096880455
+"Quarterly","ets",1,7,100,"Average","xgbcls",0.873754965881926,9.17585340944661
+"Quarterly","ets",1,7,100,"Average","xgbreg",0.887921763909389,8.86753841363738
+"Quarterly","ets",1,7,100,"Average","lgbcls",0.900543731276561,9.15429777908415
+"Quarterly","ets",1,7,100,"Average","lgbreg",0.874783070869411,8.79815039125597
+"Quarterly","ets",1,7,100,"Average","ket hop ca 4",0.886206990085417,8.75893714636603
+"Quarterly","ets",1,7,100,"Average","ket hop phan loai",0.879091830851393,9.06933141469975
+"Quarterly","ets",1,7,100,"Average","ket hop hoi quy",0.87757030791424,8.72609085791136
+"Quarterly","ets",1,7,100,"Total","Total series",1.07707718872744,8.66180816863267
+"Quarterly","ets",1,8,100,"Actual","xgbcls",1.14171734938453,22.2357619289534
+"Quarterly","ets",1,8,100,"Actual","xgbreg",1.16348779415556,25.5397864260924
+"Quarterly","ets",1,8,100,"Actual","lgbcls",1.1602839845818,22.3156833452612
+"Quarterly","ets",1,8,100,"Actual","lgbreg",1.1345395850128,24.9514332162555
+"Quarterly","ets",1,8,100,"Actual","ket hop ca 4",1.13665739613935,23.6581341265544
+"Quarterly","ets",1,8,100,"Actual","ket hop phan loai",1.12367385654189,22.2301084667643
+"Quarterly","ets",1,8,100,"Actual","ket hop hoi quy",1.14761034189902,25.2153881025232
+"Quarterly","ets",1,8,100,"Average","xgbcls",1.12397706126269,24.0298051813543
+"Quarterly","ets",1,8,100,"Average","xgbreg",1.12987470673905,22.6590310130159
+"Quarterly","ets",1,8,100,"Average","lgbcls",1.10923037884985,17.8590889248716
+"Quarterly","ets",1,8,100,"Average","lgbreg",1.13603001582957,24.8617685010623
+"Quarterly","ets",1,8,100,"Average","ket hop ca 4",1.14284275988871,22.2817638405662
+"Quarterly","ets",1,8,100,"Average","ket hop phan loai",1.11019410111509,20.912620477847
+"Quarterly","ets",1,8,100,"Average","ket hop hoi quy",1.14406501155216,23.7439712096106
+"Quarterly","ets",1,8,100,"Total","Total series",1.35183722981314,18.8363421742421
+"Quarterly","ets",1,9,100,"Actual","xgbcls",1.07326635600933,10.0250831238713
+"Quarterly","ets",1,9,100,"Actual","xgbreg",1.03250073634095,9.52255750341724
+"Quarterly","ets",1,9,100,"Actual","lgbcls",1.05453898118789,10.1125480996099
+"Quarterly","ets",1,9,100,"Actual","lgbreg",1.08484684440626,9.67551579766305
+"Quarterly","ets",1,9,100,"Actual","ket hop ca 4",1.05335898839733,9.67485575394345
+"Quarterly","ets",1,9,100,"Actual","ket hop phan loai",1.03734772098598,10.0298928989785
+"Quarterly","ets",1,9,100,"Actual","ket hop hoi quy",1.06538829837677,9.54696940902702
+"Quarterly","ets",1,9,100,"Average","xgbcls",1.03936429297886,9.27226908927978
+"Quarterly","ets",1,9,100,"Average","xgbreg",1.05076917490076,9.4380498500702
+"Quarterly","ets",1,9,100,"Average","lgbcls",1.02139167711509,9.30630869984387
+"Quarterly","ets",1,9,100,"Average","lgbreg",1.03843263252353,9.44182430310359
+"Quarterly","ets",1,9,100,"Average","ket hop ca 4",1.02875348209901,9.25430732579283
+"Quarterly","ets",1,9,100,"Average","ket hop phan loai",1.02688391169203,9.24956198606936
+"Quarterly","ets",1,9,100,"Average","ket hop hoi quy",1.04798871698074,9.41244168991356
+"Quarterly","ets",1,9,100,"Total","Total series",1.25997268111152,9.93665710683734
+"Quarterly","ets",1,10,100,"Actual","xgbcls",1.02096139786521,11.4963192244654
+"Quarterly","ets",1,10,100,"Actual","xgbreg",0.9220096565181,11.515220175631
+"Quarterly","ets",1,10,100,"Actual","lgbcls",1.00512877886215,11.3045604770831
+"Quarterly","ets",1,10,100,"Actual","lgbreg",0.935208498264049,11.5427572282524
+"Quarterly","ets",1,10,100,"Actual","ket hop ca 4",0.951535652545447,11.3442904161643
+"Quarterly","ets",1,10,100,"Actual","ket hop phan loai",1.01231619779973,11.3468728517217
+"Quarterly","ets",1,10,100,"Actual","ket hop hoi quy",0.933017021420715,11.4754489947864
+"Quarterly","ets",1,10,100,"Average","xgbcls",0.921512985036732,10.5380232613912
+"Quarterly","ets",1,10,100,"Average","xgbreg",0.919748304234081,11.2673330661739
+"Quarterly","ets",1,10,100,"Average","lgbcls",0.890623231826352,11.1167524087446
+"Quarterly","ets",1,10,100,"Average","lgbreg",0.925564778284207,10.4596447389754
+"Quarterly","ets",1,10,100,"Average","ket hop ca 4",0.929688865673852,10.7581482060312
+"Quarterly","ets",1,10,100,"Average","ket hop phan loai",0.906314133853314,10.7997194727275
+"Quarterly","ets",1,10,100,"Average","ket hop hoi quy",0.930273356976692,10.8300820905328
+"Quarterly","ets",1,10,100,"Total","Total series",1.06072647343837,11.0065825305923
+"Quarterly","thetaf",1,1,100,"Actual","xgbcls",1.08072027492643,23.450710814827
+"Quarterly","thetaf",1,1,100,"Actual","xgbreg",1.09699733816183,22.6069471383836
+"Quarterly","thetaf",1,1,100,"Actual","lgbcls",1.08537216723694,22.0954529084478
+"Quarterly","thetaf",1,1,100,"Actual","lgbreg",1.08403885954371,21.5874081142103
+"Quarterly","thetaf",1,1,100,"Actual","ket hop ca 4",1.09296756248651,22.3137540710785
+"Quarterly","thetaf",1,1,100,"Actual","ket hop phan loai",1.0857981468847,22.6367947165187
+"Quarterly","thetaf",1,1,100,"Actual","ket hop hoi quy",1.08515113350533,22.0623898521447
+"Quarterly","thetaf",1,1,100,"Average","xgbcls",1.10896390577979,22.3501116787284
+"Quarterly","thetaf",1,1,100,"Average","xgbreg",1.09063211071765,22.8048315013261
+"Quarterly","thetaf",1,1,100,"Average","lgbcls",1.09988356029164,22.3331238997558
+"Quarterly","thetaf",1,1,100,"Average","lgbreg",1.10617216888221,22.5816196363727
+"Quarterly","thetaf",1,1,100,"Average","ket hop ca 4",1.11204760840391,22.3854636053162
+"Quarterly","thetaf",1,1,100,"Average","ket hop phan loai",1.1019873786434,22.2268660775083
+"Quarterly","thetaf",1,1,100,"Average","ket hop hoi quy",1.10515017668507,22.6366480394252
+"Quarterly","thetaf",1,1,100,"Total","Total series",1.30746809090766,22.1064946540715
+"Quarterly","thetaf",1,2,100,"Actual","xgbcls",0.946656772581514,10.9591356964326
+"Quarterly","thetaf",1,2,100,"Actual","xgbreg",0.912345409818283,11.3411872494966
+"Quarterly","thetaf",1,2,100,"Actual","lgbcls",0.960037878137899,10.9247058840905
+"Quarterly","thetaf",1,2,100,"Actual","lgbreg",0.898112848263561,9.71643900881771
+"Quarterly","thetaf",1,2,100,"Actual","ket hop ca 4",0.907814926481417,10.6007552892459
+"Quarterly","thetaf",1,2,100,"Actual","ket hop phan loai",0.927175587015604,10.9189172611896
+"Quarterly","thetaf",1,2,100,"Actual","ket hop hoi quy",0.908282504825109,10.4179612618295
+"Quarterly","thetaf",1,2,100,"Average","xgbcls",0.879246852125505,9.66298087414581
+"Quarterly","thetaf",1,2,100,"Average","xgbreg",0.902643968559881,11.2172192061301
+"Quarterly","thetaf",1,2,100,"Average","lgbcls",0.889377347294152,9.74528829548487
+"Quarterly","thetaf",1,2,100,"Average","lgbreg",0.853960408702697,9.55834314268591
+"Quarterly","thetaf",1,2,100,"Average","ket hop ca 4",0.894313713681692,9.97781590238656
+"Quarterly","thetaf",1,2,100,"Average","ket hop phan loai",0.887586067659949,9.67551842615352
+"Quarterly","thetaf",1,2,100,"Average","ket hop hoi quy",0.880531851742464,10.3519095946404
+"Quarterly","thetaf",1,2,100,"Total","Total series",1.14147221666178,11.0404374381699
+"Quarterly","thetaf",1,3,100,"Actual","xgbcls",1.00630527636288,14.2255679710872
+"Quarterly","thetaf",1,3,100,"Actual","xgbreg",1.00982812962205,13.8869613863311
+"Quarterly","thetaf",1,3,100,"Actual","lgbcls",1.04412692056677,14.6305082890386
+"Quarterly","thetaf",1,3,100,"Actual","lgbreg",1.02105988176703,14.4765462077346
+"Quarterly","thetaf",1,3,100,"Actual","ket hop ca 4",1.00640861804473,14.078227130014
+"Quarterly","thetaf",1,3,100,"Actual","ket hop phan loai",1.00851378251161,14.3974426979546
+"Quarterly","thetaf",1,3,100,"Actual","ket hop hoi quy",1.01339481418591,14.1497026259504
+"Quarterly","thetaf",1,3,100,"Average","xgbcls",1.01717403055703,13.6747417499309
+"Quarterly","thetaf",1,3,100,"Average","xgbreg",1.04525904633137,14.4154104369171
+"Quarterly","thetaf",1,3,100,"Average","lgbcls",1.01719476097716,13.7659831428951
+"Quarterly","thetaf",1,3,100,"Average","lgbreg",1.03019817566513,15.2614248788652
+"Quarterly","thetaf",1,3,100,"Average","ket hop ca 4",1.03309789882151,14.0687746148804
+"Quarterly","thetaf",1,3,100,"Average","ket hop phan loai",1.01542111940083,13.7015947725824
+"Quarterly","thetaf",1,3,100,"Average","ket hop hoi quy",1.04964276374687,14.8043757932496
+"Quarterly","thetaf",1,3,100,"Total","Total series",1.21346896939755,13.0381371635258
+"Quarterly","thetaf",1,4,100,"Actual","xgbcls",1.08971572459954,11.0758331735251
+"Quarterly","thetaf",1,4,100,"Actual","xgbreg",1.00455420024581,10.6808342206095
+"Quarterly","thetaf",1,4,100,"Actual","lgbcls",1.07722034130109,10.7611733936408
+"Quarterly","thetaf",1,4,100,"Actual","lgbreg",1.03357707319017,10.6001147461677
+"Quarterly","thetaf",1,4,100,"Actual","ket hop ca 4",1.01972133437272,10.6825577679292
+"Quarterly","thetaf",1,4,100,"Actual","ket hop phan loai",1.06651810274909,10.8627119672093
+"Quarterly","thetaf",1,4,100,"Actual","ket hop hoi quy",1.00555383172471,10.6014985582338
+"Quarterly","thetaf",1,4,100,"Average","xgbcls",1.03061871419558,10.9262502586384
+"Quarterly","thetaf",1,4,100,"Average","xgbreg",1.0093013633683,10.7353056265043
+"Quarterly","thetaf",1,4,100,"Average","lgbcls",1.01941943320545,11.1768096680163
+"Quarterly","thetaf",1,4,100,"Average","lgbreg",0.993052055148288,10.9172163457247
+"Quarterly","thetaf",1,4,100,"Average","ket hop ca 4",1.02392029772438,10.8711440585964
+"Quarterly","thetaf",1,4,100,"Average","ket hop phan loai",1.02065689517793,11.0306696131754
+"Quarterly","thetaf",1,4,100,"Average","ket hop hoi quy",1.00554748143059,10.8017668791472
+"Quarterly","thetaf",1,4,100,"Total","Total series",1.24472567168906,11.0106309348535
+"Quarterly","thetaf",1,5,100,"Actual","xgbcls",1.08385140636458,8.06053489021405
+"Quarterly","thetaf",1,5,100,"Actual","xgbreg",1.03614158492834,7.73498931714623
+"Quarterly","thetaf",1,5,100,"Actual","lgbcls",1.04793882763206,7.68853112684835
+"Quarterly","thetaf",1,5,100,"Actual","lgbreg",1.03886389947545,7.73786939939403
+"Quarterly","thetaf",1,5,100,"Actual","ket hop ca 4",1.02475372161119,7.73763163878606
+"Quarterly","thetaf",1,5,100,"Actual","ket hop phan loai",1.05999337966631,7.86328385966667
+"Quarterly","thetaf",1,5,100,"Actual","ket hop hoi quy",1.03108862147662,7.71835029512824
+"Quarterly","thetaf",1,5,100,"Average","xgbcls",1.02234385772623,7.86881437885236
+"Quarterly","thetaf",1,5,100,"Average","xgbreg",1.04716845671576,7.79590394986349
+"Quarterly","thetaf",1,5,100,"Average","lgbcls",0.972524821184302,7.60525704232994
+"Quarterly","thetaf",1,5,100,"Average","lgbreg",1.03616478319295,7.82155954996904
+"Quarterly","thetaf",1,5,100,"Average","ket hop ca 4",1.02179684425226,7.7361001892377
+"Quarterly","thetaf",1,5,100,"Average","ket hop phan loai",0.989246844161381,7.72050860841378
+"Quarterly","thetaf",1,5,100,"Average","ket hop hoi quy",1.04887579000391,7.78697809493239
+"Quarterly","thetaf",1,5,100,"Total","Total series",1.26457675876234,7.77002168400356
+"Quarterly","thetaf",1,6,100,"Actual","xgbcls",1.09025715519522,10.6893637021716
+"Quarterly","thetaf",1,6,100,"Actual","xgbreg",1.08677289081656,10.7120637822567
+"Quarterly","thetaf",1,6,100,"Actual","lgbcls",1.0584275231485,10.3149388934063
+"Quarterly","thetaf",1,6,100,"Actual","lgbreg",1.06757904348951,10.6992016435156
+"Quarterly","thetaf",1,6,100,"Actual","ket hop ca 4",1.05750850341292,10.4876156667807
+"Quarterly","thetaf",1,6,100,"Actual","ket hop phan loai",1.07206359405615,10.4827372213368
+"Quarterly","thetaf",1,6,100,"Actual","ket hop hoi quy",1.07893811360002,10.656945631018
+"Quarterly","thetaf",1,6,100,"Average","xgbcls",1.00534396158716,10.3669454695462
+"Quarterly","thetaf",1,6,100,"Average","xgbreg",1.02091495601121,10.6311651626088
+"Quarterly","thetaf",1,6,100,"Average","lgbcls",1.03064206080071,10.7387075380255
+"Quarterly","thetaf",1,6,100,"Average","lgbreg",1.03332282873288,10.6009965528255
+"Quarterly","thetaf",1,6,100,"Average","ket hop ca 4",1.03293229718668,10.5067642360301
+"Quarterly","thetaf",1,6,100,"Average","ket hop phan loai",1.02299106088046,10.4829387169629
+"Quarterly","thetaf",1,6,100,"Average","ket hop hoi quy",1.03313830399858,10.58923399815
+"Quarterly","thetaf",1,6,100,"Total","Total series",1.22530991404448,10.3722210645138
+"Quarterly","thetaf",1,7,100,"Actual","xgbcls",0.956358058007695,9.68198879735363
+"Quarterly","thetaf",1,7,100,"Actual","xgbreg",0.982480542048122,9.98467289091519
+"Quarterly","thetaf",1,7,100,"Actual","lgbcls",0.950999201722156,9.737430106699
+"Quarterly","thetaf",1,7,100,"Actual","lgbreg",0.927023835095718,9.74393264247102
+"Quarterly","thetaf",1,7,100,"Actual","ket hop ca 4",0.935904502798976,9.71217125608102
+"Quarterly","thetaf",1,7,100,"Actual","ket hop phan loai",0.955464370785623,9.68344122957246
+"Quarterly","thetaf",1,7,100,"Actual","ket hop hoi quy",0.933217880857048,9.82472501718332
+"Quarterly","thetaf",1,7,100,"Average","xgbcls",0.953653528221987,9.71862650812252
+"Quarterly","thetaf",1,7,100,"Average","xgbreg",0.959871831920701,9.81417587133447
+"Quarterly","thetaf",1,7,100,"Average","lgbcls",0.937528029960843,9.59150565042157
+"Quarterly","thetaf",1,7,100,"Average","lgbreg",0.95094935415647,9.77511423511493
+"Quarterly","thetaf",1,7,100,"Average","ket hop ca 4",0.946416170719917,9.66177147153226
+"Quarterly","thetaf",1,7,100,"Average","ket hop phan loai",0.947829997763761,9.64355293608057
+"Quarterly","thetaf",1,7,100,"Average","ket hop hoi quy",0.960606259147876,9.78574568429251
+"Quarterly","thetaf",1,7,100,"Total","Total series",1.21342559917275,9.22929405232066
+"Quarterly","thetaf",1,8,100,"Actual","xgbcls",1.15317927207487,19.365816239971
+"Quarterly","thetaf",1,8,100,"Actual","xgbreg",1.19750680210502,18.5235077001095
+"Quarterly","thetaf",1,8,100,"Actual","lgbcls",1.14597207774073,19.1569103339975
+"Quarterly","thetaf",1,8,100,"Actual","lgbreg",1.16775736217843,18.9602330544382
+"Quarterly","thetaf",1,8,100,"Actual","ket hop ca 4",1.13400070677652,18.9049854957673
+"Quarterly","thetaf",1,8,100,"Actual","ket hop phan loai",1.14041804240824,19.2471409329927
+"Quarterly","thetaf",1,8,100,"Actual","ket hop hoi quy",1.17718527875506,18.7066268693838
+"Quarterly","thetaf",1,8,100,"Average","xgbcls",1.18630889946752,18.4186584383149
+"Quarterly","thetaf",1,8,100,"Average","xgbreg",1.16039018177745,18.8912491767017
+"Quarterly","thetaf",1,8,100,"Average","lgbcls",1.15561217681765,18.4935870165675
+"Quarterly","thetaf",1,8,100,"Average","lgbreg",1.14821654360796,19.2763426161886
+"Quarterly","thetaf",1,8,100,"Average","ket hop ca 4",1.17126203605204,18.7071933188595
+"Quarterly","thetaf",1,8,100,"Average","ket hop phan loai",1.15773929079756,18.4452266717268
+"Quarterly","thetaf",1,8,100,"Average","ket hop hoi quy",1.16366315419968,19.0754165164816
+"Quarterly","thetaf",1,8,100,"Total","Total series",1.37817277543094,17.7260033572547
+"Quarterly","thetaf",1,9,100,"Actual","xgbcls",1.13656975498618,11.0354849818699
+"Quarterly","thetaf",1,9,100,"Actual","xgbreg",1.09775490540037,10.5365765101453
+"Quarterly","thetaf",1,9,100,"Actual","lgbcls",1.1445675279595,10.7329601390608
+"Quarterly","thetaf",1,9,100,"Actual","lgbreg",1.06895296174767,10.3093127687157
+"Quarterly","thetaf",1,9,100,"Actual","ket hop ca 4",1.11062644314937,10.5676768789938
+"Quarterly","thetaf",1,9,100,"Actual","ket hop phan loai",1.12963689462267,10.8501991652003
+"Quarterly","thetaf",1,9,100,"Actual","ket hop hoi quy",1.09994934588167,10.4003952889384
+"Quarterly","thetaf",1,9,100,"Average","xgbcls",1.04862478044401,10.0344716431906
+"Quarterly","thetaf",1,9,100,"Average","xgbreg",1.07850969385107,10.2491960643308
+"Quarterly","thetaf",1,9,100,"Average","lgbcls",1.07061209874114,10.1144024009854
+"Quarterly","thetaf",1,9,100,"Average","lgbreg",1.07586238966533,10.2062438529628
+"Quarterly","thetaf",1,9,100,"Average","ket hop ca 4",1.06514880685205,10.1075751409003
+"Quarterly","thetaf",1,9,100,"Average","ket hop phan loai",1.02831493197976,10.0386479650175
+"Quarterly","thetaf",1,9,100,"Average","ket hop hoi quy",1.08265471004345,10.2201891497369
+"Quarterly","thetaf",1,9,100,"Total","Total series",1.32603419861013,9.73874847882953
+"Quarterly","thetaf",1,10,100,"Actual","xgbcls",0.967979399317255,10.7711337230002
+"Quarterly","thetaf",1,10,100,"Actual","xgbreg",0.970912729684565,11.082215789677
+"Quarterly","thetaf",1,10,100,"Actual","lgbcls",0.966959317368939,10.6577846882926
+"Quarterly","thetaf",1,10,100,"Actual","lgbreg",0.899441483672201,10.5884461973459
+"Quarterly","thetaf",1,10,100,"Actual","ket hop ca 4",0.926887916266684,10.5487550970625
+"Quarterly","thetaf",1,10,100,"Actual","ket hop phan loai",0.970231198884132,10.6368363416005
+"Quarterly","thetaf",1,10,100,"Actual","ket hop hoi quy",0.927624352295491,10.7717976999184
+"Quarterly","thetaf",1,10,100,"Average","xgbcls",0.946406025613665,10.7806560477582
+"Quarterly","thetaf",1,10,100,"Average","xgbreg",0.940056179407146,10.6033662907779
+"Quarterly","thetaf",1,10,100,"Average","lgbcls",0.930627463958689,10.7137763782121
+"Quarterly","thetaf",1,10,100,"Average","lgbreg",0.926727452987784,10.6910618793608
+"Quarterly","thetaf",1,10,100,"Average","ket hop ca 4",0.953919699691208,10.5998187732485
+"Quarterly","thetaf",1,10,100,"Average","ket hop phan loai",0.942676992565398,10.7436395951572
+"Quarterly","thetaf",1,10,100,"Average","ket hop hoi quy",0.940633103696844,10.6336127575371
+"Quarterly","thetaf",1,10,100,"Total","Total series",1.11399419362981,10.6477317902019
+"Monthly","ets",1,1,100,"Actual","xgbcls",0.901731858825879,19.0786434038234
+"Monthly","ets",1,1,100,"Actual","xgbreg",0.858114030984185,19.1246075907557
+"Monthly","ets",1,1,100,"Actual","lgbcls",0.864706196801225,18.7255968167787
+"Monthly","ets",1,1,100,"Actual","lgbreg",0.854722282330233,18.9312268753653
+"Monthly","ets",1,1,100,"Actual","ket hop ca 4",0.860338842260091,18.8419203269714
+"Monthly","ets",1,1,100,"Actual","ket hop phan loai",0.883342552315446,18.8401187493394
+"Monthly","ets",1,1,100,"Actual","ket hop hoi quy",0.85664649900175,19.0068589909927
+"Monthly","ets",1,1,100,"Average","xgbcls",0.858330459827252,18.5593167684832
+"Monthly","ets",1,1,100,"Average","xgbreg",0.874987553074015,18.6192705658293
+"Monthly","ets",1,1,100,"Average","lgbcls",0.858913773475617,18.9252612465443
+"Monthly","ets",1,1,100,"Average","lgbreg",0.8671418203011,18.3131187479499
+"Monthly","ets",1,1,100,"Average","ket hop ca 4",0.877099400105561,18.51914878856
+"Monthly","ets",1,1,100,"Average","ket hop phan loai",0.866721692469763,18.7356770098608
+"Monthly","ets",1,1,100,"Average","ket hop hoi quy",0.877694569325185,18.43128240837
+"Monthly","ets",1,1,100,"Total","Total series",1.00794240677843,18.8383557471029
+"Monthly","ets",1,2,100,"Actual","xgbcls",0.857192084353003,19.1677470834242
+"Monthly","ets",1,2,100,"Actual","xgbreg",0.884212347966765,18.8852576036058
+"Monthly","ets",1,2,100,"Actual","lgbcls",0.874529911997144,18.8098314000878
+"Monthly","ets",1,2,100,"Actual","lgbreg",0.877346351970688,18.6793379508363
+"Monthly","ets",1,2,100,"Actual","ket hop ca 4",0.88395037176414,18.7320453553366
+"Monthly","ets",1,2,100,"Actual","ket hop phan loai",0.848809247385688,18.9661254398081
+"Monthly","ets",1,2,100,"Actual","ket hop hoi quy",0.891942059706032,18.6888957795546
+"Monthly","ets",1,2,100,"Average","xgbcls",0.833311185715326,18.5609351648921
+"Monthly","ets",1,2,100,"Average","xgbreg",0.878736067256314,18.9614795322296
+"Monthly","ets",1,2,100,"Average","lgbcls",0.835793612359649,18.6942907531431
+"Monthly","ets",1,2,100,"Average","lgbreg",0.895821795381185,18.9148513855088
+"Monthly","ets",1,2,100,"Average","ket hop ca 4",0.882390298846275,18.616175832486
+"Monthly","ets",1,2,100,"Average","ket hop phan loai",0.833377134391263,18.587959032362
+"Monthly","ets",1,2,100,"Average","ket hop hoi quy",0.895135141197027,18.9296902589655
+"Monthly","ets",1,2,100,"Total","Total series",0.992001360558703,18.9293915212845
+"Monthly","ets",1,3,100,"Actual","xgbcls",0.76959246327307,14.5751742115355
+"Monthly","ets",1,3,100,"Actual","xgbreg",0.795772829164356,16.6203252888851
+"Monthly","ets",1,3,100,"Actual","lgbcls",0.771922492902012,14.033209685952
+"Monthly","ets",1,3,100,"Actual","lgbreg",0.797688675848225,16.7213335979499
+"Monthly","ets",1,3,100,"Actual","ket hop ca 4",0.776248910543036,15.358699343545
+"Monthly","ets",1,3,100,"Actual","ket hop phan loai",0.772093722763172,14.2814418438402
+"Monthly","ets",1,3,100,"Actual","ket hop hoi quy",0.791066731517131,16.6418700059126
+"Monthly","ets",1,3,100,"Average","xgbcls",0.814298404224583,15.6134693793494
+"Monthly","ets",1,3,100,"Average","xgbreg",0.801172888623195,16.5109658897554
+"Monthly","ets",1,3,100,"Average","lgbcls",0.799097965728722,14.3429440601026
+"Monthly","ets",1,3,100,"Average","lgbreg",0.786515197477725,16.404198345658
+"Monthly","ets",1,3,100,"Average","ket hop ca 4",0.799261163931565,15.4939012310077
+"Monthly","ets",1,3,100,"Average","ket hop phan loai",0.808212071579583,14.915002718309
+"Monthly","ets",1,3,100,"Average","ket hop hoi quy",0.79331321218503,16.4255531334256
+"Monthly","ets",1,3,100,"Total","Total series",0.855730576242925,15.4066341920157
+"Monthly","ets",1,4,100,"Actual","xgbcls",1.13508533990178,16.9359490289831
+"Monthly","ets",1,4,100,"Actual","xgbreg",1.09977294891043,16.6015999534213
+"Monthly","ets",1,4,100,"Actual","lgbcls",1.14468389215423,17.2446789875562
+"Monthly","ets",1,4,100,"Actual","lgbreg",1.09103611358665,15.8681203438662
+"Monthly","ets",1,4,100,"Actual","ket hop ca 4",1.11747355188539,16.4490746835106
+"Monthly","ets",1,4,100,"Actual","ket hop phan loai",1.12639934192835,17.0608474969932
+"Monthly","ets",1,4,100,"Actual","ket hop hoi quy",1.08640651164326,16.09113990132
+"Monthly","ets",1,4,100,"Average","xgbcls",1.10229619000568,16.0029867771998
+"Monthly","ets",1,4,100,"Average","xgbreg",1.15989864576866,16.361675932667
+"Monthly","ets",1,4,100,"Average","lgbcls",1.12126596300264,17.2136428709963
+"Monthly","ets",1,4,100,"Average","lgbreg",1.14481367833537,16.6207552336276
+"Monthly","ets",1,4,100,"Average","ket hop ca 4",1.14858017727327,16.2770014626497
+"Monthly","ets",1,4,100,"Average","ket hop phan loai",1.1065103158128,16.4892720224134
+"Monthly","ets",1,4,100,"Average","ket hop hoi quy",1.15839714773771,16.3791939611597
+"Monthly","ets",1,4,100,"Total","Total series",1.24996135321342,16.0309494378128
+"Monthly","ets",1,5,100,"Actual","xgbcls",0.910509154916471,14.7728019264562
+"Monthly","ets",1,5,100,"Actual","xgbreg",0.868474191049836,13.9127143629732
+"Monthly","ets",1,5,100,"Actual","lgbcls",0.896155552254085,14.7693443779229
+"Monthly","ets",1,5,100,"Actual","lgbreg",0.900541240335402,14.8490575341074
+"Monthly","ets",1,5,100,"Actual","ket hop ca 4",0.88120247425184,14.4067443987465
+"Monthly","ets",1,5,100,"Actual","ket hop phan loai",0.895763886367047,14.7469318129578
+"Monthly","ets",1,5,100,"Actual","ket hop hoi quy",0.885987101002073,14.3118446289793
+"Monthly","ets",1,5,100,"Average","xgbcls",0.866851180299611,14.5491554386179
+"Monthly","ets",1,5,100,"Average","xgbreg",0.905365996827503,15.1861774257986
+"Monthly","ets",1,5,100,"Average","lgbcls",0.862362741523979,14.5547837162202
+"Monthly","ets",1,5,100,"Average","lgbreg",0.888740972698784,14.7574713729787
+"Monthly","ets",1,5,100,"Average","ket hop ca 4",0.856676529543085,14.0667983326907
+"Monthly","ets",1,5,100,"Average","ket hop phan loai",0.858381040668799,14.5214564234484
+"Monthly","ets",1,5,100,"Average","ket hop hoi quy",0.894414945796892,14.9275138551534
+"Monthly","ets",1,5,100,"Total","Total series",0.872917174084609,14.3341627942251
+"Monthly","ets",1,6,100,"Actual","xgbcls",0.90694045867436,16.1039330942517
+"Monthly","ets",1,6,100,"Actual","xgbreg",0.830993606518835,15.7923992107983
+"Monthly","ets",1,6,100,"Actual","lgbcls",0.884246226191469,16.0151586980532
+"Monthly","ets",1,6,100,"Actual","lgbreg",0.861412276443286,16.150025706366
+"Monthly","ets",1,6,100,"Actual","ket hop ca 4",0.815051978542431,15.9262467593297
+"Monthly","ets",1,6,100,"Actual","ket hop phan loai",0.882345972171758,16.0268235042412
+"Monthly","ets",1,6,100,"Actual","ket hop hoi quy",0.830963290870314,15.921860106096
+"Monthly","ets",1,6,100,"Average","xgbcls",0.885665042119274,15.5679291831516
+"Monthly","ets",1,6,100,"Average","xgbreg",0.829671861268769,15.1493569288164
+"Monthly","ets",1,6,100,"Average","lgbcls",0.849144230774272,15.6702946496602
+"Monthly","ets",1,6,100,"Average","lgbreg",0.819743748335595,15.4201893282101
+"Monthly","ets",1,6,100,"Average","ket hop ca 4",0.828847078066836,15.3763302971651
+"Monthly","ets",1,6,100,"Average","ket hop phan loai",0.850788674690387,15.5822484567503
+"Monthly","ets",1,6,100,"Average","ket hop hoi quy",0.825556534842948,15.2666931090289
+"Monthly","ets",1,6,100,"Total","Total series",0.889958151237198,16.0725150913728
+"Monthly","ets",1,7,100,"Actual","xgbcls",0.847766734532456,17.6971631780114
+"Monthly","ets",1,7,100,"Actual","xgbreg",0.815953769434034,17.758712765523
+"Monthly","ets",1,7,100,"Actual","lgbcls",0.882910296569518,17.6337185506556
+"Monthly","ets",1,7,100,"Actual","lgbreg",0.832348752628991,17.873316525532
+"Monthly","ets",1,7,100,"Actual","ket hop ca 4",0.829411720021259,17.612277421257
+"Monthly","ets",1,7,100,"Actual","ket hop phan loai",0.854091614813787,17.6402173063371
+"Monthly","ets",1,7,100,"Actual","ket hop hoi quy",0.816861119130099,17.7922091262275
+"Monthly","ets",1,7,100,"Average","xgbcls",0.833627238692576,18.7195205976505
+"Monthly","ets",1,7,100,"Average","xgbreg",0.844814265598887,17.7290765526783
+"Monthly","ets",1,7,100,"Average","lgbcls",0.822805708098615,18.6202438643768
+"Monthly","ets",1,7,100,"Average","lgbreg",0.843810844984791,17.7196556970463
+"Monthly","ets",1,7,100,"Average","ket hop ca 4",0.849607522009376,18.1319436361826
+"Monthly","ets",1,7,100,"Average","ket hop phan loai",0.832246559472318,18.634544170046
+"Monthly","ets",1,7,100,"Average","ket hop hoi quy",0.852712102742213,17.6852442879839
+"Monthly","ets",1,7,100,"Total","Total series",0.91749941950852,18.8158564166746
+"Monthly","ets",1,8,100,"Actual","xgbcls",0.838829947657539,18.6305302050887
+"Monthly","ets",1,8,100,"Actual","xgbreg",0.83837161076553,18.8685276727165
+"Monthly","ets",1,8,100,"Actual","lgbcls",0.834077132241951,18.2698364796887
+"Monthly","ets",1,8,100,"Actual","lgbreg",0.848207382613418,19.0123765234061
+"Monthly","ets",1,8,100,"Actual","ket hop ca 4",0.810508176040443,18.4970405595792
+"Monthly","ets",1,8,100,"Actual","ket hop phan loai",0.825159706710429,18.3756818666056
+"Monthly","ets",1,8,100,"Actual","ket hop hoi quy",0.837574548229796,18.9196087146607
+"Monthly","ets",1,8,100,"Average","xgbcls",0.826719621872229,17.5851120807048
+"Monthly","ets",1,8,100,"Average","xgbreg",0.829952702427285,18.6739922303353
+"Monthly","ets",1,8,100,"Average","lgbcls",0.83337606523216,19.0978781142888
+"Monthly","ets",1,8,100,"Average","lgbreg",0.827322746054846,18.6956306518338
+"Monthly","ets",1,8,100,"Average","ket hop ca 4",0.822991492378888,18.4177346990008
+"Monthly","ets",1,8,100,"Average","ket hop phan loai",0.824628406724751,18.2434145860141
+"Monthly","ets",1,8,100,"Average","ket hop hoi quy",0.827737537384564,18.6648130172681
+"Monthly","ets",1,8,100,"Total","Total series",0.841028503125621,17.2529961543675
+"Monthly","ets",1,9,100,"Actual","xgbcls",0.912021908666484,17.7217613994964
+"Monthly","ets",1,9,100,"Actual","xgbreg",0.921374083167874,18.6237870563894
+"Monthly","ets",1,9,100,"Actual","lgbcls",0.914476321865992,17.6866941385018
+"Monthly","ets",1,9,100,"Actual","lgbreg",0.907760347950592,17.8947113730919
+"Monthly","ets",1,9,100,"Actual","ket hop ca 4",0.878383526853475,17.8713987435045
+"Monthly","ets",1,9,100,"Actual","ket hop phan loai",0.901074890574119,17.6716480585839
+"Monthly","ets",1,9,100,"Actual","ket hop hoi quy",0.893261043586961,18.2053488536879
+"Monthly","ets",1,9,100,"Average","xgbcls",0.877934673319594,17.9599683933883
+"Monthly","ets",1,9,100,"Average","xgbreg",0.915433207645135,17.356837833811
+"Monthly","ets",1,9,100,"Average","lgbcls",0.902190360338105,18.0268583106059
+"Monthly","ets",1,9,100,"Average","lgbreg",0.929163336692922,17.5255865645995
+"Monthly","ets",1,9,100,"Average","ket hop ca 4",0.905528545897194,17.6272718474547
+"Monthly","ets",1,9,100,"Average","ket hop phan loai",0.878005343543394,17.9730887758112
+"Monthly","ets",1,9,100,"Average","ket hop hoi quy",0.926883455285572,17.416851336652
+"Monthly","ets",1,9,100,"Total","Total series",1.03019688500696,18.6710870252506
+"Monthly","ets",1,10,100,"Actual","xgbcls",0.904262120695577,14.6358373256643
+"Monthly","ets",1,10,100,"Actual","xgbreg",0.885106662619328,14.573844722949
+"Monthly","ets",1,10,100,"Actual","lgbcls",0.900908837888891,14.4370990304381
+"Monthly","ets",1,10,100,"Actual","lgbreg",0.88997968090563,14.3040638940265
+"Monthly","ets",1,10,100,"Actual","ket hop ca 4",0.861354816649642,14.2747401778639
+"Monthly","ets",1,10,100,"Actual","ket hop phan loai",0.886054592643606,14.4960625026936
+"Monthly","ets",1,10,100,"Actual","ket hop hoi quy",0.879944876807593,14.4020943482419
+"Monthly","ets",1,10,100,"Average","xgbcls",0.873793407028717,14.0523419935109
+"Monthly","ets",1,10,100,"Average","xgbreg",0.887132879403348,14.178440567018
+"Monthly","ets",1,10,100,"Average","lgbcls",0.853178673540781,14.1344978176088
+"Monthly","ets",1,10,100,"Average","lgbreg",0.902308055631344,14.3781276558971
+"Monthly","ets",1,10,100,"Average","ket hop ca 4",0.884657755861739,14.1248480085828
+"Monthly","ets",1,10,100,"Average","ket hop phan loai",0.866214143606823,14.061718254682
+"Monthly","ets",1,10,100,"Average","ket hop hoi quy",0.896633753131142,14.2622129687817
+"Monthly","ets",1,10,100,"Total","Total series",1.00298181967011,14.3315594044394
+"Monthly","thetaf",1,1,100,"Actual","xgbcls",0.884507039102686,17.9333097893027
+"Monthly","thetaf",1,1,100,"Actual","xgbreg",0.86699553327713,17.1267580861565
+"Monthly","thetaf",1,1,100,"Actual","lgbcls",0.90088079693856,17.9694438522872
+"Monthly","thetaf",1,1,100,"Actual","lgbreg",0.89467597017546,17.0359515874552
+"Monthly","thetaf",1,1,100,"Actual","ket hop ca 4",0.871574730321796,17.2535701901318
+"Monthly","thetaf",1,1,100,"Actual","ket hop phan loai",0.881353210435294,17.9202672469509
+"Monthly","thetaf",1,1,100,"Actual","ket hop hoi quy",0.87650003278444,16.9963343191357
+"Monthly","thetaf",1,1,100,"Average","xgbcls",0.878875921697768,16.5739427107103
+"Monthly","thetaf",1,1,100,"Average","xgbreg",0.893461671009105,16.4508459271868
+"Monthly","thetaf",1,1,100,"Average","lgbcls",0.87387657005094,16.868318329665
+"Monthly","thetaf",1,1,100,"Average","lgbreg",0.879610284105991,16.729544356367
+"Monthly","thetaf",1,1,100,"Average","ket hop ca 4",0.894328589948131,16.5939341375523
+"Monthly","thetaf",1,1,100,"Average","ket hop phan loai",0.877725151827283,16.7008474656543
+"Monthly","thetaf",1,1,100,"Average","ket hop hoi quy",0.88937235872013,16.5647538226389
+"Monthly","thetaf",1,1,100,"Total","Total series",1.02587505947923,17.1491673010487
+"Monthly","thetaf",1,2,100,"Actual","xgbcls",0.948651369141624,18.1972813043808
+"Monthly","thetaf",1,2,100,"Actual","xgbreg",0.890784464854394,17.4355913124963
+"Monthly","thetaf",1,2,100,"Actual","lgbcls",0.963287640594319,18.2615738566098
+"Monthly","thetaf",1,2,100,"Actual","lgbreg",0.913381857101869,17.7963575413985
+"Monthly","thetaf",1,2,100,"Actual","ket hop ca 4",0.918122935860249,17.7966142922971
+"Monthly","thetaf",1,2,100,"Actual","ket hop phan loai",0.948988712823313,18.2149368051747
+"Monthly","thetaf",1,2,100,"Actual","ket hop hoi quy",0.901082453605175,17.5625509226938
+"Monthly","thetaf",1,2,100,"Average","xgbcls",0.857606536390571,17.0327112049884
+"Monthly","thetaf",1,2,100,"Average","xgbreg",0.880007269957843,17.3101989753312
+"Monthly","thetaf",1,2,100,"Average","lgbcls",0.834727030610232,17.3422052507109
+"Monthly","thetaf",1,2,100,"Average","lgbreg",0.868053616077732,17.2553716911725
+"Monthly","thetaf",1,2,100,"Average","ket hop ca 4",0.872358470679471,17.0751213946771
+"Monthly","thetaf",1,2,100,"Average","ket hop phan loai",0.840799994583426,17.1540167024112
+"Monthly","thetaf",1,2,100,"Average","ket hop hoi quy",0.874596555936368,17.2564446892322
+"Monthly","thetaf",1,2,100,"Total","Total series",0.992945839260192,17.1559158162061
+"Monthly","thetaf",1,3,100,"Actual","xgbcls",0.834733053230164,12.4081929275536
+"Monthly","thetaf",1,3,100,"Actual","xgbreg",0.820570930182624,12.2526705677245
+"Monthly","thetaf",1,3,100,"Actual","lgbcls",0.827375550331577,11.9810518395938
+"Monthly","thetaf",1,3,100,"Actual","lgbreg",0.815282902156017,12.414135340254
+"Monthly","thetaf",1,3,100,"Actual","ket hop ca 4",0.809552275783777,12.0797671055334
+"Monthly","thetaf",1,3,100,"Actual","ket hop phan loai",0.813955518808248,11.9554646517539
+"Monthly","thetaf",1,3,100,"Actual","ket hop hoi quy",0.817213330500507,12.3040032128421
+"Monthly","thetaf",1,3,100,"Average","xgbcls",0.781202118243622,12.1991104272679
+"Monthly","thetaf",1,3,100,"Average","xgbreg",0.803640674903624,12.1412397414786
+"Monthly","thetaf",1,3,100,"Average","lgbcls",0.812613492880094,12.3055815781476
+"Monthly","thetaf",1,3,100,"Average","lgbreg",0.803610330722989,11.6970935107008
+"Monthly","thetaf",1,3,100,"Average","ket hop ca 4",0.810339159798127,11.9492826033745
+"Monthly","thetaf",1,3,100,"Average","ket hop phan loai",0.798199272756984,12.231236843147
+"Monthly","thetaf",1,3,100,"Average","ket hop hoi quy",0.813154770923563,11.7689659960977
+"Monthly","thetaf",1,3,100,"Total","Total series",0.864367466118627,11.5046117388708
+"Monthly","thetaf",1,4,100,"Actual","xgbcls",1.11781193856848,15.9948602993904
+"Monthly","thetaf",1,4,100,"Actual","xgbreg",1.11477087923869,15.6777353787743
+"Monthly","thetaf",1,4,100,"Actual","lgbcls",1.13739354765205,16.0256904878433
+"Monthly","thetaf",1,4,100,"Actual","lgbreg",1.11183453247826,15.381945846421
+"Monthly","thetaf",1,4,100,"Actual","ket hop ca 4",1.12855457094764,15.6180158032234
+"Monthly","thetaf",1,4,100,"Actual","ket hop phan loai",1.1207011768428,15.9571477082855
+"Monthly","thetaf",1,4,100,"Actual","ket hop hoi quy",1.13522755558285,15.4790087466403
+"Monthly","thetaf",1,4,100,"Average","xgbcls",1.06810649665758,15.5861665380993
+"Monthly","thetaf",1,4,100,"Average","xgbreg",1.01292378341568,15.6735492464182
+"Monthly","thetaf",1,4,100,"Average","lgbcls",1.0705135445508,15.7344376997495
+"Monthly","thetaf",1,4,100,"Average","lgbreg",1.11331450916155,15.4181616392085
+"Monthly","thetaf",1,4,100,"Average","ket hop ca 4",1.11205152057645,15.4782316968718
+"Monthly","thetaf",1,4,100,"Average","ket hop phan loai",1.06846083134524,15.5842863421758
+"Monthly","thetaf",1,4,100,"Average","ket hop hoi quy",1.13474904206017,15.5261629270632
+"Monthly","thetaf",1,4,100,"Total","Total series",1.22940301908542,15.4920031110558
+"Monthly","thetaf",1,5,100,"Actual","xgbcls",0.860860830532355,13.630871345725
+"Monthly","thetaf",1,5,100,"Actual","xgbreg",0.864100208394279,13.5481298699289
+"Monthly","thetaf",1,5,100,"Actual","lgbcls",0.874316079988274,14.1474630658217
+"Monthly","thetaf",1,5,100,"Actual","lgbreg",0.846286897239903,13.7394818945063
+"Monthly","thetaf",1,5,100,"Actual","ket hop ca 4",0.844557369772786,13.5437612872221
+"Monthly","thetaf",1,5,100,"Actual","ket hop phan loai",0.858419420985111,13.6773250070137
+"Monthly","thetaf",1,5,100,"Actual","ket hop hoi quy",0.854118902385807,13.6234695662013
+"Monthly","thetaf",1,5,100,"Average","xgbcls",0.868678232254125,13.3716042568102
+"Monthly","thetaf",1,5,100,"Average","xgbreg",0.873905013147507,13.6617952508816
+"Monthly","thetaf",1,5,100,"Average","lgbcls",0.878532629664425,13.760974635868
+"Monthly","thetaf",1,5,100,"Average","lgbreg",0.85683593635689,13.4423880012702
+"Monthly","thetaf",1,5,100,"Average","ket hop ca 4",0.851063609760354,13.5090098106415
+"Monthly","thetaf",1,5,100,"Average","ket hop phan loai",0.861890151142935,13.5486283613437
+"Monthly","thetaf",1,5,100,"Average","ket hop hoi quy",0.869066546406007,13.5325637320864
+"Monthly","thetaf",1,5,100,"Total","Total series",0.89360195508037,13.4095887516065
+"Monthly","thetaf",1,6,100,"Actual","xgbcls",0.916179576099502,14.8594167407775
+"Monthly","thetaf",1,6,100,"Actual","xgbreg",0.855326940909141,14.1056757971198
+"Monthly","thetaf",1,6,100,"Actual","lgbcls",0.925789959164515,14.6117300639061
+"Monthly","thetaf",1,6,100,"Actual","lgbreg",0.857209858033639,15.1369318821243
+"Monthly","thetaf",1,6,100,"Actual","ket hop ca 4",0.817074332023024,14.4216082899714
+"Monthly","thetaf",1,6,100,"Actual","ket hop phan loai",0.896711092826341,14.7075581914779
+"Monthly","thetaf",1,6,100,"Actual","ket hop hoi quy",0.837251231601553,14.5023392661176
+"Monthly","thetaf",1,6,100,"Average","xgbcls",0.871367667700358,14.2516259696686
+"Monthly","thetaf",1,6,100,"Average","xgbreg",0.851855126219708,14.7687357710023
+"Monthly","thetaf",1,6,100,"Average","lgbcls",0.854459939430155,14.2904703538814
+"Monthly","thetaf",1,6,100,"Average","lgbreg",0.847502224692722,14.7278505194037
+"Monthly","thetaf",1,6,100,"Average","ket hop ca 4",0.825596615882478,14.4284459776981
+"Monthly","thetaf",1,6,100,"Average","ket hop phan loai",0.850156921233717,14.1935842166858
+"Monthly","thetaf",1,6,100,"Average","ket hop hoi quy",0.842466553366088,14.7322496411758
+"Monthly","thetaf",1,6,100,"Total","Total series",0.885077325879762,13.870769284232
+"Monthly","thetaf",1,7,100,"Actual","xgbcls",0.849125228471406,15.8987364062665
+"Monthly","thetaf",1,7,100,"Actual","xgbreg",0.833964457985862,16.07219766279
+"Monthly","thetaf",1,7,100,"Actual","lgbcls",0.855135601556053,15.9446126288228
+"Monthly","thetaf",1,7,100,"Actual","lgbreg",0.827938440716715,16.0115291131009
+"Monthly","thetaf",1,7,100,"Actual","ket hop ca 4",0.825853031880696,15.8178987514933
+"Monthly","thetaf",1,7,100,"Actual","ket hop phan loai",0.836916936201917,15.8336014038871
+"Monthly","thetaf",1,7,100,"Actual","ket hop hoi quy",0.831956293865755,16.0161204903575
+"Monthly","thetaf",1,7,100,"Average","xgbcls",0.819044641457722,15.2559146538127
+"Monthly","thetaf",1,7,100,"Average","xgbreg",0.813447440824043,16.1124185899611
+"Monthly","thetaf",1,7,100,"Average","lgbcls",0.828399443192823,16.0669393567227
+"Monthly","thetaf",1,7,100,"Average","lgbreg",0.831582344952895,16.0596550513842
+"Monthly","thetaf",1,7,100,"Average","ket hop ca 4",0.833541177071639,15.7627389486231
+"Monthly","thetaf",1,7,100,"Average","ket hop phan loai",0.828573081555379,15.6107042055083
+"Monthly","thetaf",1,7,100,"Average","ket hop hoi quy",0.825319797426468,16.0498313413182
+"Monthly","thetaf",1,7,100,"Total","Total series",0.945841936552923,16.0796362616823
+"Monthly","thetaf",1,8,100,"Actual","xgbcls",0.843768442241389,17.4755571962952
+"Monthly","thetaf",1,8,100,"Actual","xgbreg",0.857732793299789,17.1749750012132
+"Monthly","thetaf",1,8,100,"Actual","lgbcls",0.839977140747822,17.5009484317544
+"Monthly","thetaf",1,8,100,"Actual","lgbreg",0.850406147398276,17.0165513787045
+"Monthly","thetaf",1,8,100,"Actual","ket hop ca 4",0.821994676723653,17.1046204598206
+"Monthly","thetaf",1,8,100,"Actual","ket hop phan loai",0.815479860116719,17.3546746213562
+"Monthly","thetaf",1,8,100,"Actual","ket hop hoi quy",0.850930280378618,17.026800750192
+"Monthly","thetaf",1,8,100,"Average","xgbcls",0.834504400712842,16.9349804432781
+"Monthly","thetaf",1,8,100,"Average","xgbreg",0.863379329426315,17.1501211273579
+"Monthly","thetaf",1,8,100,"Average","lgbcls",0.826650267885603,17.0244848574435
+"Monthly","thetaf",1,8,100,"Average","lgbreg",0.835518907686101,16.8613576471695
+"Monthly","thetaf",1,8,100,"Average","ket hop ca 4",0.828673180178768,16.9373166551715
+"Monthly","thetaf",1,8,100,"Average","ket hop phan loai",0.828726091445787,16.9423993202342
+"Monthly","thetaf",1,8,100,"Average","ket hop hoi quy",0.846700430639759,16.9918976192278
+"Monthly","thetaf",1,8,100,"Total","Total series",0.902995481206112,16.8937714800152
+"Monthly","thetaf",1,9,100,"Actual","xgbcls",0.867050733105067,16.108772719481
+"Monthly","thetaf",1,9,100,"Actual","xgbreg",0.852916843238166,15.4055764878297
+"Monthly","thetaf",1,9,100,"Actual","lgbcls",0.883686141464343,15.7249636715368
+"Monthly","thetaf",1,9,100,"Actual","lgbreg",0.856820749150144,15.3645651584261
+"Monthly","thetaf",1,9,100,"Actual","ket hop ca 4",0.836789678234733,15.4844787074186
+"Monthly","thetaf",1,9,100,"Actual","ket hop phan loai",0.867129561421687,15.8635867990516
+"Monthly","thetaf",1,9,100,"Actual","ket hop hoi quy",0.842626156827949,15.2985357769256
+"Monthly","thetaf",1,9,100,"Average","xgbcls",0.855081729566371,15.5491099969524
+"Monthly","thetaf",1,9,100,"Average","xgbreg",0.861471283837639,15.3280895095632
+"Monthly","thetaf",1,9,100,"Average","lgbcls",0.855864987542238,15.650659198696
+"Monthly","thetaf",1,9,100,"Average","lgbreg",0.84922808732307,15.3110822256065
+"Monthly","thetaf",1,9,100,"Average","ket hop ca 4",0.84570358121091,15.3658470079824
+"Monthly","thetaf",1,9,100,"Average","ket hop phan loai",0.842526515958197,15.551005742151
+"Monthly","thetaf",1,9,100,"Average","ket hop hoi quy",0.854396458778609,15.2454848922782
+"Monthly","thetaf",1,9,100,"Total","Total series",0.951628169449614,15.7226192239932
+"Monthly","thetaf",1,10,100,"Actual","xgbcls",0.946038953200271,13.7200406240544
+"Monthly","thetaf",1,10,100,"Actual","xgbreg",0.895385970958034,13.6639441642787
+"Monthly","thetaf",1,10,100,"Actual","lgbcls",0.980831886421566,13.6931687771364
+"Monthly","thetaf",1,10,100,"Actual","lgbreg",0.910946473920496,13.6585287238277
+"Monthly","thetaf",1,10,100,"Actual","ket hop ca 4",0.88158557453589,13.5267455719416
+"Monthly","thetaf",1,10,100,"Actual","ket hop phan loai",0.932823520968034,13.627011899949
+"Monthly","thetaf",1,10,100,"Actual","ket hop hoi quy",0.89155815066854,13.6084358239865
+"Monthly","thetaf",1,10,100,"Average","xgbcls",0.901018087138498,13.5988453008758
+"Monthly","thetaf",1,10,100,"Average","xgbreg",0.919812009988066,13.6820222956498
+"Monthly","thetaf",1,10,100,"Average","lgbcls",0.901444411869125,13.7568557094828
+"Monthly","thetaf",1,10,100,"Average","lgbreg",0.886345393146391,13.4479841911288
+"Monthly","thetaf",1,10,100,"Average","ket hop ca 4",0.905352515692294,13.4939955432639
+"Monthly","thetaf",1,10,100,"Average","ket hop phan loai",0.89337616103536,13.616572408895
+"Monthly","thetaf",1,10,100,"Average","ket hop hoi quy",0.91186612788371,13.5291907435367
+"Monthly","thetaf",1,10,100,"Total","Total series",1.03748498124753,13.4692561389517
+"Weekly","ets",1,1,36,"Actual","xgbcls",2.02845487370398,7.70829765303885
+"Weekly","ets",1,1,36,"Actual","xgbreg",1.75142103355109,7.5727959780553
+"Weekly","ets",1,1,36,"Actual","lgbcls",2.17000144952432,7.73190987743432
+"Weekly","ets",1,1,36,"Actual","lgbreg",1.85625345973443,7.39174568689675
+"Weekly","ets",1,1,36,"Actual","ket hop ca 4",1.96179963035283,7.54814357741671
+"Weekly","ets",1,1,36,"Actual","ket hop phan loai",2.12508049027893,7.70595613783726
+"Weekly","ets",1,1,36,"Actual","ket hop hoi quy",1.82592311897108,7.45284741834711
+"Weekly","ets",1,1,36,"Average","xgbcls",1.88311985784403,7.4553669980176
+"Weekly","ets",1,1,36,"Average","xgbreg",1.76211444779787,7.40484168892805
+"Weekly","ets",1,1,36,"Average","lgbcls",1.91502251947366,7.56045115812548
+"Weekly","ets",1,1,36,"Average","lgbreg",1.90117971228092,7.52792632753216
+"Weekly","ets",1,1,36,"Average","ket hop ca 4",1.90381959233958,7.48033908516403
+"Weekly","ets",1,1,36,"Average","ket hop phan loai",1.902471524439,7.5075590195542
+"Weekly","ets",1,1,36,"Average","ket hop hoi quy",1.86415568674009,7.4638263644638
+"Weekly","ets",1,1,36,"Total","Total series",3.46506562075909,7.60236451710198
+"Weekly","ets",1,2,36,"Actual","xgbcls",1.76244679920237,10.2728789322518
+"Weekly","ets",1,2,36,"Actual","xgbreg",1.84336747084553,10.1707122284483
+"Weekly","ets",1,2,36,"Actual","lgbcls",1.82873717005905,10.1814741992104
+"Weekly","ets",1,2,36,"Actual","lgbreg",1.83918208966196,10.1765061464118
+"Weekly","ets",1,2,36,"Actual","ket hop ca 4",1.75604694984136,10.1875339061505
+"Weekly","ets",1,2,36,"Actual","ket hop phan loai",1.77623618423625,10.2172622695976
+"Weekly","ets",1,2,36,"Actual","ket hop hoi quy",1.81352742863206,10.1641241724144
+"Weekly","ets",1,2,36,"Average","xgbcls",1.79998172390806,10.2006839866142
+"Weekly","ets",1,2,36,"Average","xgbreg",1.8393025069566,10.2300185874329
+"Weekly","ets",1,2,36,"Average","lgbcls",1.7997075293449,10.3162863874333
+"Weekly","ets",1,2,36,"Average","lgbreg",1.86900308592191,10.2386416212894
+"Weekly","ets",1,2,36,"Average","ket hop ca 4",1.81140013890421,10.2354473114757
+"Weekly","ets",1,2,36,"Average","ket hop phan loai",1.79461242731526,10.257239304384
+"Weekly","ets",1,2,36,"Average","ket hop hoi quy",1.86703893028731,10.2328987103241
+"Weekly","ets",1,2,36,"Total","Total series",2.3106285385063,10.2180248439288
+"Weekly","ets",1,3,36,"Actual","xgbcls",1.91082162507636,9.01701899244976
+"Weekly","ets",1,3,36,"Actual","xgbreg",2.0536931303023,9.15454755712442
+"Weekly","ets",1,3,36,"Actual","lgbcls",1.9250385953714,9.10394146005232
+"Weekly","ets",1,3,36,"Actual","lgbreg",1.97877927533472,9.04071527084498
+"Weekly","ets",1,3,36,"Actual","ket hop ca 4",1.89305130003169,9.06859016332309
+"Weekly","ets",1,3,36,"Actual","ket hop phan loai",1.92039679219523,9.05739428803672
+"Weekly","ets",1,3,36,"Actual","ket hop hoi quy",1.99515136237231,9.08748740297287
+"Weekly","ets",1,3,36,"Average","xgbcls",1.89814105147293,9.21941825761204
+"Weekly","ets",1,3,36,"Average","xgbreg",1.9968223872018,9.09052301759775
+"Weekly","ets",1,3,36,"Average","lgbcls",1.98555735428319,9.2256132544076
+"Weekly","ets",1,3,36,"Average","lgbreg",2.03318660307191,9.1552761479655
+"Weekly","ets",1,3,36,"Average","ket hop ca 4",1.88982350238943,9.16098918498211
+"Weekly","ets",1,3,36,"Average","ket hop phan loai",1.87069189579709,9.22251575600982
+"Weekly","ets",1,3,36,"Average","ket hop hoi quy",1.99929208760513,9.11531133972143
+"Weekly","ets",1,3,36,"Total","Total series",2.1930339579523,9.09712582525472
+"Weekly","ets",1,4,36,"Actual","xgbcls",1.62418791313222,7.69248398763413
+"Weekly","ets",1,4,36,"Actual","xgbreg",1.64553887588885,7.56544595474405
+"Weekly","ets",1,4,36,"Actual","lgbcls",1.61909880420678,7.71310165428669
+"Weekly","ets",1,4,36,"Actual","lgbreg",1.63713414459858,7.50625710780172
+"Weekly","ets",1,4,36,"Actual","ket hop ca 4",1.61437065530631,7.57471078984896
+"Weekly","ets",1,4,36,"Actual","ket hop phan loai",1.61077967524135,7.69797992064416
+"Weekly","ets",1,4,36,"Actual","ket hop hoi quy",1.64401213774723,7.52241470999057
+"Weekly","ets",1,4,36,"Average","xgbcls",1.64934791839991,7.673700209633
+"Weekly","ets",1,4,36,"Average","xgbreg",1.70346659550041,7.72843731539842
+"Weekly","ets",1,4,36,"Average","lgbcls",1.70317335795479,7.5425336489085
+"Weekly","ets",1,4,36,"Average","lgbreg",1.71827416481819,7.62106599045634
+"Weekly","ets",1,4,36,"Average","ket hop ca 4",1.77177735819497,7.62956813863504
+"Weekly","ets",1,4,36,"Average","ket hop phan loai",1.71785465649716,7.59900704952318
+"Weekly","ets",1,4,36,"Average","ket hop hoi quy",1.70699788429689,7.67307838363455
+"Weekly","ets",1,4,36,"Total","Total series",3.46124668440062,8.02237096737231
+"Weekly","ets",1,5,36,"Actual","xgbcls",1.82341372344589,6.15568481145249
+"Weekly","ets",1,5,36,"Actual","xgbreg",1.90794129221617,6.1800191703748
+"Weekly","ets",1,5,36,"Actual","lgbcls",1.87430675903965,6.15355136580663
+"Weekly","ets",1,5,36,"Actual","lgbreg",1.93533487935006,6.50965139439047
+"Weekly","ets",1,5,36,"Actual","ket hop ca 4",1.87391640092625,6.21933957718065
+"Weekly","ets",1,5,36,"Actual","ket hop phan loai",1.83458023034118,6.1521334693933
+"Weekly","ets",1,5,36,"Actual","ket hop hoi quy",1.93912550631658,6.34074602399173
+"Weekly","ets",1,5,36,"Average","xgbcls",1.88215509485478,6.13389474704999
+"Weekly","ets",1,5,36,"Average","xgbreg",1.8952905496532,6.25666927680577
+"Weekly","ets",1,5,36,"Average","lgbcls",1.90258687771456,6.09344209219151
+"Weekly","ets",1,5,36,"Average","lgbreg",1.93056404119409,6.15977163907016
+"Weekly","ets",1,5,36,"Average","ket hop ca 4",1.88998321342669,6.12065659488985
+"Weekly","ets",1,5,36,"Average","ket hop phan loai",1.89638410576325,6.10619403708057
+"Weekly","ets",1,5,36,"Average","ket hop hoi quy",1.90643769477109,6.20379118804076
+"Weekly","ets",1,5,36,"Total","Total series",1.98771622869643,6.18455701841626
+"Weekly","ets",1,6,36,"Actual","xgbcls",1.71622837946973,7.39244754949149
+"Weekly","ets",1,6,36,"Actual","xgbreg",1.70929274443593,7.6841983820825
+"Weekly","ets",1,6,36,"Actual","lgbcls",1.74819325400599,7.63781008788528
+"Weekly","ets",1,6,36,"Actual","lgbreg",1.65646276260145,7.42080420743976
+"Weekly","ets",1,6,36,"Actual","ket hop ca 4",1.71277951643878,7.52876727901808
+"Weekly","ets",1,6,36,"Actual","ket hop phan loai",1.70195654637478,7.5138037634662
+"Weekly","ets",1,6,36,"Actual","ket hop hoi quy",1.6899595794634,7.54645345769182
+"Weekly","ets",1,6,36,"Average","xgbcls",1.64880250717273,7.65893707387672
+"Weekly","ets",1,6,36,"Average","xgbreg",1.74007592997906,7.53781027733345
+"Weekly","ets",1,6,36,"Average","lgbcls",1.65108094333564,7.64194999579772
+"Weekly","ets",1,6,36,"Average","lgbreg",1.71525592158718,7.50732028317647
+"Weekly","ets",1,6,36,"Average","ket hop ca 4",1.70858293636405,7.55718533421549
+"Weekly","ets",1,6,36,"Average","ket hop phan loai",1.65365937083337,7.64858994227427
+"Weekly","ets",1,6,36,"Average","ket hop hoi quy",1.7330543652345,7.49020928944108
+"Weekly","ets",1,6,36,"Total","Total series",2.37837421587527,8.18447726182489
+"Weekly","ets",1,7,36,"Actual","xgbcls",1.65073218539386,8.32632156929993
+"Weekly","ets",1,7,36,"Actual","xgbreg",1.67707073967442,8.58805350561347
+"Weekly","ets",1,7,36,"Actual","lgbcls",1.66150019822722,8.33130590693153
+"Weekly","ets",1,7,36,"Actual","lgbreg",1.74607061689188,8.67978883638707
+"Weekly","ets",1,7,36,"Actual","ket hop ca 4",1.66319345496384,8.43632953889166
+"Weekly","ets",1,7,36,"Actual","ket hop phan loai",1.64985955422359,8.32881373811573
+"Weekly","ets",1,7,36,"Actual","ket hop hoi quy",1.69645056678398,8.63102205798959
+"Weekly","ets",1,7,36,"Average","xgbcls",1.68975809607371,8.39867719092545
+"Weekly","ets",1,7,36,"Average","xgbreg",1.72492996072709,8.86173364473448
+"Weekly","ets",1,7,36,"Average","lgbcls",1.66209778582512,8.37832914713654
+"Weekly","ets",1,7,36,"Average","lgbreg",1.7408264109523,8.68453217780905
+"Weekly","ets",1,7,36,"Average","ket hop ca 4",1.70485266433921,8.5484241951039
+"Weekly","ets",1,7,36,"Average","ket hop phan loai",1.67515351973218,8.38672138993664
+"Weekly","ets",1,7,36,"Average","ket hop hoi quy",1.74060404025722,8.76317094651157
+"Weekly","ets",1,7,36,"Total","Total series",1.97438951866407,8.3742884527513
+"Weekly","ets",1,8,36,"Actual","xgbcls",1.65176977451905,6.3219485538263
+"Weekly","ets",1,8,36,"Actual","xgbreg",1.69635658794453,6.43102023365554
+"Weekly","ets",1,8,36,"Actual","lgbcls",1.68613825029683,6.36298257854707
+"Weekly","ets",1,8,36,"Actual","lgbreg",1.68243213090961,6.559504063271
+"Weekly","ets",1,8,36,"Actual","ket hop ca 4",1.64142790871234,6.38757274941226
+"Weekly","ets",1,8,36,"Actual","ket hop phan loai",1.65722149449722,6.32961250996494
+"Weekly","ets",1,8,36,"Actual","ket hop hoi quy",1.67282121842319,6.4605575896843
+"Weekly","ets",1,8,36,"Average","xgbcls",1.60486228843755,6.43507014211825
+"Weekly","ets",1,8,36,"Average","xgbreg",1.6785645178974,6.4491804034879
+"Weekly","ets",1,8,36,"Average","lgbcls",1.60963246541809,6.37140853077672
+"Weekly","ets",1,8,36,"Average","lgbreg",1.66471792969272,6.29410191528293
+"Weekly","ets",1,8,36,"Average","ket hop ca 4",1.6454304433963,6.3812881132751
+"Weekly","ets",1,8,36,"Average","ket hop phan loai",1.60798902638657,6.40323933644749
+"Weekly","ets",1,8,36,"Average","ket hop hoi quy",1.65417017670933,6.36728384839073
+"Weekly","ets",1,8,36,"Total","Total series",2.13424222814413,6.51548762150579
+"Weekly","ets",1,9,36,"Actual","xgbcls",2.12847472785339,9.66496518515741
+"Weekly","ets",1,9,36,"Actual","xgbreg",2.12752180511438,9.61795848985655
+"Weekly","ets",1,9,36,"Actual","lgbcls",2.11382081704158,9.55259061966943
+"Weekly","ets",1,9,36,"Actual","lgbreg",2.08516480072609,9.66288338171629
+"Weekly","ets",1,9,36,"Actual","ket hop ca 4",2.09753493050764,9.60579022304673
+"Weekly","ets",1,9,36,"Actual","ket hop phan loai",2.1183505710885,9.59848279932617
+"Weekly","ets",1,9,36,"Actual","ket hop hoi quy",2.10793862875995,9.63434032662889
+"Weekly","ets",1,9,36,"Average","xgbcls",2.13919610303312,9.61001760233123
+"Weekly","ets",1,9,36,"Average","xgbreg",2.13519950262545,9.63065911780577
+"Weekly","ets",1,9,36,"Average","lgbcls",2.11082460557969,9.63255927018101
+"Weekly","ets",1,9,36,"Average","lgbreg",2.06738606660423,9.58846251937584
+"Weekly","ets",1,9,36,"Average","ket hop ca 4",2.09956187737059,9.59512963258745
+"Weekly","ets",1,9,36,"Average","ket hop phan loai",2.13743230448745,9.61565861606267
+"Weekly","ets",1,9,36,"Average","ket hop hoi quy",2.08155180474612,9.6033961533712
+"Weekly","ets",1,9,36,"Total","Total series",2.80427471253183,9.65899622401346
+"Weekly","ets",1,10,35,"Actual","xgbcls",2.12513011717294,9.48548106060409
+"Weekly","ets",1,10,35,"Actual","xgbreg",2.2130300829187,9.59618409260853
+"Weekly","ets",1,10,35,"Actual","lgbcls",2.08799248031539,9.2996238579038
+"Weekly","ets",1,10,35,"Actual","lgbreg",2.09389382112388,9.42246383334114
+"Weekly","ets",1,10,35,"Actual","ket hop ca 4",2.14308154060273,9.40470424269497
+"Weekly","ets",1,10,35,"Actual","ket hop phan loai",2.11979142138296,9.38251652519197
+"Weekly","ets",1,10,35,"Actual","ket hop hoi quy",2.16115042236188,9.49700225855964
+"Weekly","ets",1,10,35,"Average","xgbcls",1.88400979551088,8.96456987759457
+"Weekly","ets",1,10,35,"Average","xgbreg",1.95358255071329,9.24922741998244
+"Weekly","ets",1,10,35,"Average","lgbcls",1.84925876105576,8.93687018555076
+"Weekly","ets",1,10,35,"Average","lgbreg",1.84902393776312,8.91323325502866
+"Weekly","ets",1,10,35,"Average","ket hop ca 4",1.83421639619714,8.97680887807059
+"Weekly","ets",1,10,35,"Average","ket hop phan loai",1.84835239672022,8.95072003157267
+"Weekly","ets",1,10,35,"Average","ket hop hoi quy",1.87869138869598,9.04595626865312
+"Weekly","ets",1,10,35,"Total","Total series",2.56201079345592,8.90368422775833
+"Weekly","thetaf",1,1,36,"Actual","xgbcls",1.91331874435456,8.13448941616244
+"Weekly","thetaf",1,1,36,"Actual","xgbreg",1.83903555113755,8.09033403609886
+"Weekly","thetaf",1,1,36,"Actual","lgbcls",1.91149385514397,8.10295744783615
+"Weekly","thetaf",1,1,36,"Actual","lgbreg",1.88107441199906,8.03360995974882
+"Weekly","thetaf",1,1,36,"Actual","ket hop ca 4",1.85809249480681,8.01075650129546
+"Weekly","thetaf",1,1,36,"Actual","ket hop phan loai",1.91365808070552,8.11670245057322
+"Weekly","thetaf",1,1,36,"Actual","ket hop hoi quy",1.87204218306286,8.04678253494441
+"Weekly","thetaf",1,1,36,"Average","xgbcls",1.86233229558167,7.75571044504744
+"Weekly","thetaf",1,1,36,"Average","xgbreg",1.86541933605362,7.85948934599357
+"Weekly","thetaf",1,1,36,"Average","lgbcls",1.83229129802888,7.80426584561058
+"Weekly","thetaf",1,1,36,"Average","lgbreg",1.95873176384954,7.92939191547412
+"Weekly","thetaf",1,1,36,"Average","ket hop ca 4",1.96727026492209,7.82686921495393
+"Weekly","thetaf",1,1,36,"Average","ket hop phan loai",1.82960915855748,7.77680158727895
+"Weekly","thetaf",1,1,36,"Average","ket hop hoi quy",1.94382440721154,7.88863377234131
+"Weekly","thetaf",1,1,36,"Total","Total series",2.86520083750723,7.58161549935791
+"Weekly","thetaf",1,2,36,"Actual","xgbcls",1.93714760148318,10.3207686833165
+"Weekly","thetaf",1,2,36,"Actual","xgbreg",2.00009799418294,10.3165934216796
+"Weekly","thetaf",1,2,36,"Actual","lgbcls",1.93044838495368,10.2741168078303
+"Weekly","thetaf",1,2,36,"Actual","lgbreg",1.92899893728768,10.2777196765567
+"Weekly","thetaf",1,2,36,"Actual","ket hop ca 4",1.92452057791711,10.2697746940063
+"Weekly","thetaf",1,2,36,"Actual","ket hop phan loai",1.93200111259142,10.284595568188
+"Weekly","thetaf",1,2,36,"Actual","ket hop hoi quy",1.93281415009122,10.2854752342822
+"Weekly","thetaf",1,2,36,"Average","xgbcls",1.90212343866117,10.2661934336954
+"Weekly","thetaf",1,2,36,"Average","xgbreg",1.95782013958077,10.2236659535792
+"Weekly","thetaf",1,2,36,"Average","lgbcls",1.95349661698898,10.3015554078973
+"Weekly","thetaf",1,2,36,"Average","lgbreg",1.93612130591223,10.3280911580667
+"Weekly","thetaf",1,2,36,"Average","ket hop ca 4",1.906202706515,10.2691944293304
+"Weekly","thetaf",1,2,36,"Average","ket hop phan loai",1.9322136786838,10.2823410549709
+"Weekly","thetaf",1,2,36,"Average","ket hop hoi quy",1.9191923314362,10.2636990133607
+"Weekly","thetaf",1,2,36,"Total","Total series",2.50219000752241,10.2585748844038
+"Weekly","thetaf",1,3,36,"Actual","xgbcls",2.15214042302134,9.53017826104271
+"Weekly","thetaf",1,3,36,"Actual","xgbreg",2.22723200505542,9.55175093584269
+"Weekly","thetaf",1,3,36,"Actual","lgbcls",2.05161438919321,9.4528407192138
+"Weekly","thetaf",1,3,36,"Actual","lgbreg",2.28335506160757,9.6498716664811
+"Weekly","thetaf",1,3,36,"Actual","ket hop ca 4",2.13054643413213,9.52560154661619
+"Weekly","thetaf",1,3,36,"Actual","ket hop phan loai",2.06250330075817,9.48480437493736
+"Weekly","thetaf",1,3,36,"Actual","ket hop hoi quy",2.23613388375388,9.5962804440138
+"Weekly","thetaf",1,3,36,"Average","xgbcls",2.11145066799321,9.58717456110412
+"Weekly","thetaf",1,3,36,"Average","xgbreg",2.31091164656711,9.62445218933288
+"Weekly","thetaf",1,3,36,"Average","lgbcls",2.12272753706744,9.64414261285744
+"Weekly","thetaf",1,3,36,"Average","lgbreg",2.32153383405952,9.68627696097773
+"Weekly","thetaf",1,3,36,"Average","ket hop ca 4",2.12746407467265,9.62433100453485
+"Weekly","thetaf",1,3,36,"Average","ket hop phan loai",2.11224620457821,9.61166625627052
+"Weekly","thetaf",1,3,36,"Average","ket hop hoi quy",2.28656390085593,9.65263012971222
+"Weekly","thetaf",1,3,36,"Total","Total series",2.4563076606068,9.51585496623981
+"Weekly","thetaf",1,4,36,"Actual","xgbcls",1.73615065177416,8.16707249317552
+"Weekly","thetaf",1,4,36,"Actual","xgbreg",1.71339790808363,8.07808921898908
+"Weekly","thetaf",1,4,36,"Actual","lgbcls",1.78049081141874,8.24778145073515
+"Weekly","thetaf",1,4,36,"Actual","lgbreg",1.74667709702115,8.23162540533071
+"Weekly","thetaf",1,4,36,"Actual","ket hop ca 4",1.72065323460594,8.09508674079953
+"Weekly","thetaf",1,4,36,"Actual","ket hop phan loai",1.72692584512701,8.19109770981637
+"Weekly","thetaf",1,4,36,"Actual","ket hop hoi quy",1.74067403317139,8.15003090159372
+"Weekly","thetaf",1,4,36,"Average","xgbcls",1.74796743513425,8.0456605128082
+"Weekly","thetaf",1,4,36,"Average","xgbreg",1.8162401898518,8.11213184137188
+"Weekly","thetaf",1,4,36,"Average","lgbcls",1.76627724767324,8.05670080554325
+"Weekly","thetaf",1,4,36,"Average","lgbreg",1.76469622523766,8.1186415276706
+"Weekly","thetaf",1,4,36,"Average","ket hop ca 4",1.81326255587641,8.07653751556546
+"Weekly","thetaf",1,4,36,"Average","ket hop phan loai",1.74579853714155,8.04957746500978
+"Weekly","thetaf",1,4,36,"Average","ket hop hoi quy",1.81345687355706,8.11032147848727
+"Weekly","thetaf",1,4,36,"Total","Total series",2.76620463726887,8.06419462580209
+"Weekly","thetaf",1,5,36,"Actual","xgbcls",2.13811279324973,6.76794395189703
+"Weekly","thetaf",1,5,36,"Actual","xgbreg",2.15874224451077,6.86007340957089
+"Weekly","thetaf",1,5,36,"Actual","lgbcls",2.07436266176906,6.96308848590583
+"Weekly","thetaf",1,5,36,"Actual","lgbreg",2.22049265681823,7.33268122631482
+"Weekly","thetaf",1,5,36,"Actual","ket hop ca 4",2.12817439871959,6.70832544437986
+"Weekly","thetaf",1,5,36,"Actual","ket hop phan loai",2.04151599878286,6.86049798124681
+"Weekly","thetaf",1,5,36,"Actual","ket hop hoi quy",2.18746285350542,6.88990160441687
+"Weekly","thetaf",1,5,36,"Average","xgbcls",2.01244636518892,6.83774747116261
+"Weekly","thetaf",1,5,36,"Average","xgbreg",2.14115586419779,6.89581292767169
+"Weekly","thetaf",1,5,36,"Average","lgbcls",2.05088980784298,6.85381129577117
+"Weekly","thetaf",1,5,36,"Average","lgbreg",2.12037111184601,7.2362128541753
+"Weekly","thetaf",1,5,36,"Average","ket hop ca 4",2.09826045546833,6.77351272201033
+"Weekly","thetaf",1,5,36,"Average","ket hop phan loai",2.06711506227186,6.84265782747697
+"Weekly","thetaf",1,5,36,"Average","ket hop hoi quy",2.11715188325166,6.85603450437353
+"Weekly","thetaf",1,5,36,"Total","Total series",2.30572397178224,6.90609324988722
+"Weekly","thetaf",1,6,36,"Actual","xgbcls",1.85602958714123,8.04657158897418
+"Weekly","thetaf",1,6,36,"Actual","xgbreg",1.84734632564893,7.75372407219897
+"Weekly","thetaf",1,6,36,"Actual","lgbcls",1.84704432765584,8.1580817034679
+"Weekly","thetaf",1,6,36,"Actual","lgbreg",1.86588140293982,7.88095583727167
+"Weekly","thetaf",1,6,36,"Actual","ket hop ca 4",1.85387914024002,7.88871256086738
+"Weekly","thetaf",1,6,36,"Actual","ket hop phan loai",1.84957225479711,8.05544489390157
+"Weekly","thetaf",1,6,36,"Actual","ket hop hoi quy",1.84844041415229,7.79816974479355
+"Weekly","thetaf",1,6,36,"Average","xgbcls",1.85474713357908,7.71745262569764
+"Weekly","thetaf",1,6,36,"Average","xgbreg",1.88801684438427,7.84142577081333
+"Weekly","thetaf",1,6,36,"Average","lgbcls",1.84744024830704,7.75829185635323
+"Weekly","thetaf",1,6,36,"Average","lgbreg",1.87369124514365,7.85513635821022
+"Weekly","thetaf",1,6,36,"Average","ket hop ca 4",1.89197294722096,7.75762672371856
+"Weekly","thetaf",1,6,36,"Average","ket hop phan loai",1.85622652517993,7.73743158442217
+"Weekly","thetaf",1,6,36,"Average","ket hop hoi quy",1.89135888157602,7.84775870449452
+"Weekly","thetaf",1,6,36,"Total","Total series",2.37003157059866,7.59145383385408
+"Weekly","thetaf",1,7,36,"Actual","xgbcls",1.6899325779783,9.1281751689014
+"Weekly","thetaf",1,7,36,"Actual","xgbreg",1.72323463212378,9.07696621131505
+"Weekly","thetaf",1,7,36,"Actual","lgbcls",1.63185875094186,9.11537842720202
+"Weekly","thetaf",1,7,36,"Actual","lgbreg",1.67908809060764,9.00001613927718
+"Weekly","thetaf",1,7,36,"Actual","ket hop ca 4",1.63986575955936,9.04360739382965
+"Weekly","thetaf",1,7,36,"Actual","ket hop phan loai",1.63415838401235,9.1207222207838
+"Weekly","thetaf",1,7,36,"Actual","ket hop hoi quy",1.7034536696583,9.02938663614868
+"Weekly","thetaf",1,7,36,"Average","xgbcls",1.63582086749169,8.94272723940834
+"Weekly","thetaf",1,7,36,"Average","xgbreg",1.64481099411844,8.86018132443317
+"Weekly","thetaf",1,7,36,"Average","lgbcls",1.66457805247614,8.97805882054149
+"Weekly","thetaf",1,7,36,"Average","lgbreg",1.69034510765046,9.01253828659986
+"Weekly","thetaf",1,7,36,"Average","ket hop ca 4",1.6372292063341,8.91874856234366
+"Weekly","thetaf",1,7,36,"Average","ket hop phan loai",1.64472162166416,8.95997955769304
+"Weekly","thetaf",1,7,36,"Average","ket hop hoi quy",1.65210524983378,8.90419597038939
+"Weekly","thetaf",1,7,36,"Total","Total series",2.0336119867626,9.08788571201183
+"Weekly","thetaf",1,8,36,"Actual","xgbcls",1.9442954117572,7.08976441376413
+"Weekly","thetaf",1,8,36,"Actual","xgbreg",1.89322708167231,6.95653583677941
+"Weekly","thetaf",1,8,36,"Actual","lgbcls",1.87086701472468,7.09245029124667
+"Weekly","thetaf",1,8,36,"Actual","lgbreg",1.91223557196854,7.158552158134
+"Weekly","thetaf",1,8,36,"Actual","ket hop ca 4",1.8151314451851,7.07075635903696
+"Weekly","thetaf",1,8,36,"Actual","ket hop phan loai",1.86408624651754,7.0901394197814
+"Weekly","thetaf",1,8,36,"Actual","ket hop hoi quy",1.86775038048513,7.05670316237924
+"Weekly","thetaf",1,8,36,"Average","xgbcls",1.86886404757144,6.78678927627792
+"Weekly","thetaf",1,8,36,"Average","xgbreg",1.91855120475892,6.9840962060512
+"Weekly","thetaf",1,8,36,"Average","lgbcls",1.80619735065335,6.89658780504929
+"Weekly","thetaf",1,8,36,"Average","lgbreg",1.89479398822957,6.97430301348081
+"Weekly","thetaf",1,8,36,"Average","ket hop ca 4",1.7849883928343,6.87201909256032
+"Weekly","thetaf",1,8,36,"Average","ket hop phan loai",1.79093599852842,6.84010264240466
+"Weekly","thetaf",1,8,36,"Average","ket hop hoi quy",1.88857638022792,6.97617433850461
+"Weekly","thetaf",1,8,36,"Total","Total series",2.53484736971511,6.74459441786499
+"Weekly","thetaf",1,9,36,"Actual","xgbcls",2.32974447422751,10.1201102042374
+"Weekly","thetaf",1,9,36,"Actual","xgbreg",2.37560231049428,10.2565854630779
+"Weekly","thetaf",1,9,36,"Actual","lgbcls",2.40161878380567,10.0656448763113
+"Weekly","thetaf",1,9,36,"Actual","lgbreg",2.36853682074728,10.2305827364319
+"Weekly","thetaf",1,9,36,"Actual","ket hop ca 4",2.34324943215198,10.127548749945
+"Weekly","thetaf",1,9,36,"Actual","ket hop phan loai",2.31968464002552,10.0846224555572
+"Weekly","thetaf",1,9,36,"Actual","ket hop hoi quy",2.37914188909212,10.2399857308784
+"Weekly","thetaf",1,9,36,"Average","xgbcls",2.3215947017034,10.0990669655387
+"Weekly","thetaf",1,9,36,"Average","xgbreg",2.80798279945497,10.2114142699461
+"Weekly","thetaf",1,9,36,"Average","lgbcls",2.33797830065022,10.0982482324236
+"Weekly","thetaf",1,9,36,"Average","lgbreg",2.40899200368542,10.2604397419375
+"Weekly","thetaf",1,9,36,"Average","ket hop ca 4",2.62585277550981,10.1456284690095
+"Weekly","thetaf",1,9,36,"Average","ket hop phan loai",2.34017751676203,10.0938286130788
+"Weekly","thetaf",1,9,36,"Average","ket hop hoi quy",2.71053365368201,10.2344457696849
+"Weekly","thetaf",1,9,36,"Total","Total series",3.90907056247698,10.2637477901604
+"Weekly","thetaf",1,10,35,"Actual","xgbcls",2.16230299836024,8.99453515492458
+"Weekly","thetaf",1,10,35,"Actual","xgbreg",2.1797913237358,8.96001081517793
+"Weekly","thetaf",1,10,35,"Actual","lgbcls",2.17262462365882,9.02253652637006
+"Weekly","thetaf",1,10,35,"Actual","lgbreg",2.20860910948681,9.0590124855801
+"Weekly","thetaf",1,10,35,"Actual","ket hop ca 4",2.09860987191755,8.99243356002791
+"Weekly","thetaf",1,10,35,"Actual","ket hop phan loai",2.14712958823612,9.00853584064732
+"Weekly","thetaf",1,10,35,"Actual","ket hop hoi quy",2.16615152369924,9.00006224840205
+"Weekly","thetaf",1,10,35,"Average","xgbcls",2.11424607367171,8.98002644803561
+"Weekly","thetaf",1,10,35,"Average","xgbreg",2.1617791832073,8.84473987433455
+"Weekly","thetaf",1,10,35,"Average","lgbcls",2.07356735058277,9.02239792180877
+"Weekly","thetaf",1,10,35,"Average","lgbreg",2.21049040113102,8.84117838088881
+"Weekly","thetaf",1,10,35,"Average","ket hop ca 4",2.17984919910684,8.9129570658661
+"Weekly","thetaf",1,10,35,"Average","ket hop phan loai",2.09690486118869,8.99204149584318
+"Weekly","thetaf",1,10,35,"Average","ket hop hoi quy",2.19417762671565,8.84104602468467
+"Weekly","thetaf",1,10,35,"Total","Total series",2.64380571192076,8.9387733898059
+"Daily","ets",1,1,423,"Actual","xgbcls",2.94023081213144,6.86812710108803
+"Daily","ets",1,1,423,"Actual","xgbreg",3.01131449056074,6.85243262330801
+"Daily","ets",1,1,423,"Actual","lgbcls",2.95099455035459,6.86216841629389
+"Daily","ets",1,1,423,"Actual","lgbreg",3.0065705197865,7.00902816799626
+"Daily","ets",1,1,423,"Actual","ket hop ca 4",3.00545741257387,6.89425250906292
+"Daily","ets",1,1,423,"Actual","ket hop phan loai",2.93645686212985,6.86508704539266
+"Daily","ets",1,1,423,"Actual","ket hop hoi quy",3.01553855477452,6.92844435497565
+"Daily","ets",1,1,423,"Average","xgbcls",2.91703375064622,6.85311588929608
+"Daily","ets",1,1,423,"Average","xgbreg",3.03182283186078,7.13541265082046
+"Daily","ets",1,1,423,"Average","lgbcls",2.93631053017368,6.86031076028692
+"Daily","ets",1,1,423,"Average","lgbreg",2.95837830758048,6.69613751211031
+"Daily","ets",1,1,423,"Average","ket hop ca 4",3.02332615990229,6.88344363186803
+"Daily","ets",1,1,423,"Average","ket hop phan loai",2.91726893828056,6.85489603784737
+"Daily","ets",1,1,423,"Average","ket hop hoi quy",3.02767414037274,6.91340693252879
+"Daily","ets",1,1,423,"Total","Total series",3.58678291846274,6.17825783300321
+"Daily","ets",1,2,423,"Actual","xgbcls",2.5257224426567,2.82281124466945
+"Daily","ets",1,2,423,"Actual","xgbreg",2.6180244597078,2.8141219232953
+"Daily","ets",1,2,423,"Actual","lgbcls",2.55121328681452,2.83071009821704
+"Daily","ets",1,2,423,"Actual","lgbreg",2.61169202386126,2.83267415368475
+"Daily","ets",1,2,423,"Actual","ket hop ca 4",2.62729704389019,2.82242358536316
+"Daily","ets",1,2,423,"Actual","ket hop phan loai",2.5322126190303,2.82607588307202
+"Daily","ets",1,2,423,"Actual","ket hop hoi quy",2.63060000228043,2.82130230835325
+"Daily","ets",1,2,423,"Average","xgbcls",2.55238281649451,2.82644590180365
+"Daily","ets",1,2,423,"Average","xgbreg",2.62889096405824,2.83213166269162
+"Daily","ets",1,2,423,"Average","lgbcls",2.55895502942736,2.83781700966165
+"Daily","ets",1,2,423,"Average","lgbreg",2.64363463058453,2.83939537004864
+"Daily","ets",1,2,423,"Average","ket hop ca 4",2.66370798518944,2.8303135529414
+"Daily","ets",1,2,423,"Average","ket hop phan loai",2.57957134461345,2.83178037696375
+"Daily","ets",1,2,423,"Average","ket hop hoi quy",2.64166363618581,2.83480876577778
+"Daily","ets",1,2,423,"Total","Total series",3.09163805137591,2.82031136629805
+"Daily","ets",1,3,423,"Actual","xgbcls",2.7731971824024,2.96283896457245
+"Daily","ets",1,3,423,"Actual","xgbreg",2.82373757857491,2.81951629062238
+"Daily","ets",1,3,423,"Actual","lgbcls",2.77087474375965,2.96164941428017
+"Daily","ets",1,3,423,"Actual","lgbreg",2.77683842939576,2.81777760231559
+"Daily","ets",1,3,423,"Actual","ket hop ca 4",2.83762050817948,2.88877906541936
+"Daily","ets",1,3,423,"Actual","ket hop phan loai",2.77480132339909,2.96191085849353
+"Daily","ets",1,3,423,"Actual","ket hop hoi quy",2.82638853940459,2.81789591700296
+"Daily","ets",1,3,423,"Average","xgbcls",2.75904035571722,2.81769952583889
+"Daily","ets",1,3,423,"Average","xgbreg",2.82286017805771,2.85956551904337
+"Daily","ets",1,3,423,"Average","lgbcls",2.7640273811903,2.97790599797311
+"Daily","ets",1,3,423,"Average","lgbreg",2.80505955276657,2.86737023865424
+"Daily","ets",1,3,423,"Average","ket hop ca 4",2.84261229008357,2.87711623060442
+"Daily","ets",1,3,423,"Average","ket hop phan loai",2.77644302743455,2.89683236704875
+"Daily","ets",1,3,423,"Average","ket hop hoi quy",2.8337745294865,2.86195162506779
+"Daily","ets",1,3,423,"Total","Total series",3.24928022183475,2.9460779142182
+"Daily","ets",1,4,423,"Actual","xgbcls",2.73493776463562,5.48767215695436
+"Daily","ets",1,4,423,"Actual","xgbreg",2.8095855951236,5.61479255433219
+"Daily","ets",1,4,423,"Actual","lgbcls",2.73460740053223,5.48541882605724
+"Daily","ets",1,4,423,"Actual","lgbreg",2.76205158580114,5.55684083066436
+"Daily","ets",1,4,423,"Actual","ket hop ca 4",2.80084679846416,5.53332856475041
+"Daily","ets",1,4,423,"Actual","ket hop phan loai",2.73339144738546,5.48549277607672
+"Daily","ets",1,4,423,"Actual","ket hop hoi quy",2.79694088466961,5.58550391030996
+"Daily","ets",1,4,423,"Average","xgbcls",2.71208901876489,5.46029408183527
+"Daily","ets",1,4,423,"Average","xgbreg",2.84554767579471,5.86886647348841
+"Daily","ets",1,4,423,"Average","lgbcls",2.72239621507962,5.46399022669955
+"Daily","ets",1,4,423,"Average","lgbreg",2.83188253485145,5.60640771951302
+"Daily","ets",1,4,423,"Average","ket hop ca 4",2.86441063731183,5.59773115251501
+"Daily","ets",1,4,423,"Average","ket hop phan loai",2.72709992010568,5.46193446111181
+"Daily","ets",1,4,423,"Average","ket hop hoi quy",2.85833868047541,5.73736681739173
+"Daily","ets",1,4,423,"Total","Total series",3.25099840281345,4.35164468656564
+"Daily","ets",1,5,423,"Actual","xgbcls",2.7324289159533,5.6587283818593
+"Daily","ets",1,5,423,"Actual","xgbreg",2.79056776946329,5.58086317165378
+"Daily","ets",1,5,423,"Actual","lgbcls",2.74247832117328,5.6640965994135
+"Daily","ets",1,5,423,"Actual","lgbreg",2.80718587802772,5.65149516006094
+"Daily","ets",1,5,423,"Actual","ket hop ca 4",2.83280579113991,5.63188424696549
+"Daily","ets",1,5,423,"Actual","ket hop phan loai",2.7395285013396,5.66055517074269
+"Daily","ets",1,5,423,"Actual","ket hop hoi quy",2.82387141477072,5.6138065252277
+"Daily","ets",1,5,423,"Average","xgbcls",2.75019566096945,5.67322263161318
+"Daily","ets",1,5,423,"Average","xgbreg",2.85704866037224,5.59627800339928
+"Daily","ets",1,5,423,"Average","lgbcls",2.75697872322891,5.66677818330126
+"Daily","ets",1,5,423,"Average","lgbreg",2.84086078574032,5.65998024041098
+"Daily","ets",1,5,423,"Average","ket hop ca 4",2.84033653001514,5.64242591851437
+"Daily","ets",1,5,423,"Average","ket hop phan loai",2.76426498308337,5.66890411642507
+"Daily","ets",1,5,423,"Average","ket hop hoi quy",2.86908414541253,5.62716486318867
+"Daily","ets",1,5,423,"Total","Total series",3.42400529360675,5.75723596016738
+"Daily","ets",1,6,423,"Actual","xgbcls",2.49527748637636,2.56497002359718
+"Daily","ets",1,6,423,"Actual","xgbreg",2.48305672967564,2.61594610905986
+"Daily","ets",1,6,423,"Actual","lgbcls",2.47356189287979,2.60951548173766
+"Daily","ets",1,6,423,"Actual","lgbreg",2.48910279705891,2.56992952891605
+"Daily","ets",1,6,423,"Actual","ket hop ca 4",2.47892293721342,2.58587593056964
+"Daily","ets",1,6,423,"Actual","ket hop phan loai",2.45969221236762,2.58645265372461
+"Daily","ets",1,6,423,"Actual","ket hop hoi quy",2.4905577442633,2.59064536825175
+"Daily","ets",1,6,423,"Average","xgbcls",2.45965460054971,2.55524619974971
+"Daily","ets",1,6,423,"Average","xgbreg",2.5168747459924,2.62194138844796
+"Daily","ets",1,6,423,"Average","lgbcls",2.45287376211403,2.56293930492759
+"Daily","ets",1,6,423,"Average","lgbreg",2.49497277092189,2.55128149801323
+"Daily","ets",1,6,423,"Average","ket hop ca 4",2.48873800893618,2.56484250011627
+"Daily","ets",1,6,423,"Average","ket hop phan loai",2.451614037647,2.55372152479255
+"Daily","ets",1,6,423,"Average","ket hop hoi quy",2.51285303425824,2.58263474250503
+"Daily","ets",1,6,423,"Total","Total series",2.79224220375063,2.56829166387288
+"Daily","ets",1,7,423,"Actual","xgbcls",2.51258804489543,2.61946509739794
+"Daily","ets",1,7,423,"Actual","xgbreg",2.56714740647049,2.91968595012097
+"Daily","ets",1,7,423,"Actual","lgbcls",2.50814484276459,2.62541273167249
+"Daily","ets",1,7,423,"Actual","lgbreg",2.53151475709217,2.61148330832314
+"Daily","ets",1,7,423,"Actual","ket hop ca 4",2.52432657027692,2.69209593322993
+"Daily","ets",1,7,423,"Actual","ket hop phan loai",2.50964467571174,2.62149217691273
+"Daily","ets",1,7,423,"Actual","ket hop hoi quy",2.55183899023473,2.76486565785411
+"Daily","ets",1,7,423,"Average","xgbcls",2.48242429914137,2.63240806398083
+"Daily","ets",1,7,423,"Average","xgbreg",2.54227066273979,2.90833436210477
+"Daily","ets",1,7,423,"Average","lgbcls",2.47594033386002,2.63180326231799
+"Daily","ets",1,7,423,"Average","lgbreg",2.53844282089273,2.93559941911891
+"Daily","ets",1,7,423,"Average","ket hop ca 4",2.54959794057854,2.77514346798599
+"Daily","ets",1,7,423,"Average","ket hop phan loai",2.47854337708986,2.63156006091282
+"Daily","ets",1,7,423,"Average","ket hop hoi quy",2.54900164963345,2.92066948670154
+"Daily","ets",1,7,423,"Total","Total series",2.96138745465206,3.41492847053858
+"Daily","ets",1,8,422,"Actual","xgbcls",2.53614579140636,2.76937313036113
+"Daily","ets",1,8,422,"Actual","xgbreg",2.58493118463153,2.90819588223364
+"Daily","ets",1,8,422,"Actual","lgbcls",2.54425712663668,2.77414617411435
+"Daily","ets",1,8,422,"Actual","lgbreg",2.57430360805455,2.89677629810309
+"Daily","ets",1,8,422,"Actual","ket hop ca 4",2.57555336622961,2.82686318640567
+"Daily","ets",1,8,422,"Actual","ket hop phan loai",2.53815703218477,2.77130227423099
+"Daily","ets",1,8,422,"Actual","ket hop hoi quy",2.58384222946451,2.90196639225821
+"Daily","ets",1,8,422,"Average","xgbcls",2.53195142711947,2.76590136795341
+"Daily","ets",1,8,422,"Average","xgbreg",2.56433162436216,2.86367153175133
+"Daily","ets",1,8,422,"Average","lgbcls",2.54125289565654,2.76759164745341
+"Daily","ets",1,8,422,"Average","lgbreg",2.58058908992598,2.8799367003673
+"Daily","ets",1,8,422,"Average","ket hop ca 4",2.59408255504903,2.81243413643526
+"Daily","ets",1,8,422,"Average","ket hop phan loai",2.54665734285719,2.76596354021291
+"Daily","ets",1,8,422,"Average","ket hop hoi quy",2.583879830228,2.8687526349182
+"Daily","ets",1,8,422,"Total","Total series",3.04618552682337,2.87056146524823
+"Daily","ets",1,9,422,"Actual","xgbcls",2.64519645537608,3.64589420073056
+"Daily","ets",1,9,422,"Actual","xgbreg",2.72757396570364,3.64371461737689
+"Daily","ets",1,9,422,"Actual","lgbcls",2.61458538617152,3.64113995360006
+"Daily","ets",1,9,422,"Actual","lgbreg",2.70287579970406,3.65111364253267
+"Daily","ets",1,9,422,"Actual","ket hop ca 4",2.69631113617702,3.64087848996191
+"Daily","ets",1,9,422,"Actual","ket hop phan loai",2.61151516821218,3.64325019411307
+"Daily","ets",1,9,422,"Actual","ket hop hoi quy",2.71670194376419,3.64638690136808
+"Daily","ets",1,9,422,"Average","xgbcls",2.64481207501313,3.658430094772
+"Daily","ets",1,9,422,"Average","xgbreg",2.74571950545039,3.68607043561194
+"Daily","ets",1,9,422,"Average","lgbcls",2.61477452730404,3.65282187898507
+"Daily","ets",1,9,422,"Average","lgbreg",2.71880286845469,3.65921579433371
+"Daily","ets",1,9,422,"Average","ket hop ca 4",2.72518286418427,3.66035098554343
+"Daily","ets",1,9,422,"Average","ket hop phan loai",2.63314936137237,3.65525507908173
+"Daily","ets",1,9,422,"Average","ket hop hoi quy",2.73755912262242,3.67160453849034
+"Daily","ets",1,9,422,"Total","Total series",3.14565927751855,3.60298605542017
+"Daily","ets",1,10,422,"Actual","xgbcls",2.83178566194868,5.56581818434871
+"Daily","ets",1,10,422,"Actual","xgbreg",3.02896640936982,5.528577602528
+"Daily","ets",1,10,422,"Actual","lgbcls",2.89697329661745,5.57868885881622
+"Daily","ets",1,10,422,"Actual","lgbreg",3.06808694991275,5.3050104247012
+"Daily","ets",1,10,422,"Actual","ket hop ca 4",3.16145760388751,5.4879237534701
+"Daily","ets",1,10,422,"Actual","ket hop phan loai",2.89398556649404,5.56979709963206
+"Daily","ets",1,10,422,"Actual","ket hop hoi quy",3.15416044006617,5.4136429480251
+"Daily","ets",1,10,422,"Average","xgbcls",2.86539192822755,5.57221873034775
+"Daily","ets",1,10,422,"Average","xgbreg",3.10767747711766,5.80850294343144
+"Daily","ets",1,10,422,"Average","lgbcls",2.92547684907132,5.53699410375833
+"Daily","ets",1,10,422,"Average","lgbreg",3.1252069416338,5.58698621200565
+"Daily","ets",1,10,422,"Average","ket hop ca 4",3.17051129465287,5.50851184316862
+"Daily","ets",1,10,422,"Average","ket hop phan loai",2.94402455766322,5.55066434426264
+"Daily","ets",1,10,422,"Average","ket hop hoi quy",3.14599183791038,5.6975655859312
+"Daily","ets",1,10,422,"Total","Total series",3.97900597215652,5.64263930058798
+"Daily","thetaf",1,1,423,"Actual","xgbcls",2.90622264762247,5.49377527979482
+"Daily","thetaf",1,1,423,"Actual","xgbreg",2.97206639663308,6.3236501375186
+"Daily","thetaf",1,1,423,"Actual","lgbcls",2.89615931268485,5.49751550579593
+"Daily","thetaf",1,1,423,"Actual","lgbreg",2.9090422147095,5.52602050992483
+"Daily","thetaf",1,1,423,"Actual","ket hop ca 4",2.95835724735348,5.70332473296914
+"Daily","thetaf",1,1,423,"Actual","ket hop phan loai",2.89157858201502,5.49441373131618
+"Daily","thetaf",1,1,423,"Actual","ket hop hoi quy",2.95554889913714,5.92188640527371
+"Daily","thetaf",1,1,423,"Average","xgbcls",2.914733765164,6.1605228190166
+"Daily","thetaf",1,1,423,"Average","xgbreg",2.97870049322097,5.75624956350733
+"Daily","thetaf",1,1,423,"Average","lgbcls",2.94092352988662,5.81472940877123
+"Daily","thetaf",1,1,423,"Average","lgbreg",2.96669387685448,5.85308145327924
+"Daily","thetaf",1,1,423,"Average","ket hop ca 4",3.00350516281312,5.89056043673173
+"Daily","thetaf",1,1,423,"Average","ket hop phan loai",2.96230333168486,5.98153511854038
+"Daily","thetaf",1,1,423,"Average","ket hop hoi quy",2.98670987305422,5.80337943530916
+"Daily","thetaf",1,1,423,"Total","Total series",3.56927611511834,6.88511646523374
+"Daily","thetaf",1,2,423,"Actual","xgbcls",2.4982892747543,2.85294157426664
+"Daily","thetaf",1,2,423,"Actual","xgbreg",2.57138815719437,2.80159726191594
+"Daily","thetaf",1,2,423,"Actual","lgbcls",2.51249520953933,2.85870979533338
+"Daily","thetaf",1,2,423,"Actual","lgbreg",2.56922254610882,2.82265386880306
+"Daily","thetaf",1,2,423,"Actual","ket hop ca 4",2.56656588485412,2.82806628537589
+"Daily","thetaf",1,2,423,"Actual","ket hop phan loai",2.5029955566995,2.85343406993144
+"Daily","thetaf",1,2,423,"Actual","ket hop hoi quy",2.58147715130149,2.80930955706041
+"Daily","thetaf",1,2,423,"Average","xgbcls",2.50549446372383,2.83475608052575
+"Daily","thetaf",1,2,423,"Average","xgbreg",2.58022324720255,2.82060330630889
+"Daily","thetaf",1,2,423,"Average","lgbcls",2.48396674207841,2.81640441918869
+"Daily","thetaf",1,2,423,"Average","lgbreg",2.57581422719274,2.82164808552043
+"Daily","thetaf",1,2,423,"Average","ket hop ca 4",2.60400262480854,2.81953368066877
+"Daily","thetaf",1,2,423,"Average","ket hop phan loai",2.50698942975997,2.82396011165448
+"Daily","thetaf",1,2,423,"Average","ket hop hoi quy",2.58747235154257,2.81893525757114
+"Daily","thetaf",1,2,423,"Total","Total series",3.0521282998965,2.82348852133668
+"Daily","thetaf",1,3,423,"Actual","xgbcls",2.6921453749077,3.0428875970805
+"Daily","thetaf",1,3,423,"Actual","xgbreg",2.76092796364333,3.14900033634495
+"Daily","thetaf",1,3,423,"Actual","lgbcls",2.71741080909399,3.0722644080228
+"Daily","thetaf",1,3,423,"Actual","lgbreg",2.76347981712291,3.18344583858628
+"Daily","thetaf",1,3,423,"Actual","ket hop ca 4",2.75198189111366,3.10117112592817
+"Daily","thetaf",1,3,423,"Actual","ket hop phan loai",2.70312995446471,3.0532679296313
+"Daily","thetaf",1,3,423,"Actual","ket hop hoi quy",2.75810148738284,3.16378479857634
+"Daily","thetaf",1,3,423,"Average","xgbcls",2.73758107306145,3.17631687216899
+"Daily","thetaf",1,3,423,"Average","xgbreg",2.81537112178246,3.28694743925028
+"Daily","thetaf",1,3,423,"Average","lgbcls",2.72306990061548,3.1791977915598
+"Daily","thetaf",1,3,423,"Average","lgbreg",2.78411644611933,3.20029256505444
+"Daily","thetaf",1,3,423,"Average","ket hop ca 4",2.82207572503583,3.20375201291629
+"Daily","thetaf",1,3,423,"Average","ket hop phan loai",2.73356635600194,3.17551790476254
+"Daily","thetaf",1,3,423,"Average","ket hop hoi quy",2.82729114825132,3.24126955006855
+"Daily","thetaf",1,3,423,"Total","Total series",3.2109888792712,3.22798098330711
+"Daily","thetaf",1,4,423,"Actual","xgbcls",2.67780549021166,4.41070848466036
+"Daily","thetaf",1,4,423,"Actual","xgbreg",2.72935510653526,4.48062604382459
+"Daily","thetaf",1,4,423,"Actual","lgbcls",2.67638871612567,4.41920358971399
+"Daily","thetaf",1,4,423,"Actual","lgbreg",2.75148297628934,4.48141743872254
+"Daily","thetaf",1,4,423,"Actual","ket hop ca 4",2.73645644848209,4.441977949081
+"Daily","thetaf",1,4,423,"Actual","ket hop phan loai",2.67190082408777,4.4134800589287
+"Daily","thetaf",1,4,423,"Actual","ket hop hoi quy",2.73762442065011,4.4803443264359
+"Daily","thetaf",1,4,423,"Average","xgbcls",2.68652961757194,4.40942326409789
+"Daily","thetaf",1,4,423,"Average","xgbreg",2.76813320885254,4.44893524347258
+"Daily","thetaf",1,4,423,"Average","lgbcls",2.71696548346943,4.42616762205745
+"Daily","thetaf",1,4,423,"Average","lgbreg",2.78226900873389,4.46716613633872
+"Daily","thetaf",1,4,423,"Average","ket hop ca 4",2.79059446408502,4.43329544150481
+"Daily","thetaf",1,4,423,"Average","ket hop phan loai",2.70575535893587,4.41646743243078
+"Daily","thetaf",1,4,423,"Average","ket hop hoi quy",2.7845424721364,4.45640997280695
+"Daily","thetaf",1,4,423,"Total","Total series",3.31673456251411,4.81949735496304
+"Daily","thetaf",1,5,423,"Actual","xgbcls",2.72607809162447,4.52456994715879
+"Daily","thetaf",1,5,423,"Actual","xgbreg",2.78342430951465,4.37547886110561
+"Daily","thetaf",1,5,423,"Actual","lgbcls",2.7318629772848,4.5327457290767
+"Daily","thetaf",1,5,423,"Actual","lgbreg",2.7775449232193,4.4156295408262
+"Daily","thetaf",1,5,423,"Actual","ket hop ca 4",2.77995951653013,4.35198251547366
+"Daily","thetaf",1,5,423,"Actual","ket hop phan loai",2.72639309491815,4.52641640154688
+"Daily","thetaf",1,5,423,"Actual","ket hop hoi quy",2.783898035801,4.39459789672891
+"Daily","thetaf",1,5,423,"Average","xgbcls",2.75593521908204,4.58835876429749
+"Daily","thetaf",1,5,423,"Average","xgbreg",2.79191632769675,4.4634550483189
+"Daily","thetaf",1,5,423,"Average","lgbcls",2.73229825478713,4.5891279411121
+"Daily","thetaf",1,5,423,"Average","lgbreg",2.78160329338426,4.36868476480073
+"Daily","thetaf",1,5,423,"Average","ket hop ca 4",2.80440239433082,4.35098440131263
+"Daily","thetaf",1,5,423,"Average","ket hop phan loai",2.74707230489646,4.58787955607975
+"Daily","thetaf",1,5,423,"Average","ket hop hoi quy",2.80292645898348,4.41543307547752
+"Daily","thetaf",1,5,423,"Total","Total series",3.33140100255809,4.55447186492806
+"Daily","thetaf",1,6,423,"Actual","xgbcls",2.49111882563475,2.58885429348998
+"Daily","thetaf",1,6,423,"Actual","xgbreg",2.5285276562807,2.60373803479449
+"Daily","thetaf",1,6,423,"Actual","lgbcls",2.49106505539748,2.59627590136126
+"Daily","thetaf",1,6,423,"Actual","lgbreg",2.50367738866732,2.5914331660177
+"Daily","thetaf",1,6,423,"Actual","ket hop ca 4",2.50654747237208,2.5846596620063
+"Daily","thetaf",1,6,423,"Actual","ket hop phan loai",2.48340570153788,2.586281813553
+"Daily","thetaf",1,6,423,"Actual","ket hop hoi quy",2.52153416000021,2.59437842056576
+"Daily","thetaf",1,6,423,"Average","xgbcls",2.47685047225268,2.69119052207458
+"Daily","thetaf",1,6,423,"Average","xgbreg",2.48909390705216,2.66414417184147
+"Daily","thetaf",1,6,423,"Average","lgbcls",2.46801946267075,2.64703174026247
+"Daily","thetaf",1,6,423,"Average","lgbreg",2.48904306388791,2.67362993440251
+"Daily","thetaf",1,6,423,"Average","ket hop ca 4",2.51144000326359,2.66459098293846
+"Daily","thetaf",1,6,423,"Average","ket hop phan loai",2.47796325157702,2.66670447953807
+"Daily","thetaf",1,6,423,"Average","ket hop hoi quy",2.50084968378121,2.66793549785347
+"Daily","thetaf",1,6,423,"Total","Total series",2.79253027614052,2.65107248248937
+"Daily","thetaf",1,7,423,"Actual","xgbcls",2.5110502691094,3.63952375966707
+"Daily","thetaf",1,7,423,"Actual","xgbreg",2.51054363111719,3.61131688315369
+"Daily","thetaf",1,7,423,"Actual","lgbcls",2.51103064753715,3.63557258448133
+"Daily","thetaf",1,7,423,"Actual","lgbreg",2.51901611024121,3.60117018680297
+"Daily","thetaf",1,7,423,"Actual","ket hop ca 4",2.50726660061178,3.60174985716876
+"Daily","thetaf",1,7,423,"Actual","ket hop phan loai",2.49948697310514,3.63580642642631
+"Daily","thetaf",1,7,423,"Actual","ket hop hoi quy",2.52480650736791,3.60220175248198
+"Daily","thetaf",1,7,423,"Average","xgbcls",2.52151913590729,3.63129374965374
+"Daily","thetaf",1,7,423,"Average","xgbreg",2.57461305191409,3.96962005791361
+"Daily","thetaf",1,7,423,"Average","lgbcls",2.47883710431467,3.61645649507822
+"Daily","thetaf",1,7,423,"Average","lgbreg",2.58550520352175,3.98057116408553
+"Daily","thetaf",1,7,423,"Average","ket hop ca 4",2.58686869265366,3.79734135312026
+"Daily","thetaf",1,7,423,"Average","ket hop phan loai",2.5180728664242,3.62309675595161
+"Daily","thetaf",1,7,423,"Average","ket hop hoi quy",2.5832902078789,3.97458356609538
+"Daily","thetaf",1,7,423,"Total","Total series",3.00369207734172,3.98607806169382
+"Daily","thetaf",1,8,422,"Actual","xgbcls",2.53355119182442,2.74747731649914
+"Daily","thetaf",1,8,422,"Actual","xgbreg",2.54796503869241,2.78967547973657
+"Daily","thetaf",1,8,422,"Actual","lgbcls",2.52246734401711,2.73619975292102
+"Daily","thetaf",1,8,422,"Actual","lgbreg",2.54496114180781,2.78873112155305
+"Daily","thetaf",1,8,422,"Actual","ket hop ca 4",2.55372285126612,2.75939515677408
+"Daily","thetaf",1,8,422,"Actual","ket hop phan loai",2.52638164800959,2.73963954873958
+"Daily","thetaf",1,8,422,"Actual","ket hop hoi quy",2.55863118785489,2.78779226951391
+"Daily","thetaf",1,8,422,"Average","xgbcls",2.5364897337113,2.77624829088773
+"Daily","thetaf",1,8,422,"Average","xgbreg",2.57722854409962,2.79136338887174
+"Daily","thetaf",1,8,422,"Average","lgbcls",2.51905097869606,2.7521613208905
+"Daily","thetaf",1,8,422,"Average","lgbreg",2.56487413391107,2.77866979855575
+"Daily","thetaf",1,8,422,"Average","ket hop ca 4",2.58998232081106,2.76903499280606
+"Daily","thetaf",1,8,422,"Average","ket hop phan loai",2.52695894323727,2.76248611059972
+"Daily","thetaf",1,8,422,"Average","ket hop hoi quy",2.59085886994726,2.78404998366293
+"Daily","thetaf",1,8,422,"Total","Total series",3.03339864457755,2.78461838509185
+"Daily","thetaf",1,9,422,"Actual","xgbcls",2.64974717076454,3.76192749367444
+"Daily","thetaf",1,9,422,"Actual","xgbreg",2.67159994493477,3.86600419463094
+"Daily","thetaf",1,9,422,"Actual","lgbcls",2.65452159127805,3.77338809714675
+"Daily","thetaf",1,9,422,"Actual","lgbreg",2.70319778931553,3.86971816102475
+"Daily","thetaf",1,9,422,"Actual","ket hop ca 4",2.68254174635351,3.81105226119326
+"Daily","thetaf",1,9,422,"Actual","ket hop phan loai",2.64932434897962,3.76533539352921
+"Daily","thetaf",1,9,422,"Actual","ket hop hoi quy",2.68741394657404,3.86679668552606
+"Daily","thetaf",1,9,422,"Average","xgbcls",2.65411888991647,3.7782768543414
+"Daily","thetaf",1,9,422,"Average","xgbreg",2.71287528130819,3.85669006581255
+"Daily","thetaf",1,9,422,"Average","lgbcls",2.65231882501121,3.79949460008447
+"Daily","thetaf",1,9,422,"Average","lgbreg",2.7267418267177,3.86402308125668
+"Daily","thetaf",1,9,422,"Average","ket hop ca 4",2.74630034659288,3.8218302689452
+"Daily","thetaf",1,9,422,"Average","ket hop phan loai",2.65649677479598,3.78763437865126
+"Daily","thetaf",1,9,422,"Average","ket hop hoi quy",2.73024775759432,3.85916227812449
+"Daily","thetaf",1,9,422,"Total","Total series",3.19600970768913,3.86380858693704
+"Daily","thetaf",1,10,422,"Actual","xgbcls",2.85052856337343,5.656357300515
+"Daily","thetaf",1,10,422,"Actual","xgbreg",3.05834453484227,5.74604391550522
+"Daily","thetaf",1,10,422,"Actual","lgbcls",2.85586606077608,5.64760469623694
+"Daily","thetaf",1,10,422,"Actual","lgbreg",2.97978449890079,5.63749004309765
+"Daily","thetaf",1,10,422,"Actual","ket hop ca 4",3.07790819312245,5.64742187567737
+"Daily","thetaf",1,10,422,"Actual","ket hop phan loai",2.84375329852424,5.65046495647586
+"Daily","thetaf",1,10,422,"Actual","ket hop hoi quy",3.09417979845448,5.66177664370016
+"Daily","thetaf",1,10,422,"Average","xgbcls",2.85215052636077,5.61880784488496
+"Daily","thetaf",1,10,422,"Average","xgbreg",3.10419262567169,5.91870802324769
+"Daily","thetaf",1,10,422,"Average","lgbcls",2.87585871245073,5.63499173187309
+"Daily","thetaf",1,10,422,"Average","lgbreg",3.11095361523263,6.22467316032397
+"Daily","thetaf",1,10,422,"Average","ket hop ca 4",3.12909682043374,5.84162266388547
+"Daily","thetaf",1,10,422,"Average","ket hop phan loai",2.8694136257233,5.62338991130944
+"Daily","thetaf",1,10,422,"Average","ket hop hoi quy",3.13491706601115,6.07080452451002
+"Daily","thetaf",1,10,422,"Total","Total series",4.11801596532531,7.04788226760554
+"Hourly","ets",1,1,20,"Actual","xgbcls",1.77052177055614,31.7110122726599
+"Hourly","ets",1,1,20,"Actual","xgbreg",2.17351591319286,28.7153131087215
+"Hourly","ets",1,1,20,"Actual","lgbcls",1.77654831284672,31.7678341374687
+"Hourly","ets",1,1,20,"Actual","lgbreg",2.19304189617929,32.3133059017404
+"Hourly","ets",1,1,20,"Actual","ket hop ca 4",1.89838349106503,30.9002742974563
+"Hourly","ets",1,1,20,"Actual","ket hop phan loai",1.76818297868005,31.7370866988669
+"Hourly","ets",1,1,20,"Actual","ket hop hoi quy",2.17382517864069,30.4952366194982
+"Hourly","ets",1,1,20,"Average","xgbcls",1.65883522467595,28.31051594706
+"Hourly","ets",1,1,20,"Average","xgbreg",1.74077448614499,28.6837456316132
+"Hourly","ets",1,1,20,"Average","lgbcls",1.66156120645697,28.3378765921512
+"Hourly","ets",1,1,20,"Average","lgbreg",1.77054610417702,29.177601401299
+"Hourly","ets",1,1,20,"Average","ket hop ca 4",1.6950918931571,28.5854804085437
+"Hourly","ets",1,1,20,"Average","ket hop phan loai",1.65704868517871,28.3218120220202
+"Hourly","ets",1,1,20,"Average","ket hop hoi quy",1.75196960476315,28.9105316505418
+"Hourly","ets",1,1,20,"Total","Total series",1.60325135231601,27.1154361758943
+"Hourly","ets",1,2,20,"Actual","xgbcls",1.39456871454604,20.5380748184028
+"Hourly","ets",1,2,20,"Actual","xgbreg",1.23281474292267,21.0202986403674
+"Hourly","ets",1,2,20,"Actual","lgbcls",1.43690213850135,20.5995246870088
+"Hourly","ets",1,2,20,"Actual","lgbreg",1.31818162123785,21.613988732807
+"Hourly","ets",1,2,20,"Actual","ket hop ca 4",1.22006001151598,20.5013114142262
+"Hourly","ets",1,2,20,"Actual","ket hop phan loai",1.38298218703589,20.4169482638725
+"Hourly","ets",1,2,20,"Actual","ket hop hoi quy",1.24320856241396,21.1401539617956
+"Hourly","ets",1,2,20,"Average","xgbcls",1.32658759896021,21.806717976123
+"Hourly","ets",1,2,20,"Average","xgbreg",1.31636832630767,21.9672527130397
+"Hourly","ets",1,2,20,"Average","lgbcls",1.36444456836626,21.8191609788683
+"Hourly","ets",1,2,20,"Average","lgbreg",1.31160120813431,21.1408462505114
+"Hourly","ets",1,2,20,"Average","ket hop ca 4",1.28709838672084,21.4757510829959
+"Hourly","ets",1,2,20,"Average","ket hop phan loai",1.32910309309443,21.8089195599881
+"Hourly","ets",1,2,20,"Average","ket hop hoi quy",1.27410623817807,21.4767943646761
+"Hourly","ets",1,2,20,"Total","Total series",1.81344092646987,22.7877796199213
+"Hourly","ets",1,3,20,"Actual","xgbcls",3.80035041333224,65.1761234333003
+"Hourly","ets",1,3,20,"Actual","xgbreg",3.1346264075679,61.1734672605758
+"Hourly","ets",1,3,20,"Actual","lgbcls",3.30645007080423,62.0196216185626
+"Hourly","ets",1,3,20,"Actual","lgbreg",3.21456139891781,61.4668551775746
+"Hourly","ets",1,3,20,"Actual","ket hop ca 4",3.18144689429469,62.2429196018846
+"Hourly","ets",1,3,20,"Actual","ket hop phan loai",3.39328872729886,63.4269306953882
+"Hourly","ets",1,3,20,"Actual","ket hop hoi quy",3.15966336013095,61.3147317539911
+"Hourly","ets",1,3,20,"Average","xgbcls",3.41180166259439,66.215156171314
+"Hourly","ets",1,3,20,"Average","xgbreg",2.59462244413063,58.6418370692126
+"Hourly","ets",1,3,20,"Average","lgbcls",3.1287919397205,61.0736824702847
+"Hourly","ets",1,3,20,"Average","lgbreg",2.57010249232903,58.9181916408103
+"Hourly","ets",1,3,20,"Average","ket hop ca 4",2.86784724520567,61.0475932708737
+"Hourly","ets",1,3,20,"Average","ket hop phan loai",3.17142566329466,63.5441690891843
+"Hourly","ets",1,3,20,"Average","ket hop hoi quy",2.58280755388193,58.7757106531452
+"Hourly","ets",1,3,20,"Total","Total series",2.53484403123091,61.5977262816071
+"Hourly","ets",1,4,20,"Actual","xgbcls",1.05718201048482,16.8938494554398
+"Hourly","ets",1,4,20,"Actual","xgbreg",1.04815127252083,17.970580724616
+"Hourly","ets",1,4,20,"Actual","lgbcls",0.960547963519763,15.4766219604795
+"Hourly","ets",1,4,20,"Actual","lgbreg",0.867478985518147,15.6369774321469
+"Hourly","ets",1,4,20,"Actual","ket hop ca 4",0.910694993392003,15.9223554735345
+"Hourly","ets",1,4,20,"Actual","ket hop phan loai",0.949103336401889,16.0323344241597
+"Hourly","ets",1,4,20,"Actual","ket hop hoi quy",0.903889779255332,16.681497991557
+"Hourly","ets",1,4,20,"Average","xgbcls",0.877631200544843,17.625646848208
+"Hourly","ets",1,4,20,"Average","xgbreg",0.895081016288299,17.9302273037789
+"Hourly","ets",1,4,20,"Average","lgbcls",0.843906876758862,15.3903648034735
+"Hourly","ets",1,4,20,"Average","lgbreg",0.850541956704522,15.4734319693285
+"Hourly","ets",1,4,20,"Average","ket hop ca 4",0.818007030678491,16.2079371145164
+"Hourly","ets",1,4,20,"Average","ket hop phan loai",0.841075023851743,16.3685205460697
+"Hourly","ets",1,4,20,"Average","ket hop hoi quy",0.857534095778362,16.3871061807096
+"Hourly","ets",1,4,20,"Total","Total series",1.02120466271172,19.0218106915033
+"Hourly","ets",1,5,20,"Actual","xgbcls",3.08504641054269,48.1668602001592
+"Hourly","ets",1,5,20,"Actual","xgbreg",2.60122982174718,46.3242336440648
+"Hourly","ets",1,5,20,"Actual","lgbcls",3.45226139458502,49.4326266333356
+"Hourly","ets",1,5,20,"Actual","lgbreg",2.42580002250713,45.3814898357547
+"Hourly","ets",1,5,20,"Actual","ket hop ca 4",2.85785370427276,46.3381283708932
+"Hourly","ets",1,5,20,"Actual","ket hop phan loai",3.23358654067204,48.6533411369097
+"Hourly","ets",1,5,20,"Actual","ket hop hoi quy",2.50403114819929,45.7746098751254
+"Hourly","ets",1,5,20,"Average","xgbcls",2.95265603130584,46.5986091282678
+"Hourly","ets",1,5,20,"Average","xgbreg",2.59565323491035,46.3608650638934
+"Hourly","ets",1,5,20,"Average","lgbcls",2.93471025582428,46.5511195197698
+"Hourly","ets",1,5,20,"Average","lgbreg",2.60278612878474,46.4111977382114
+"Hourly","ets",1,5,20,"Average","ket hop ca 4",2.7930547787859,46.3904613640987
+"Hourly","ets",1,5,20,"Average","ket hop phan loai",2.9418375943484,46.5720047171277
+"Hourly","ets",1,5,20,"Average","ket hop hoi quy",2.60467292352957,46.381324740069
+"Hourly","ets",1,5,20,"Total","Total series",3.16331234650434,47.2794415042202
+"Hourly","ets",1,6,20,"Actual","xgbcls",1.80462263925617,18.730538309573
+"Hourly","ets",1,6,20,"Actual","xgbreg",1.8576345436717,18.2991441319933
+"Hourly","ets",1,6,20,"Actual","lgbcls",2.60075959606823,22.307533247089
+"Hourly","ets",1,6,20,"Actual","lgbreg",1.56601224910875,16.9319201782449
+"Hourly","ets",1,6,20,"Actual","ket hop ca 4",1.92862336736238,18.3806750392959
+"Hourly","ets",1,6,20,"Actual","ket hop phan loai",2.20796255255829,20.4332837216419
+"Hourly","ets",1,6,20,"Actual","ket hop hoi quy",1.69736414197713,17.4163695388004
+"Hourly","ets",1,6,20,"Average","xgbcls",1.5761226313432,17.5663608338487
+"Hourly","ets",1,6,20,"Average","xgbreg",1.57148716561127,17.6459294404755
+"Hourly","ets",1,6,20,"Average","lgbcls",1.53405839640974,16.9366368933197
+"Hourly","ets",1,6,20,"Average","lgbreg",1.56285800623181,16.2218834195897
+"Hourly","ets",1,6,20,"Average","ket hop ca 4",1.53670887357718,16.7849690705499
+"Hourly","ets",1,6,20,"Average","ket hop phan loai",1.54196458043923,17.2273239181552
+"Hourly","ets",1,6,20,"Average","ket hop hoi quy",1.55023142601552,16.550817070802
+"Hourly","ets",1,6,20,"Total","Total series",1.34659703439007,15.9968898782644
+"Hourly","ets",1,7,20,"Actual","xgbcls",1.44679525303222,18.3721845013514
+"Hourly","ets",1,7,20,"Actual","xgbreg",1.39157483816407,16.5443182697475
+"Hourly","ets",1,7,20,"Actual","lgbcls",1.41382703764315,17.3174006924903
+"Hourly","ets",1,7,20,"Actual","lgbreg",1.37299856941973,16.2076280191863
+"Hourly","ets",1,7,20,"Actual","ket hop ca 4",1.38714857582732,16.8016402593461
+"Hourly","ets",1,7,20,"Actual","ket hop phan loai",1.44433571257754,17.757465251378
+"Hourly","ets",1,7,20,"Actual","ket hop hoi quy",1.37924404740949,16.2850633850693
+"Hourly","ets",1,7,20,"Average","xgbcls",1.41968743593377,17.0374054750891
+"Hourly","ets",1,7,20,"Average","xgbreg",1.38764823546688,17.5232979744425
+"Hourly","ets",1,7,20,"Average","lgbcls",1.40745107906375,17.6872406696318
+"Hourly","ets",1,7,20,"Average","lgbreg",1.45600406000859,17.3399646805122
+"Hourly","ets",1,7,20,"Average","ket hop ca 4",1.40025222003132,17.2478317069628
+"Hourly","ets",1,7,20,"Average","ket hop phan loai",1.41233637484953,17.304777991708
+"Hourly","ets",1,7,20,"Average","ket hop hoi quy",1.40173127402608,17.3884701136086
+"Hourly","ets",1,7,20,"Total","Total series",1.40266017997696,16.1667642942621
+"Hourly","ets",1,8,20,"Actual","xgbcls",4.34411321255303,36.674539472575
+"Hourly","ets",1,8,20,"Actual","xgbreg",4.17851440927386,36.8499383789776
+"Hourly","ets",1,8,20,"Actual","lgbcls",4.14258140100644,40.8254785294785
+"Hourly","ets",1,8,20,"Actual","lgbreg",3.84944078359788,36.4356218063864
+"Hourly","ets",1,8,20,"Actual","ket hop ca 4",4.50430632113763,37.2923157377894
+"Hourly","ets",1,8,20,"Actual","ket hop phan loai",4.21260970846966,38.605244743789
+"Hourly","ets",1,8,20,"Actual","ket hop hoi quy",4.2774426214974,36.3686544781255
+"Hourly","ets",1,8,20,"Average","xgbcls",3.69859802280635,36.9792158866801
+"Hourly","ets",1,8,20,"Average","xgbreg",3.6916635590135,36.7846630895629
+"Hourly","ets",1,8,20,"Average","lgbcls",3.72565754463559,37.0775908786379
+"Hourly","ets",1,8,20,"Average","lgbreg",3.88045692431637,37.9609062377985
+"Hourly","ets",1,8,20,"Average","ket hop ca 4",3.69297068865675,36.9955090360798
+"Hourly","ets",1,8,20,"Average","ket hop phan loai",3.69784259960306,37.0238361677817
+"Hourly","ets",1,8,20,"Average","ket hop hoi quy",3.69667202342047,37.1645220171075
+"Hourly","ets",1,8,20,"Total","Total series",3.3683987609242,36.5737289850875
+"Hourly","ets",1,9,20,"Actual","xgbcls",2.05703373123936,10.5205663827951
+"Hourly","ets",1,9,20,"Actual","xgbreg",1.692785546354,9.99546960466446
+"Hourly","ets",1,9,20,"Actual","lgbcls",1.90764516077169,9.00079642419719
+"Hourly","ets",1,9,20,"Actual","lgbreg",1.83970004842816,10.1819461423503
+"Hourly","ets",1,9,20,"Actual","ket hop ca 4",1.83189453435473,9.74951690582786
+"Hourly","ets",1,9,20,"Actual","ket hop phan loai",1.92682772303916,9.64521658695412
+"Hourly","ets",1,9,20,"Actual","ket hop hoi quy",1.79464526214826,10.0540966851651
+"Hourly","ets",1,9,20,"Average","xgbcls",1.83932103737492,8.43875405934524
+"Hourly","ets",1,9,20,"Average","xgbreg",1.8550408205622,8.84767944790412
+"Hourly","ets",1,9,20,"Average","lgbcls",1.83997988135514,8.46003482395203
+"Hourly","ets",1,9,20,"Average","lgbreg",1.89070231972674,8.84572501953658
+"Hourly","ets",1,9,20,"Average","ket hop ca 4",1.83782983904608,8.60861501344233
+"Hourly","ets",1,9,20,"Average","ket hop phan loai",1.83986029735131,8.44651116038968
+"Hourly","ets",1,9,20,"Average","ket hop hoi quy",1.86145355775329,8.82960982262965
+"Hourly","ets",1,9,20,"Total","Total series",1.96923797726933,8.21374580948001
+"Hourly","ets",1,10,20,"Actual","xgbcls",2.48348853166222,28.7039700448719
+"Hourly","ets",1,10,20,"Actual","xgbreg",2.44907111987471,21.2979485882533
+"Hourly","ets",1,10,20,"Actual","lgbcls",2.47495143469918,29.1615373567619
+"Hourly","ets",1,10,20,"Actual","lgbreg",1.6464089361829,19.4491149747784
+"Hourly","ets",1,10,20,"Actual","ket hop ca 4",2.19887172796222,20.8899928569789
+"Hourly","ets",1,10,20,"Actual","ket hop phan loai",2.44685026504763,28.7138761717022
+"Hourly","ets",1,10,20,"Actual","ket hop hoi quy",2.02414787413934,20.2147146304462
+"Hourly","ets",1,10,20,"Average","xgbcls",2.13098677776645,21.5125070664573
+"Hourly","ets",1,10,20,"Average","xgbreg",2.45966304116732,22.2722302745143
+"Hourly","ets",1,10,20,"Average","lgbcls",2.11126283290376,20.1846511379948
+"Hourly","ets",1,10,20,"Average","lgbreg",2.45264938919578,21.4315522963043
+"Hourly","ets",1,10,20,"Average","ket hop ca 4",2.25250199569034,21.205758906013
+"Hourly","ets",1,10,20,"Average","ket hop phan loai",2.12034941171352,20.7729842780017
+"Hourly","ets",1,10,20,"Average","ket hop hoi quy",2.44170533842205,21.827472720985
+"Hourly","ets",1,10,20,"Total","Total series",1.62176475309637,20.7931527982514
+"Hourly","thetaf",1,1,20,"Actual","xgbcls",1.92867289306455,21.0683923647657
+"Hourly","thetaf",1,1,20,"Actual","xgbreg",1.92709466115919,26.0552881471198
+"Hourly","thetaf",1,1,20,"Actual","lgbcls",1.96526904205565,21.8688036565834
+"Hourly","thetaf",1,1,20,"Actual","lgbreg",3.33110223276657,22.7214850347388
+"Hourly","thetaf",1,1,20,"Actual","ket hop ca 4",2.00470872024036,21.5941432312681
+"Hourly","thetaf",1,1,20,"Actual","ket hop phan loai",1.94471285191421,21.4608146642974
+"Hourly","thetaf",1,1,20,"Actual","ket hop hoi quy",2.31951411109065,22.6671268858073
+"Hourly","thetaf",1,1,20,"Average","xgbcls",1.46653443133747,24.9680259350913
+"Hourly","thetaf",1,1,20,"Average","xgbreg",1.4946745042626,25.8630132156054
+"Hourly","thetaf",1,1,20,"Average","lgbcls",1.45786378958907,24.8934521699495
+"Hourly","thetaf",1,1,20,"Average","lgbreg",1.58940266108682,26.4007219277081
+"Hourly","thetaf",1,1,20,"Average","ket hop ca 4",1.49059284660499,25.4906005304839
+"Hourly","thetaf",1,1,20,"Average","ket hop phan loai",1.46436688320844,24.930563153243
+"Hourly","thetaf",1,1,20,"Average","ket hop hoi quy",1.53317255031895,26.0747347085673
+"Hourly","thetaf",1,1,20,"Total","Total series",2.13934311380636,24.9553140156151
+"Hourly","thetaf",1,2,20,"Actual","xgbcls",3.08074298156321,21.7597185916586
+"Hourly","thetaf",1,2,20,"Actual","xgbreg",2.65688776738169,20.8084741236487
+"Hourly","thetaf",1,2,20,"Actual","lgbcls",3.16997485766227,22.1056327930188
+"Hourly","thetaf",1,2,20,"Actual","lgbreg",2.60139876144446,20.8868602324011
+"Hourly","thetaf",1,2,20,"Actual","ket hop ca 4",2.68662955083357,20.7264364446086
+"Hourly","thetaf",1,2,20,"Actual","ket hop phan loai",3.08489974219468,21.7779024725859
+"Hourly","thetaf",1,2,20,"Actual","ket hop hoi quy",2.56541955900685,20.4104885156866
+"Hourly","thetaf",1,2,20,"Average","xgbcls",1.38113210087879,21.7008985896219
+"Hourly","thetaf",1,2,20,"Average","xgbreg",1.37295087111818,21.3429179358144
+"Hourly","thetaf",1,2,20,"Average","lgbcls",1.33346203240955,20.3694998297231
+"Hourly","thetaf",1,2,20,"Average","lgbreg",1.34685607972777,20.3790188434059
+"Hourly","thetaf",1,2,20,"Average","ket hop ca 4",1.34424690579249,20.8941888612539
+"Hourly","thetaf",1,2,20,"Average","ket hop phan loai",1.3637760972023,21.0258855599669
+"Hourly","thetaf",1,2,20,"Average","ket hop hoi quy",1.3395941418368,20.8041857725948
+"Hourly","thetaf",1,2,20,"Total","Total series",2.02628108383133,22.3675747247307
+"Hourly","thetaf",1,3,20,"Actual","xgbcls",3.61015398604595,45.9462278924747
+"Hourly","thetaf",1,3,20,"Actual","xgbreg",2.9619442880327,42.6893135516194
+"Hourly","thetaf",1,3,20,"Actual","lgbcls",3.62759434447683,46.2873944309136
+"Hourly","thetaf",1,3,20,"Actual","lgbreg",3.01499953874607,43.2586592678938
+"Hourly","thetaf",1,3,20,"Actual","ket hop ca 4",3.30454535305898,44.226183315432
+"Hourly","thetaf",1,3,20,"Actual","ket hop phan loai",3.60922346602946,46.1083271358954
+"Hourly","thetaf",1,3,20,"Actual","ket hop hoi quy",2.99959730020242,42.4314682195195
+"Hourly","thetaf",1,3,20,"Average","xgbcls",1.98520372054231,40.200947472543
+"Hourly","thetaf",1,3,20,"Average","xgbreg",1.93751799094955,38.4436151657021
+"Hourly","thetaf",1,3,20,"Average","lgbcls",2.26583267453669,45.421796256097
+"Hourly","thetaf",1,3,20,"Average","lgbreg",1.96124641756327,38.4487014918158
+"Hourly","thetaf",1,3,20,"Average","ket hop ca 4",1.97734084752218,40.5046858783838
+"Hourly","thetaf",1,3,20,"Average","ket hop phan loai",2.02661869348652,42.7185807335494
+"Hourly","thetaf",1,3,20,"Average","ket hop hoi quy",1.95874360892047,38.4413077101581
+"Hourly","thetaf",1,3,20,"Total","Total series",2.50158830337859,41.215707515478
+"Hourly","thetaf",1,4,20,"Actual","xgbcls",4.39441492179997,17.6736292998869
+"Hourly","thetaf",1,4,20,"Actual","xgbreg",2.10350309199523,17.2360013803039
+"Hourly","thetaf",1,4,20,"Actual","lgbcls",4.60809226583348,17.2374735810163
+"Hourly","thetaf",1,4,20,"Actual","lgbreg",3.9432749224556,18.1273571730504
+"Hourly","thetaf",1,4,20,"Actual","ket hop ca 4",3.07526287481493,16.9947316446631
+"Hourly","thetaf",1,4,20,"Actual","ket hop phan loai",4.3027846921653,17.3758866070021
+"Hourly","thetaf",1,4,20,"Actual","ket hop hoi quy",2.6423853615987,17.2195538182564
+"Hourly","thetaf",1,4,20,"Average","xgbcls",1.2413286857229,14.3993914285753
+"Hourly","thetaf",1,4,20,"Average","xgbreg",1.34470428926481,16.9369566637467
+"Hourly","thetaf",1,4,20,"Average","lgbcls",1.26388350812099,15.3538994470443
+"Hourly","thetaf",1,4,20,"Average","lgbreg",1.28750807078768,14.4793196721678
+"Hourly","thetaf",1,4,20,"Average","ket hop ca 4",1.26440088054999,15.028486133912
+"Hourly","thetaf",1,4,20,"Average","ket hop phan loai",1.25326337051168,14.8444840478385
+"Hourly","thetaf",1,4,20,"Average","ket hop hoi quy",1.27726885406508,15.4187425790004
+"Hourly","thetaf",1,4,20,"Total","Total series",2.22396198923863,14.9782924076908
+"Hourly","thetaf",1,5,20,"Actual","xgbcls",4.31821744603856,46.4450972716787
+"Hourly","thetaf",1,5,20,"Actual","xgbreg",4.05005483023565,42.3374983723631
+"Hourly","thetaf",1,5,20,"Actual","lgbcls",4.32204940352522,46.6729294442245
+"Hourly","thetaf",1,5,20,"Actual","lgbreg",3.78304506475062,42.2294683504694
+"Hourly","thetaf",1,5,20,"Actual","ket hop ca 4",4.06473732959062,43.9869084346375
+"Hourly","thetaf",1,5,20,"Actual","ket hop phan loai",4.32500290402262,46.5303631460233
+"Hourly","thetaf",1,5,20,"Actual","ket hop hoi quy",3.79569872556398,42.1136521442532
+"Hourly","thetaf",1,5,20,"Average","xgbcls",2.31997890531879,39.1377236873124
+"Hourly","thetaf",1,5,20,"Average","xgbreg",2.30916219917453,41.4670679151319
+"Hourly","thetaf",1,5,20,"Average","lgbcls",2.33748924454195,39.3924778752024
+"Hourly","thetaf",1,5,20,"Average","lgbreg",2.31773260407145,41.8096394228073
+"Hourly","thetaf",1,5,20,"Average","ket hop ca 4",2.34628693552783,40.4349582438008
+"Hourly","thetaf",1,5,20,"Average","ket hop phan loai",2.30972931559341,39.2529797923339
+"Hourly","thetaf",1,5,20,"Average","ket hop hoi quy",2.31393238947675,41.6224735144705
+"Hourly","thetaf",1,5,20,"Total","Total series",2.78720657563589,39.8502209395772
+"Hourly","thetaf",1,6,20,"Actual","xgbcls",3.65334989421805,14.96295582784
+"Hourly","thetaf",1,6,20,"Actual","xgbreg",2.69479930131695,14.4088803848222
+"Hourly","thetaf",1,6,20,"Actual","lgbcls",3.65644282255392,14.9647363016874
+"Hourly","thetaf",1,6,20,"Actual","lgbreg",2.25409479219324,14.0442778171587
+"Hourly","thetaf",1,6,20,"Actual","ket hop ca 4",2.68703312213151,14.4378139338436
+"Hourly","thetaf",1,6,20,"Actual","ket hop phan loai",3.65625448349548,14.9632978716511
+"Hourly","thetaf",1,6,20,"Actual","ket hop hoi quy",2.39122721571217,14.1927158809817
+"Hourly","thetaf",1,6,20,"Average","xgbcls",1.21255867792608,13.6939567952474
+"Hourly","thetaf",1,6,20,"Average","xgbreg",1.25741457552729,14.0041464329034
+"Hourly","thetaf",1,6,20,"Average","lgbcls",1.21675620260936,13.7974572291322
+"Hourly","thetaf",1,6,20,"Average","lgbreg",1.31100169799076,14.0912762152861
+"Hourly","thetaf",1,6,20,"Average","ket hop ca 4",1.23919653738183,13.8384771212493
+"Hourly","thetaf",1,6,20,"Average","ket hop phan loai",1.21579649976705,13.7441507250799
+"Hourly","thetaf",1,6,20,"Average","ket hop hoi quy",1.28264133459942,14.0052922279742
+"Hourly","thetaf",1,6,20,"Total","Total series",2.03890558811344,14.4320305933797
+"Hourly","thetaf",1,7,20,"Actual","xgbcls",4.69666428333867,21.2427878763117
+"Hourly","thetaf",1,7,20,"Actual","xgbreg",2.60016836857478,18.0555558115815
+"Hourly","thetaf",1,7,20,"Actual","lgbcls",5.06888046319594,21.4626191642526
+"Hourly","thetaf",1,7,20,"Actual","lgbreg",2.25424064937462,18.5635380401259
+"Hourly","thetaf",1,7,20,"Actual","ket hop ca 4",3.398764498262,19.4360600895364
+"Hourly","thetaf",1,7,20,"Actual","ket hop phan loai",4.89256801847614,21.3154814611375
+"Hourly","thetaf",1,7,20,"Actual","ket hop hoi quy",2.45340799307697,18.1410756970601
+"Hourly","thetaf",1,7,20,"Average","xgbcls",1.43585127683687,19.0613400473769
+"Hourly","thetaf",1,7,20,"Average","xgbreg",1.47265460039606,16.7510035763272
+"Hourly","thetaf",1,7,20,"Average","lgbcls",1.43585127683687,19.0613400473769
+"Hourly","thetaf",1,7,20,"Average","lgbreg",1.45119821504832,17.2467023125824
+"Hourly","thetaf",1,7,20,"Average","ket hop ca 4",1.462119559371,17.7642091752934
+"Hourly","thetaf",1,7,20,"Average","ket hop phan loai",1.43585127683687,19.0613400473769
+"Hourly","thetaf",1,7,20,"Average","ket hop hoi quy",1.46834882018098,16.9898385983075
+"Hourly","thetaf",1,7,20,"Total","Total series",2.29014350357857,17.5579230048418
+"Hourly","thetaf",1,8,20,"Actual","xgbcls",4.00197414826031,48.2457998518725
+"Hourly","thetaf",1,8,20,"Actual","xgbreg",3.1713814848064,47.1039552739219
+"Hourly","thetaf",1,8,20,"Actual","lgbcls",3.37435983805436,40.97019151638
+"Hourly","thetaf",1,8,20,"Actual","lgbreg",3.64814209708049,40.7393344668465
+"Hourly","thetaf",1,8,20,"Actual","ket hop ca 4",3.43408234634828,43.7877370203243
+"Hourly","thetaf",1,8,20,"Actual","ket hop phan loai",3.64343436552392,44.5033111598705
+"Hourly","thetaf",1,8,20,"Actual","ket hop hoi quy",3.33653386861255,43.7013484229455
+"Hourly","thetaf",1,8,20,"Average","xgbcls",2.82335536999693,36.7086947315884
+"Hourly","thetaf",1,8,20,"Average","xgbreg",2.75701687987122,43.5389491159536
+"Hourly","thetaf",1,8,20,"Average","lgbcls",3.13061117246238,46.4109147934957
+"Hourly","thetaf",1,8,20,"Average","lgbreg",2.7056418916717,36.6827876258775
+"Hourly","thetaf",1,8,20,"Average","ket hop ca 4",2.83509520486143,40.7575183205029
+"Hourly","thetaf",1,8,20,"Average","ket hop phan loai",2.90848525821774,41.4824611212811
+"Hourly","thetaf",1,8,20,"Average","ket hop hoi quy",2.72079695439046,40.1001840155495
+"Hourly","thetaf",1,8,20,"Total","Total series",3.60453805187367,43.1082404853837
+"Hourly","thetaf",1,9,20,"Actual","xgbcls",4.64231752343935,10.5931381422326
+"Hourly","thetaf",1,9,20,"Actual","xgbreg",2.42590261562052,9.29853064636598
+"Hourly","thetaf",1,9,20,"Actual","lgbcls",4.71450982072687,10.7241614917339
+"Hourly","thetaf",1,9,20,"Actual","lgbreg",3.20416455230298,10.134258053671
+"Hourly","thetaf",1,9,20,"Actual","ket hop ca 4",3.38568595547386,9.96076133209031
+"Hourly","thetaf",1,9,20,"Actual","ket hop phan loai",4.58640518349104,10.5746796424353
+"Hourly","thetaf",1,9,20,"Actual","ket hop hoi quy",2.71795172401222,9.58260410527007
+"Hourly","thetaf",1,9,20,"Average","xgbcls",1.62190437371265,8.55226472342241
+"Hourly","thetaf",1,9,20,"Average","xgbreg",2.15522076128252,8.86910872938751
+"Hourly","thetaf",1,9,20,"Average","lgbcls",1.62578145110478,8.73640831730882
+"Hourly","thetaf",1,9,20,"Average","lgbreg",1.89345563838973,8.90750883719772
+"Hourly","thetaf",1,9,20,"Average","ket hop ca 4",1.9628348593741,8.75048561507683
+"Hourly","thetaf",1,9,20,"Average","ket hop phan loai",1.61858816972476,8.62999413955396
+"Hourly","thetaf",1,9,20,"Average","ket hop hoi quy",2.12430573742155,8.88002815902003
+"Hourly","thetaf",1,9,20,"Total","Total series",3.51992903936313,9.79590905655544
+"Hourly","thetaf",1,10,20,"Actual","xgbcls",3.93212016558087,31.2240367487371
+"Hourly","thetaf",1,10,20,"Actual","xgbreg",3.00475105191942,28.6140098718982
+"Hourly","thetaf",1,10,20,"Actual","lgbcls",4.03033513434105,31.5277827823066
+"Hourly","thetaf",1,10,20,"Actual","lgbreg",3.29709909042924,20.0145276953453
+"Hourly","thetaf",1,10,20,"Actual","ket hop ca 4",2.88060006546987,26.6425916128643
+"Hourly","thetaf",1,10,20,"Actual","ket hop phan loai",3.93216779642577,31.2995311797669
+"Hourly","thetaf",1,10,20,"Actual","ket hop hoi quy",2.62543392880043,23.824806478142
+"Hourly","thetaf",1,10,20,"Average","xgbcls",1.48269449388013,19.4255773634856
+"Hourly","thetaf",1,10,20,"Average","xgbreg",1.50287053513991,19.1151735360773
+"Hourly","thetaf",1,10,20,"Average","lgbcls",1.50848214868527,19.5771458470364
+"Hourly","thetaf",1,10,20,"Average","lgbreg",1.48851387715915,19.0494772113386
+"Hourly","thetaf",1,10,20,"Average","ket hop ca 4",1.48752543373433,19.2587280457606
+"Hourly","thetaf",1,10,20,"Average","ket hop phan loai",1.49420479679039,19.4764474435071
+"Hourly","thetaf",1,10,20,"Average","ket hop hoi quy",1.48676609155535,19.0811623787925
+"Hourly","thetaf",1,10,20,"Total","Total series",2.47753101675546,20.2682580147465
