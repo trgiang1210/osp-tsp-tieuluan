@@ -1,0 +1,12 @@
+"nhan","phuong_phap","MAPE_bai_bao","MASE_bai_bao","MAPE_tac_gia_luu_san","MASE_tac_gia_luu_san","MAPE_tu_huan_luyen","MASE_tu_huan_luyen","chenh_MASE_tu_huan_luyen","tot_hon_total_tac_gia","tot_hon_total_tu_huan_luyen"
+"Actual","xgbcls",9.82,1.66,9.82,1.66,9.77,1.64,-0.02,TRUE,TRUE
+"Actual","xgbreg",10.3,1.64,10.3,1.64,10.45,1.72,0.08,TRUE,TRUE
+"Actual","lgbcls",10.07,2,10.07,2,9.77,1.66,-0.34,TRUE,TRUE
+"Actual","lgbreg",10.48,1.72,10.48,1.72,10.27,1.68,-0.04,TRUE,TRUE
+"Average","xgbcls",9.65,1.62,9.65,1.62,9.68,1.62,0,TRUE,TRUE
+"Average","xgbreg",10.08,1.61,10.08,1.61,10.07,1.62,0.01,TRUE,TRUE
+"Average","lgbcls",9.95,1.95,9.95,1.95,9.9,1.63,-0.32,TRUE,TRUE
+"Average","lgbreg",10.01,1.67,10.01,1.67,10.28,1.68,0.01,TRUE,TRUE
+"Actual","mean",10,1.82,10,1.82,9.95,1.65,-0.17,TRUE,TRUE
+"Average","mean",9.76,1.81,9.76,1.81,9.88,1.68,-0.13,TRUE,TRUE
+"Total","Total series",9.42,2,9.42,2,9.42,2,0,NA,NA
