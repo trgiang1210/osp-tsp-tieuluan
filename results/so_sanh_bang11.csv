@@ -1,0 +1,19 @@
+"bo","dong","MAPE_bai_bao","MASE_bai_bao","so_chuoi","MAPE_tai_hien","MASE_tai_hien","chenh_MASE","tot_hon_total_bai_bao","tot_hon_total_tai_hien"
+"Yearly","Actual mean",20.82,3.54,1000,22.72,3.47,-0.07,TRUE,TRUE
+"Yearly","Average mean",21.21,3.57,1000,22.21,3.52,-0.05,TRUE,TRUE
+"Yearly","Total series",21.61,4.06,1000,21.35,4.22,0.16,NA,NA
+"Quarterly","Actual mean",16.5,1.35,1000,17.16,1.37,0.02,TRUE,TRUE
+"Quarterly","Average mean",15.38,1.37,1000,16.72,1.43,0.06,TRUE,TRUE
+"Quarterly","Total series",15.89,1.57,1000,18.08,1.71,0.14,NA,NA
+"Monthly","Actual mean",19.01,1.03,500,16.87,0.97,-0.06,TRUE,TRUE
+"Monthly","Average mean",18.64,1.03,500,15.93,0.96,-0.07,TRUE,TRUE
+"Monthly","Total series",19.8,1.15,500,15.91,1.01,-0.14,NA,NA
+"Weekly","Actual mean",8.26,2.4,359,8.32,2.09,-0.31,TRUE,TRUE
+"Weekly","Average mean",8.5,2.56,359,8.62,2.27,-0.29,TRUE,TRUE
+"Weekly","Total series",9.91,3.86,359,9.91,3.86,0,NA,NA
+"Daily","Actual mean",4.82,3.54,500,3.27,3.13,-0.41,TRUE,TRUE
+"Daily","Average mean",5.08,3.42,500,3.14,3.19,-0.23,TRUE,TRUE
+"Daily","Total series",5.82,4.08,500,3.47,4.01,-0.07,NA,NA
+"Hourly","Actual mean",25.98,1.03,414,24.66,1.02,-0.01,TRUE,TRUE
+"Hourly","Average mean",23.82,1.01,414,21.91,1,-0.01,TRUE,TRUE
+"Hourly","Total series",14.67,1.08,414,14.62,1.09,0.01,NA,NA
