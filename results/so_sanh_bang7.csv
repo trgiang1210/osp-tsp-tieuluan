@@ -1,0 +1,101 @@
+"bo","mo_hinh","phuong_phap","MAPE_bai_bao","MAPE_tai_hien","MASE_bai_bao","MASE_tai_hien","chenh_MASE","tot_hon_total"
+"GDP","ETS","Total series",13.97,15.11,4.57,5.11,0.54,NA
+"GDP","ETS","xgbcls",13.89,12.02,3.48,2.13,-1.35,TRUE
+"GDP","ETS","xgbreg",13.66,11.63,4.06,2.07,-1.99,TRUE
+"GDP","ETS","lgbcls",13.72,11.61,3.53,2.18,-1.35,TRUE
+"GDP","ETS","lgbreg",13.55,12.43,3.96,2.19,-1.77,TRUE
+"GDP","thetaf","Total series",12.99,13.43,4.73,5.17,0.44,NA
+"GDP","thetaf","xgbcls",12.23,11.07,3.34,2.06,-1.28,TRUE
+"GDP","thetaf","xgbreg",12.58,11.12,3.64,1.99,-1.65,TRUE
+"GDP","thetaf","lgbcls",13.01,11.03,3.46,1.98,-1.48,TRUE
+"GDP","thetaf","lgbreg",12.48,11,3.67,1.98,-1.69,TRUE
+"GDP","ARIMA","Total series",12.09,12.57,3.93,4.54,0.61,NA
+"GDP","ARIMA","xgbcls",13.19,12.6,3.28,2.28,-1,TRUE
+"GDP","ARIMA","xgbreg",14.22,13.27,3.68,2.33,-1.35,TRUE
+"GDP","ARIMA","lgbcls",13.51,15.85,3.3,2.46,-0.84,TRUE
+"GDP","ARIMA","lgbreg",16.49,12.97,4.55,2.27,-2.28,TRUE
+"GDP","nnetar","Total series",15.22,14.95,5.11,5.62,0.51,NA
+"GDP","nnetar","xgbcls",14.92,14.85,3.84,2.46,-1.38,TRUE
+"GDP","nnetar","xgbreg",14.1,14.45,3.99,2.58,-1.41,TRUE
+"GDP","nnetar","lgbcls",14.34,13.66,3.69,2.56,-1.13,TRUE
+"GDP","nnetar","lgbreg",14.73,13.63,4.17,2.52,-1.65,TRUE
+"Industry","ETS","Total series",11.21,11.21,1.42,1.42,0,NA
+"Industry","ETS","xgbcls",9,4.87,1.08,0.44,-0.64,TRUE
+"Industry","ETS","xgbreg",9.9,4.7,1.12,0.42,-0.7,TRUE
+"Industry","ETS","lgbcls",10.18,4.71,1.18,0.41,-0.77,TRUE
+"Industry","ETS","lgbreg",10.18,6.89,1.18,0.82,-0.36,TRUE
+"Industry","thetaf","Total series",14.89,14.89,1.7,1.7,0,NA
+"Industry","thetaf","xgbcls",12.17,7.89,1.41,0.81,-0.6,TRUE
+"Industry","thetaf","xgbreg",12.26,8.54,1.4,1,-0.4,TRUE
+"Industry","thetaf","lgbcls",12.12,8.02,1.4,0.92,-0.48,TRUE
+"Industry","thetaf","lgbreg",12.12,8.02,1.4,0.92,-0.48,TRUE
+"Industry","ARIMA","Total series",18.96,11.48,1.73,1.19,-0.54,NA
+"Industry","ARIMA","xgbcls",19.33,8.69,1.51,0.56,-0.95,TRUE
+"Industry","ARIMA","xgbreg",19.25,8.13,1.4,0.53,-0.87,TRUE
+"Industry","ARIMA","lgbcls",18.39,5.1,1.4,0.46,-0.94,TRUE
+"Industry","ARIMA","lgbreg",19.22,5.3,1.34,0.47,-0.87,TRUE
+"Industry","nnetar","Total series",26.23,12.37,2.59,1.5,-1.09,NA
+"Industry","nnetar","xgbcls",22.18,9.71,1.82,1.41,-0.41,TRUE
+"Industry","nnetar","xgbreg",27.94,8.56,2.47,0.96,-1.51,TRUE
+"Industry","nnetar","lgbcls",28.31,8.28,2.22,0.8,-1.42,TRUE
+"Industry","nnetar","lgbreg",27.22,9.17,2.64,0.97,-1.67,TRUE
+"ExchangeRate","ETS","Total series",10.93,11.93,1.43,1.74,0.31,NA
+"ExchangeRate","ETS","xgbcls",10.71,10.81,1.57,1.75,0.18,FALSE
+"ExchangeRate","ETS","xgbreg",9.36,10.81,1.23,1.89,0.66,FALSE
+"ExchangeRate","ETS","lgbcls",10.74,11.29,1.55,1.85,0.3,FALSE
+"ExchangeRate","ETS","lgbreg",10.74,11.28,1.41,1.7,0.29,TRUE
+"ExchangeRate","thetaf","Total series",7.29,8.97,0.95,1.35,0.4,NA
+"ExchangeRate","thetaf","xgbcls",8.25,10.25,1.19,1.47,0.28,FALSE
+"ExchangeRate","thetaf","xgbreg",8.25,10.44,1.15,1.66,0.51,FALSE
+"ExchangeRate","thetaf","lgbcls",7.48,9.18,1.08,1.55,0.47,FALSE
+"ExchangeRate","thetaf","lgbreg",7.98,10.75,1.16,1.91,0.75,FALSE
+"ExchangeRate","ARIMA","Total series",9.09,9.05,1.2,1.3,0.1,NA
+"ExchangeRate","ARIMA","xgbcls",10.6,10.66,1.55,1.74,0.19,FALSE
+"ExchangeRate","ARIMA","xgbreg",10.66,9.99,1.46,1.75,0.29,FALSE
+"ExchangeRate","ARIMA","lgbcls",9.98,10.6,1.5,1.74,0.24,FALSE
+"ExchangeRate","ARIMA","lgbreg",9.98,9.99,1.33,1.5,0.17,FALSE
+"ExchangeRate","nnetar","Total series",9.57,10.46,1.31,1.57,0.26,NA
+"ExchangeRate","nnetar","xgbcls",9.03,7.52,1.44,1.08,-0.36,TRUE
+"ExchangeRate","nnetar","xgbreg",8.4,7.48,1.29,1.19,-0.1,TRUE
+"ExchangeRate","nnetar","lgbcls",9.23,7.59,1.51,1.34,-0.17,TRUE
+"ExchangeRate","nnetar","lgbreg",8.89,7.94,1.46,1.46,0,TRUE
+"Confidence","ETS","Total series",1.72,2,1.48,1.57,0.09,NA
+"Confidence","ETS","xgbcls",2.08,2.22,1.56,1.25,-0.31,TRUE
+"Confidence","ETS","xgbreg",2.13,2.19,1.29,1.19,-0.1,TRUE
+"Confidence","ETS","lgbcls",2.24,2.13,1.83,1.71,-0.12,FALSE
+"Confidence","ETS","lgbreg",2.18,2.19,1.18,1.19,0.01,TRUE
+"Confidence","thetaf","Total series",1.14,1.56,1.01,1.19,0.18,NA
+"Confidence","thetaf","xgbcls",1.14,1.31,0.74,0.81,0.07,TRUE
+"Confidence","thetaf","xgbreg",1.24,1.41,0.68,0.75,0.07,TRUE
+"Confidence","thetaf","lgbcls",1.42,1.14,1.13,0.91,-0.22,TRUE
+"Confidence","thetaf","lgbreg",1.42,1.41,0.76,0.75,-0.01,TRUE
+"Confidence","ARIMA","Total series",1.21,1.44,1.08,1.11,0.03,NA
+"Confidence","ARIMA","xgbcls",1.91,1.48,1.52,0.87,-0.65,TRUE
+"Confidence","ARIMA","xgbreg",1.95,1.79,1.07,0.98,-0.09,TRUE
+"Confidence","ARIMA","lgbcls",1.78,1.91,1.48,1.57,0.09,FALSE
+"Confidence","ARIMA","lgbreg",1.78,1.73,0.98,0.97,-0.01,TRUE
+"Confidence","nnetar","Total series",0.98,1.47,0.84,1.09,0.25,NA
+"Confidence","nnetar","xgbcls",1.89,1.69,1.18,1.22,0.04,FALSE
+"Confidence","nnetar","xgbreg",1.24,0.83,0.65,0.42,-0.23,TRUE
+"Confidence","nnetar","lgbcls",1.03,1.24,0.68,0.91,0.23,TRUE
+"Confidence","nnetar","lgbreg",0.82,0.83,0.42,0.42,0,TRUE
+"Imports","ETS","Total series",24.37,27.13,1.61,1.6,-0.01,NA
+"Imports","ETS","xgbcls",22.39,28.54,1.59,1.15,-0.44,TRUE
+"Imports","ETS","xgbreg",26.04,24.51,1.9,0.96,-0.94,TRUE
+"Imports","ETS","lgbcls",26.06,27.74,1.91,1.18,-0.73,TRUE
+"Imports","ETS","lgbreg",26.09,24.99,1.9,0.94,-0.96,TRUE
+"Imports","thetaf","Total series",20.65,26.89,1.52,1.63,0.11,NA
+"Imports","thetaf","xgbcls",23.05,27.76,1.65,1.05,-0.6,TRUE
+"Imports","thetaf","xgbreg",23.1,28.58,1.66,1.06,-0.6,TRUE
+"Imports","thetaf","lgbcls",25.16,28.26,1.79,1.23,-0.56,TRUE
+"Imports","thetaf","lgbreg",25.16,29.24,1.79,1.1,-0.69,TRUE
+"Imports","ARIMA","Total series",29.1,29.87,1.97,1.79,-0.18,NA
+"Imports","ARIMA","xgbcls",23.58,26.19,0.95,1.05,0.1,TRUE
+"Imports","ARIMA","xgbreg",22.05,24.99,0.87,0.96,0.09,TRUE
+"Imports","ARIMA","lgbcls",23.53,26.93,1.08,1.18,0.1,TRUE
+"Imports","ARIMA","lgbreg",21.94,25.29,0.86,0.93,0.07,TRUE
+"Imports","nnetar","Total series",42.29,37.42,3.03,2.24,-0.79,NA
+"Imports","nnetar","xgbcls",36.16,28.6,1.41,1.08,-0.33,TRUE
+"Imports","nnetar","xgbreg",30.21,29.21,1.24,1.13,-0.11,TRUE
+"Imports","nnetar","lgbcls",29.13,28.87,1.37,1.26,-0.11,TRUE
+"Imports","nnetar","lgbreg",36.88,28.87,1.24,1.26,0.02,TRUE

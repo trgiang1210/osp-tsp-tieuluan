@@ -1,0 +1,51 @@
+"bo","mo_hinh","phuong_phap","MAPE_bai_bao","MAPE_tai_hien","MASE_bai_bao","MASE_tai_hien","chenh_MASE","tot_hon_total"
+"GDP","ETS","Total series",16.74,15.11,5.13,5.11,-0.02,NA
+"GDP","ETS","xgbcls",15.14,13.63,3.03,2.87,-0.16,TRUE
+"GDP","ETS","xgbreg",14.95,13.71,2.67,2.72,0.05,TRUE
+"GDP","ETS","lgbcls",14.96,13.35,2.96,2.82,-0.14,TRUE
+"GDP","ETS","lgbreg",14.67,13.17,2.6,2.62,0.02,TRUE
+"GDP","thetaf","Total series",14.2,13.43,4.99,5.17,0.18,NA
+"GDP","thetaf","xgbcls",13.96,11.76,2.87,2.43,-0.44,TRUE
+"GDP","thetaf","xgbreg",13.17,11.76,2.48,2.18,-0.3,TRUE
+"GDP","thetaf","lgbcls",13.45,11.76,2.81,2.44,-0.37,TRUE
+"GDP","thetaf","lgbreg",12.77,11.77,2.33,2.12,-0.21,TRUE
+"Industry","ETS","Total series",11.21,11.21,1.42,1.42,0,NA
+"Industry","ETS","xgbcls",9.65,10.02,0.99,0.96,-0.03,TRUE
+"Industry","ETS","xgbreg",10.91,8.71,1.02,0.86,-0.16,TRUE
+"Industry","ETS","lgbcls",10.49,8.89,1.11,0.88,-0.23,TRUE
+"Industry","ETS","lgbreg",9.54,9.76,1.05,1,-0.05,TRUE
+"Industry","thetaf","Total series",14.89,14.89,1.7,1.7,0,NA
+"Industry","thetaf","xgbcls",12.03,12.6,1.12,1.14,0.02,TRUE
+"Industry","thetaf","xgbreg",12.25,13.07,1.2,1.25,0.05,TRUE
+"Industry","thetaf","lgbcls",12.15,12.24,1.17,1.16,-0.01,TRUE
+"Industry","thetaf","lgbreg",12.25,12.9,1.21,1.21,0,TRUE
+"ExchangeRate","ETS","Total series",11.92,11.93,1.74,1.74,0,NA
+"ExchangeRate","ETS","xgbcls",11.62,11.09,1.82,1.82,0,FALSE
+"ExchangeRate","ETS","xgbreg",10.93,11.38,1.61,1.74,0.13,FALSE
+"ExchangeRate","ETS","lgbcls",11.62,10.33,1.72,1.69,-0.03,TRUE
+"ExchangeRate","ETS","lgbreg",11.77,11.67,1.72,1.64,-0.08,TRUE
+"ExchangeRate","thetaf","Total series",8.99,8.97,1.35,1.35,0,NA
+"ExchangeRate","thetaf","xgbcls",10.09,9.22,1.48,1.42,-0.06,FALSE
+"ExchangeRate","thetaf","xgbreg",9.08,9.24,1.38,1.33,-0.05,TRUE
+"ExchangeRate","thetaf","lgbcls",9.28,9.4,1.35,1.53,0.18,FALSE
+"ExchangeRate","thetaf","lgbreg",9.22,9.06,1.39,1.26,-0.13,TRUE
+"Confidence","ETS","Total series",2,2,1.57,1.57,0,NA
+"Confidence","ETS","xgbcls",2.11,2.17,1.58,1.59,0.01,FALSE
+"Confidence","ETS","xgbreg",2.04,2.2,1.47,1.64,0.17,FALSE
+"Confidence","ETS","lgbcls",2.12,2.16,1.54,1.63,0.09,FALSE
+"Confidence","ETS","lgbreg",2.08,2.18,1.48,1.62,0.14,FALSE
+"Confidence","thetaf","Total series",1.56,1.56,1.19,1.19,0,NA
+"Confidence","thetaf","xgbcls",1.72,1.55,1.21,1.09,-0.12,TRUE
+"Confidence","thetaf","xgbreg",1.54,1.8,1.01,1.08,0.07,TRUE
+"Confidence","thetaf","lgbcls",1.61,1.65,1.14,1.15,0.01,TRUE
+"Confidence","thetaf","lgbreg",1.58,1.85,0.97,1.08,0.11,TRUE
+"Imports","ETS","Total series",27.13,27.13,1.6,1.6,0,NA
+"Imports","ETS","xgbcls",26.05,27.2,1.18,1.18,0,TRUE
+"Imports","ETS","xgbreg",27.7,27.87,1.19,1.09,-0.1,TRUE
+"Imports","ETS","lgbcls",26.1,27.2,1.2,1.17,-0.03,TRUE
+"Imports","ETS","lgbreg",26.39,27.66,1.16,1.09,-0.07,TRUE
+"Imports","thetaf","Total series",26.89,26.89,1.63,1.63,0,NA
+"Imports","thetaf","xgbcls",27.62,27.93,1.16,1.06,-0.1,TRUE
+"Imports","thetaf","xgbreg",27.56,27.38,1.1,1.1,0,TRUE
+"Imports","thetaf","lgbcls",27.86,28.42,1.16,1.1,-0.06,TRUE
+"Imports","thetaf","lgbreg",27.53,28.75,1.08,1.08,0,TRUE
