@@ -1,0 +1,55 @@
+"bo","mo_hinh","nhan","phuong_phap","MAPE_bai_bao","MAPE_tai_hien","MASE_bai_bao","MASE_tai_hien","MASE_m5_tai_hien","MASE_m10_sua","chenh_MASE","m10_tru_m5","tot_hon_total"
+"Yearly","ETS","Total","Total series",18.06,18.06,3.44,3.44,3.44,3.44,0,0,NA
+"Yearly","ETS","Actual","xgbcls",17.18,17.27,2.67,2.67,2.61,2.67,0,0.06,TRUE
+"Yearly","ETS","Actual","xgbreg",17.22,17.26,2.7,2.99,2.64,2.7,0.29,0.35,TRUE
+"Yearly","ETS","Actual","lgbcls",17.32,17.31,2.68,2.63,2.62,2.63,-0.05,0.01,TRUE
+"Yearly","ETS","Actual","lgbreg",17,17.21,2.7,2.99,2.66,2.7,0.29,0.33,TRUE
+"Yearly","ETS","Average","xgbcls",16.94,17.14,2.63,2.55,2.59,2.55,-0.08,-0.04,TRUE
+"Yearly","ETS","Average","xgbreg",16.8,17.24,2.67,2.98,2.67,2.68,0.31,0.31,TRUE
+"Yearly","ETS","Average","lgbcls",16.84,17.25,2.57,2.56,2.53,2.56,-0.01,0.03,TRUE
+"Yearly","ETS","Average","lgbreg",16.88,17.21,2.67,2.98,2.7,2.69,0.31,0.28,TRUE
+"Yearly","thetaf","Total","Total series",17.06,17.06,3.4,3.4,3.4,3.4,0,0,NA
+"Yearly","thetaf","Actual","xgbcls",17.11,17.13,2.63,2.47,2.49,2.47,-0.16,-0.02,TRUE
+"Yearly","thetaf","Actual","xgbreg",17.12,16.85,2.65,2.94,2.51,2.53,0.29,0.43,TRUE
+"Yearly","thetaf","Actual","lgbcls",17.57,17.14,2.62,2.49,2.48,2.49,-0.13,0.01,TRUE
+"Yearly","thetaf","Actual","lgbreg",17.12,16.86,2.65,2.94,2.51,2.54,0.29,0.43,TRUE
+"Yearly","thetaf","Average","xgbcls",16.84,17.48,2.65,2.44,2.42,2.44,-0.21,0.02,TRUE
+"Yearly","thetaf","Average","xgbreg",16.93,16.83,2.67,2.93,2.51,2.52,0.26,0.42,TRUE
+"Yearly","thetaf","Average","lgbcls",16.91,17.27,2.65,2.49,2.42,2.49,-0.16,0.07,TRUE
+"Yearly","thetaf","Average","lgbreg",16.79,16.86,2.67,2.94,2.52,2.53,0.27,0.42,TRUE
+"Quarterly","ETS","Total","Total series",12.2,11.47,1.15,1.17,1.17,1.17,0.02,0,NA
+"Quarterly","ETS","Actual","xgbcls",11.86,11.17,1,1.02,1.04,1.02,0.02,-0.02,TRUE
+"Quarterly","ETS","Actual","xgbreg",11.96,13.78,0.98,1.06,1.02,1,0.08,0.04,TRUE
+"Quarterly","ETS","Actual","lgbcls",11.88,11.45,1,1.01,1.04,1.01,0.01,-0.03,TRUE
+"Quarterly","ETS","Actual","lgbreg",11.93,13.84,0.98,1.07,1.03,0.98,0.09,0.04,TRUE
+"Quarterly","ETS","Average","xgbcls",11.96,12.25,0.96,1,1,1,0.04,0,TRUE
+"Quarterly","ETS","Average","xgbreg",11.93,13.86,0.97,1.06,1.02,1,0.09,0.04,TRUE
+"Quarterly","ETS","Average","lgbcls",11.92,12.42,0.95,1,1.02,1,0.05,-0.02,TRUE
+"Quarterly","ETS","Average","lgbreg",11.99,13.84,0.98,1.06,1.01,1,0.08,0.05,TRUE
+"Quarterly","thetaf","Total","Total series",11.82,11.11,1.22,1.25,1.25,1.25,0.03,0,NA
+"Quarterly","thetaf","Actual","xgbcls",12.35,12.65,1.07,1.08,1.05,1.08,0.01,0.03,TRUE
+"Quarterly","thetaf","Actual","xgbreg",12.06,11.37,1,1.09,1.03,1,0.09,0.06,TRUE
+"Quarterly","thetaf","Actual","lgbcls",12.58,12.46,1.08,1.09,1.02,1.09,0.01,0.07,TRUE
+"Quarterly","thetaf","Actual","lgbreg",12.03,11.38,1,1.09,1.03,1,0.09,0.06,TRUE
+"Quarterly","thetaf","Average","xgbcls",12,12.07,1,1.05,1.02,1.05,0.05,0.03,TRUE
+"Quarterly","thetaf","Average","xgbreg",11.92,11.32,0.99,1.09,1.04,1.02,0.1,0.05,TRUE
+"Quarterly","thetaf","Average","lgbcls",12,12.02,1,1.05,1.02,1.05,0.05,0.03,TRUE
+"Quarterly","thetaf","Average","lgbreg",11.97,11.36,1,1.09,1.03,1.01,0.09,0.06,TRUE
+"Monthly","ETS","Total","Total series",16.83,16.79,0.95,0.98,0.98,0.98,0.03,0,NA
+"Monthly","ETS","Actual","xgbcls",16.75,17.22,0.9,0.97,0.91,0.97,0.07,0.06,TRUE
+"Monthly","ETS","Actual","xgbreg",16.87,17.04,0.91,0.95,0.92,0.94,0.04,0.03,TRUE
+"Monthly","ETS","Actual","lgbcls",16.75,17.15,0.91,0.96,0.92,0.96,0.05,0.04,TRUE
+"Monthly","ETS","Actual","lgbreg",16.89,16.87,0.91,0.93,0.9,0.9,0.02,0.03,TRUE
+"Monthly","ETS","Average","xgbcls",16.54,16.62,0.88,0.9,0.91,0.9,0.02,-0.01,TRUE
+"Monthly","ETS","Average","xgbreg",16.92,16.92,0.91,0.93,0.92,0.91,0.02,0.01,TRUE
+"Monthly","ETS","Average","lgbcls",16.52,16.71,0.88,0.91,0.9,0.91,0.03,0.01,TRUE
+"Monthly","ETS","Average","lgbreg",16.92,17.07,0.91,0.93,0.92,0.9,0.02,0.01,TRUE
+"Monthly","thetaf","Total","Total series",15.68,16.05,0.97,1.02,1.02,1.02,0.05,0,NA
+"Monthly","thetaf","Actual","xgbcls",15.88,16.53,0.92,0.97,0.98,0.97,0.05,-0.01,TRUE
+"Monthly","thetaf","Actual","xgbreg",15.71,15.89,0.93,0.96,0.95,0.93,0.03,0.01,TRUE
+"Monthly","thetaf","Actual","lgbcls",15.91,16.75,0.94,0.99,0.96,0.99,0.05,0.03,TRUE
+"Monthly","thetaf","Actual","lgbreg",15.72,15.84,0.93,0.96,0.92,0.92,0.03,0.04,TRUE
+"Monthly","thetaf","Average","xgbcls",15.95,16.02,0.9,0.91,0.93,0.91,0.01,-0.02,TRUE
+"Monthly","thetaf","Average","xgbreg",15.68,15.89,0.92,0.96,0.92,0.93,0.04,0.04,TRUE
+"Monthly","thetaf","Average","lgbcls",15.92,16.24,0.9,0.93,0.93,0.93,0.03,0,TRUE
+"Monthly","thetaf","Average","lgbreg",15.71,15.77,0.93,0.95,0.92,0.93,0.02,0.03,TRUE
