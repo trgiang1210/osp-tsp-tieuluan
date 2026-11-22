@@ -1,0 +1,25 @@
+mo_hinh,nhom,phuong_phap,nhan,MASE_moi,so_voi,p_wilcoxon,ty_le_dung_khoang_tran,MASE_cu
+ets,Moc,Total series,NA,3.443647227,NA,NA,NA,3.443647227
+ets,OSP goc (mau so A),xgbcls,min,3.274189575,Total series,0.001576891,0.28057766,2.61242497
+ets,OSP goc (mau so A),xgbreg,min,3.261558976,Total series,0.000171021,0.194076039,2.642393252
+ets,OSP goc (mau so A),lgbcls,min,3.274036808,Total series,0.003874003,0.288387857,2.619889651
+ets,OSP goc (mau so A),lgbreg,min,3.260755451,Total series,0.000485678,0.188623637,2.656814345
+ets,OSP goc (mau so A),xgbcls,mean,3.102456159,Total series,6.38602051928507e-34,0.283819629,2.591433611
+ets,OSP goc (mau so A),xgbreg,mean,3.222300231,Total series,5.69371533619843e-10,0.189802535,2.671395749
+ets,OSP goc (mau so A),lgbcls,mean,3.108553421,Total series,3.2818663237675e-35,0.284703802,2.532036995
+ets,OSP goc (mau so A),lgbreg,mean,3.226411222,Total series,1.24510514831843e-08,0.180371353,2.697241279
+ets,Moc,Random 4 diem,NA,3.230462058,Total series,4.58837924909043e-10,NA,3.136517423
+ets,Tran (tham khao),Tran: khoang tot nhat (TB 4 diem),NA,2.363822059,NA,NA,NA,NA
+ets,Tran (tham khao),Tran: diem don le tot nhat trong 20,NA,2.055806342,NA,NA,NA,NA
+thetaf,Moc,Total series,NA,3.396207909,NA,NA,NA,3.396207909
+thetaf,OSP goc (mau so A),xgbcls,min,3.198254041,Total series,6.5270752363114e-75,0.448275862,2.48931999
+thetaf,OSP goc (mau so A),xgbreg,min,3.195382209,Total series,9.99207588170345e-93,0.243000295,2.512778407
+thetaf,OSP goc (mau so A),lgbcls,min,3.207226216,Total series,1.38136133510772e-64,0.446360153,2.480925957
+thetaf,OSP goc (mau so A),lgbreg,min,3.210604361,Total series,4.57975427926673e-79,0.211612143,2.510270897
+thetaf,OSP goc (mau so A),xgbcls,mean,3.14153203,Total series,5.11949850675961e-143,0.466990864,2.420299843
+thetaf,OSP goc (mau so A),xgbreg,mean,3.189691805,Total series,4.05745362493373e-116,0.21942234,2.511089217
+thetaf,OSP goc (mau so A),lgbcls,mean,3.135363578,Total series,2.24478500824392e-146,0.474653699,2.42155213
+thetaf,OSP goc (mau so A),lgbreg,mean,3.197934913,Total series,6.041589866338e-107,0.196433834,2.520047294
+thetaf,Moc,Random 4 diem,NA,3.285823621,Total series,4.78545775765898e-75,NA,3.191421836
+thetaf,Tran (tham khao),Tran: khoang tot nhat (TB 4 diem),NA,2.832280005,NA,NA,NA,NA
+thetaf,Tran (tham khao),Tran: diem don le tot nhat trong 20,NA,2.642590786,NA,NA,NA,NA

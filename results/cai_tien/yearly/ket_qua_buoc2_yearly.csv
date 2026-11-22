@@ -1,0 +1,27 @@
+"mo_hinh","nhom","phuong_phap","nhan","MASE_moi","so_voi","p_wilcoxon","ty_le_dung_khoang_tran"
+"ets","Moc","Total series",NA,3.44364722716086,NA,NA,NA
+"ets","OSP goc (mau so A)","xgbcls","min",3.27418957546684,"Total series",0.00157689103245038,0.280577659888005
+"ets","OSP goc (mau so A)","xgbreg","min",3.26155897643071,"Total series",0.000171020851422845,0.194076038903625
+"ets","OSP goc (mau so A)","lgbcls","min",3.27403680849299,"Total series",0.0038740028717443,0.288387857353375
+"ets","OSP goc (mau so A)","lgbreg","min",3.26075545147256,"Total series",0.000485678286920611,0.188623636899499
+"ets","OSP goc (mau so A)","xgbcls","mean",3.10245615875168,"Total series",6.38602051928507e-34,0.283819628647215
+"ets","OSP goc (mau so A)","xgbreg","mean",3.22230023072518,"Total series",5.69371533619843e-10,0.189802534630121
+"ets","OSP goc (mau so A)","lgbcls","mean",3.10855342090403,"Total series",3.2818663237675e-35,0.284703801945181
+"ets","OSP goc (mau so A)","lgbreg","mean",3.22641122191861,"Total series",1.24510514831843e-08,0.180371352785146
+"ets","Moc","TB deu 5 khoang",NA,3.17471475665651,"Total series",3.11114113591438e-26,NA
+"ets","Cai tien: ket hop mem","Ket hop mem (lgbcls)","min",3.13380014702443,"lgbcls_min",3.19696876277482e-25,NA
+"ets","Cai tien: ket hop mem","Ket hop mem (lgbcls)","mean",3.10039001456749,"lgbcls_mean",0.734013676139921,NA
+"ets","Tran (tham khao)","Tran: khoang tot nhat (TB 4 diem)",NA,2.36382205893519,NA,NA,NA
+"thetaf","Moc","Total series",NA,3.3962079087833,NA,NA,NA
+"thetaf","OSP goc (mau so A)","xgbcls","min",3.1982540410356,"Total series",6.5270752363114e-75,0.448275862068966
+"thetaf","OSP goc (mau so A)","xgbreg","min",3.19538220873491,"Total series",9.99207588170345e-93,0.243000294724433
+"thetaf","OSP goc (mau so A)","lgbcls","min",3.20722621572297,"Total series",1.38136133510772e-64,0.446360153256705
+"thetaf","OSP goc (mau so A)","lgbreg","min",3.21060436094864,"Total series",4.57975427926673e-79,0.211612142646625
+"thetaf","OSP goc (mau so A)","xgbcls","mean",3.14153203034067,"Total series",5.11949850675961e-143,0.466990863542588
+"thetaf","OSP goc (mau so A)","xgbreg","mean",3.1896918045463,"Total series",4.05745362493373e-116,0.219422340111995
+"thetaf","OSP goc (mau so A)","lgbcls","mean",3.13536357815206,"Total series",2.24478500824392e-146,0.47465369879163
+"thetaf","OSP goc (mau so A)","lgbreg","mean",3.19793491261467,"Total series",6.041589866338e-107,0.196433834364869
+"thetaf","Moc","TB deu 5 khoang",NA,3.27016291236254,"Total series",7.72304220123635e-96,NA
+"thetaf","Cai tien: ket hop mem","Ket hop mem (lgbcls)","min",3.18716514672697,"lgbcls_min",0.00716694033008647,NA
+"thetaf","Cai tien: ket hop mem","Ket hop mem (lgbcls)","mean",3.17188305910668,"lgbcls_mean",0,NA
+"thetaf","Tran (tham khao)","Tran: khoang tot nhat (TB 4 diem)",NA,2.83228000504145,NA,NA,NA

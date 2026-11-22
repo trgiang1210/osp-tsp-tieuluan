@@ -1,0 +1,41 @@
+"mo_hinh","nhom","phuong_phap","nhan","MASE_moi","so_voi","ty_le_dung_khoang_tran","thay_doi_so_voi_moc_pct"
+"ets","Moc","Total series",NA,3.44364722716086,NA,NA,NA
+"ets","OSP goc (mau so A)","xgbcls","min",3.27418957546684,"Total series",0.280577659888005,-4.92
+"ets","OSP goc (mau so A)","xgbreg","min",3.26155897643071,"Total series",0.194076038903625,-5.29
+"ets","OSP goc (mau so A)","lgbcls","min",3.27403680849299,"Total series",0.288387857353375,-4.93
+"ets","OSP goc (mau so A)","lgbreg","min",3.26075545147256,"Total series",0.188623636899499,-5.31
+"ets","OSP goc (mau so A)","xgbcls","mean",3.10245615875168,"Total series",0.283819628647215,-9.91
+"ets","OSP goc (mau so A)","xgbreg","mean",3.22230023072518,"Total series",0.189802534630121,-6.43
+"ets","OSP goc (mau so A)","lgbcls","mean",3.10855342090403,"Total series",0.284703801945181,-9.73
+"ets","OSP goc (mau so A)","lgbreg","mean",3.22641122191861,"Total series",0.180371352785146,-6.31
+"ets","Moc","TB deu 5 khoang (n = 4)",NA,3.17471475665651,"Total series",NA,-7.81
+"ets","Giam diem: n = 2","xgbcls (n = 2)","min",3.24186527197707,"xgbcls_min",0.27763041556145,-0.99
+"ets","Giam diem: n = 2","xgbreg (n = 2)","min",3.27402514657843,"xgbreg_min",0.186413203654583,0.38
+"ets","Giam diem: n = 2","lgbcls (n = 2)","min",3.26233874750011,"lgbcls_min",0.292513999410551,-0.36
+"ets","Giam diem: n = 2","lgbreg (n = 2)","min",3.26913111053674,"lgbreg_min",0.186560565870911,0.26
+"ets","Giam diem: n = 2","xgbcls (n = 2)","mean",3.17841772056122,"xgbcls_mean",0.274977895667551,2.45
+"ets","Giam diem: n = 2","xgbreg (n = 2)","mean",3.2304078496275,"xgbreg_mean",0.186265841438255,0.25
+"ets","Giam diem: n = 2","lgbcls (n = 2)","mean",3.15765375491224,"lgbcls_mean",0.285587975243148,1.58
+"ets","Giam diem: n = 2","lgbreg (n = 2)","mean",3.26054607645464,"lgbreg_mean",0.174476864132037,1.06
+"ets","Tran (tham khao)","Tran n = 4: khoang tot nhat",NA,2.36382205893519,NA,NA,NA
+"ets","Tran (tham khao)","Tran n = 2: khoang tot nhat",NA,2.37089304770636,NA,NA,NA
+"thetaf","Moc","Total series",NA,3.3962079087833,NA,NA,NA
+"thetaf","OSP goc (mau so A)","xgbcls","min",3.1982540410356,"Total series",0.448275862068966,-5.83
+"thetaf","OSP goc (mau so A)","xgbreg","min",3.19538220873491,"Total series",0.243000294724433,-5.91
+"thetaf","OSP goc (mau so A)","lgbcls","min",3.20722621572297,"Total series",0.446360153256705,-5.56
+"thetaf","OSP goc (mau so A)","lgbreg","min",3.21060436094864,"Total series",0.211612142646625,-5.47
+"thetaf","OSP goc (mau so A)","xgbcls","mean",3.14153203034067,"Total series",0.466990863542588,-7.5
+"thetaf","OSP goc (mau so A)","xgbreg","mean",3.1896918045463,"Total series",0.219422340111995,-6.08
+"thetaf","OSP goc (mau so A)","lgbcls","mean",3.13536357815206,"Total series",0.47465369879163,-7.68
+"thetaf","OSP goc (mau so A)","lgbreg","mean",3.19793491261467,"Total series",0.196433834364869,-5.84
+"thetaf","Moc","TB deu 5 khoang (n = 4)",NA,3.27016291236254,"Total series",NA,-3.71
+"thetaf","Giam diem: n = 2","xgbcls (n = 2)","min",3.17589194725539,"xgbcls_min",0.464927792513999,-0.7
+"thetaf","Giam diem: n = 2","xgbreg (n = 2)","min",3.20268353323108,"xgbreg_min",0.239168877099912,0.23
+"thetaf","Giam diem: n = 2","lgbcls (n = 2)","min",3.19526713798613,"lgbcls_min",0.46360153256705,-0.37
+"thetaf","Giam diem: n = 2","lgbreg (n = 2)","min",3.20415655149903,"lgbreg_min",0.214264662540525,-0.2
+"thetaf","Giam diem: n = 2","xgbcls (n = 2)","mean",3.15708418034236,"xgbcls_mean",0.469348659003831,0.5
+"thetaf","Giam diem: n = 2","xgbreg (n = 2)","mean",3.19310702513769,"xgbreg_mean",0.222516946654878,0.11
+"thetaf","Giam diem: n = 2","lgbcls (n = 2)","mean",3.15807967847018,"lgbcls_mean",0.469790745652815,0.72
+"thetaf","Giam diem: n = 2","lgbreg (n = 2)","mean",3.20078967026209,"lgbreg_mean",0.202328323017978,0.09
+"thetaf","Tran (tham khao)","Tran n = 4: khoang tot nhat",NA,2.83228000504145,NA,NA,NA
+"thetaf","Tran (tham khao)","Tran n = 2: khoang tot nhat",NA,2.84952672424386,NA,NA,NA

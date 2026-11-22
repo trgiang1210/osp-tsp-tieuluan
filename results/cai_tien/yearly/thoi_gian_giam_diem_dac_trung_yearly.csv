@@ -1,0 +1,17 @@
+"mo_hinh","n","bo_dac_trung","so_cot","giay_huan_luyen_8_mo_hinh"
+"ets",4,"tsfeatures",17,NA
+"ets",4,"tsfeatures + diem gay",23,11.8699999999999
+"ets",4,"tsfeatures + catch22",39,16.1000000000004
+"ets",4,"tsfeatures + catch22 + diem gay",45,16.75
+"ets",2,"tsfeatures",17,11.8099999999995
+"ets",2,"tsfeatures + diem gay",23,11.9499999999998
+"ets",2,"tsfeatures + catch22",39,16.0799999999999
+"ets",2,"tsfeatures + catch22 + diem gay",45,16.6099999999997
+"thetaf",4,"tsfeatures",17,NA
+"thetaf",4,"tsfeatures + diem gay",23,11.9699999999993
+"thetaf",4,"tsfeatures + catch22",39,16.3099999999995
+"thetaf",4,"tsfeatures + catch22 + diem gay",45,17.1599999999999
+"thetaf",2,"tsfeatures",17,11.7300000000005
+"thetaf",2,"tsfeatures + diem gay",23,12.3000000000002
+"thetaf",2,"tsfeatures + catch22",39,16.2199999999993
+"thetaf",2,"tsfeatures + catch22 + diem gay",45,16.9499999999998
