@@ -1,0 +1,17 @@
+"mo_hinh","n","bo_dac_trung","bien_the_tot_nhat","MASE","giam_so_voi_total_pct","doi_so_voi_osp_goc_tot_nhat_pct"
+"ets",4,"tsfeatures","xgbreg min",1.17836280132135,0.63,0
+"ets",4,"tsfeatures + diem gay","xgbcls min",1.17810702191942,0.61,-0.02
+"ets",4,"tsfeatures + catch22","xgbcls mean",1.17528697603729,0.37,-0.26
+"ets",4,"tsfeatures + catch22 + diem gay","lgbreg mean",1.17126582808351,0.02,-0.6
+"ets",2,"tsfeatures","lgbcls mean",1.17873090680034,0.66,0.03
+"ets",2,"tsfeatures + diem gay","xgbcls mean",1.17638125199005,0.46,-0.17
+"ets",2,"tsfeatures + catch22","xgbcls mean",1.17820856431777,0.62,-0.01
+"ets",2,"tsfeatures + catch22 + diem gay","xgbcls mean",1.17201302184069,0.09,-0.54
+"thetaf",4,"tsfeatures","lgbreg min",1.23075640388696,-1.54,0
+"thetaf",4,"tsfeatures + diem gay","xgbcls mean",1.22013784222022,-2.39,-0.86
+"thetaf",4,"tsfeatures + catch22","lgbreg min",1.23554663329285,-1.16,0.39
+"thetaf",4,"tsfeatures + catch22 + diem gay","xgbcls mean",1.23264199529398,-1.39,0.15
+"thetaf",2,"tsfeatures","xgbreg mean",1.23116635344419,-1.51,0.03
+"thetaf",2,"tsfeatures + diem gay","lgbreg mean",1.22377957106088,-2.1,-0.57
+"thetaf",2,"tsfeatures + catch22","lgbcls mean",1.22331893758278,-2.14,-0.6
+"thetaf",2,"tsfeatures + catch22 + diem gay","lgbcls mean",1.22886187537534,-1.7,-0.15
