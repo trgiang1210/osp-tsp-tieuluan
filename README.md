@@ -51,3 +51,20 @@ Bảng 9 dùng 5 chuỗi GRATIS thay vì 50. Không tái hiện Bảng 6 và bư
 ## Kết quả
 
 Trong `results/`; file `so_sanh_bang*.csv` đặt số tái hiện cạnh số bài báo. File `.RData` trung gian không được đưa lên do dung lượng.
+
+## Phần cải tiến (`scripts/cai_tien/`, kết quả ở `results/cai_tien/`)
+
+Bộ M4 Năm chạy trên toàn bộ 23.000 chuỗi; Quý và Tháng dùng mẫu 1.000 chuỗi (`set.seed(2026)`). Mỗi script nạp `cai_tien_chung.R`; thư mục `quarterly/` và `monthly/` là bản tương ứng cho hai tần suất còn lại.
+
+| Script | Nội dung |
+|---|---|
+| `cai_tien_1_mau_so` | Cố định mẫu số MASE (sửa cách đánh giá, không phải cải tiến mô hình) |
+| `cai_tien_2_ket_hop_mem` | Kết hợp mềm: trung bình dự báo của 5 khoảng, trọng số là xác suất lgbcls |
+| `cai_tien_3_giam_diem`, `cai_tien_3b_giam_diem_dac_trung` | Giảm số điểm bắt đầu n = 4 → 2 |
+| `cai_tien_4_catch22` | Thêm 22 đặc trưng catch22 (đã thử, không chọn) |
+| `cai_tien_4b_diem_gay` | Thêm 6 đặc trưng điểm gãy, cửa sổ rộng 5 |
+| `cai_tien_5_do_thoi_gian_n2` | Đo thời gian tạo nhãn n = 4 so với n = 2 |
+| `cai_tien_6_song_song` | Song song hóa bước tạo nhãn (`parallel`, 5 lõi) |
+| `cai_tien_7_doi_mo_hinh` | Đổi mô hình dự đoán khoảng sang Random Forest và glmnet (chỉ dữ liệu Năm) |
+
+Cần cài thêm: `ranger`, `glmnet`, `Rcatch22`, `tsfeatures`.
