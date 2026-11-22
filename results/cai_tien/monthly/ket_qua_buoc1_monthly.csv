@@ -1,0 +1,25 @@
+"mo_hinh","nhom","phuong_phap","nhan","MASE_moi","so_voi","p_wilcoxon","ty_le_dung_khoang_tran","MASE_cu"
+"ets","Moc","Total series",NA,0.97929438483845,NA,NA,NA,0.97929438483845
+"ets","OSP goc (mau so A)","xgbcls","min",0.985715027757171,"Total series",0.191693657511008,0.221183800623053,0.910813930372583
+"ets","OSP goc (mau so A)","xgbreg","min",0.999162362241779,"Total series",0.101789912475543,0.143302180685358,0.919011532476232
+"ets","OSP goc (mau so A)","lgbcls","min",0.96818015745624,"Total series",0.700332139546591,0.242990654205607,0.923560293362622
+"ets","OSP goc (mau so A)","lgbreg","min",0.99309325644336,"Total series",0.102171180381172,0.158878504672897,0.896626141566338
+"ets","OSP goc (mau so A)","xgbcls","mean",0.964291115124649,"Total series",0.441617240512951,0.236760124610592,0.908661279454665
+"ets","OSP goc (mau so A)","xgbreg","mean",0.983173415652783,"Total series",0.562195937311188,0.174454828660436,0.918911367694578
+"ets","OSP goc (mau so A)","lgbcls","mean",0.958887922603122,"Total series",0.205823047624834,0.264797507788162,0.895062393557995
+"ets","OSP goc (mau so A)","lgbreg","mean",0.982634922417977,"Total series",0.417893294101371,0.171339563862928,0.917648353545137
+"ets","Moc","Random 4 diem",NA,0.983162501621009,"Total series",0.843260648729594,NA,0.981535352093481
+"ets","Tran (tham khao)","Tran: khoang tot nhat (TB 4 diem)",NA,0.826971125747863,NA,NA,NA,NA
+"ets","Tran (tham khao)","Tran: diem don le tot nhat trong 20",NA,0.733562117839367,NA,NA,NA,NA
+"thetaf","Moc","Total series",NA,1.02097547777182,NA,NA,NA,1.02097547777182
+"thetaf","OSP goc (mau so A)","xgbcls","min",1.06212445144808,"Total series",0.089241282751702,0.314641744548287,0.975378183488482
+"thetaf","OSP goc (mau so A)","xgbreg","min",1.03356322293026,"Total series",0.669192079684948,0.168224299065421,0.945547076790074
+"thetaf","OSP goc (mau so A)","lgbcls","min",1.07395058613478,"Total series",0.0706719018412238,0.327102803738318,0.958686015962056
+"thetaf","OSP goc (mau so A)","lgbreg","min",1.01972811937482,"Total series",0.804923826516853,0.205607476635514,0.91756608848702
+"thetaf","OSP goc (mau so A)","xgbcls","mean",0.995733839637655,"Total series",0.167302399044682,0.29595015576324,0.933344808066355
+"thetaf","OSP goc (mau so A)","xgbreg","mean",1.00479769939187,"Total series",0.342692183906489,0.183800623052959,0.918607608895267
+"thetaf","OSP goc (mau so A)","lgbcls","mean",1.02468924515879,"Total series",0.373160092378696,0.317757009345794,0.930987132913876
+"thetaf","OSP goc (mau so A)","lgbreg","mean",1.00596682673378,"Total series",0.47938766761891,0.137071651090343,0.923298904042842
+"thetaf","Moc","Random 4 diem",NA,1.0336979105781,"Total series",0.923880403880162,NA,1.02131405221942
+"thetaf","Tran (tham khao)","Tran: khoang tot nhat (TB 4 diem)",NA,0.872816473462435,NA,NA,NA,NA
+"thetaf","Tran (tham khao)","Tran: diem don le tot nhat trong 20",NA,0.794969847287994,NA,NA,NA,NA

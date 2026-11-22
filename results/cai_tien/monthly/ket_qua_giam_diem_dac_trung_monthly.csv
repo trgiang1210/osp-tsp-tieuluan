@@ -1,0 +1,129 @@
+"mo_hinh","n","bo_dac_trung","bien_the","nhan","MASE","ty_le_dung_khoang_tran","giam_so_voi_total_pct","doi_so_voi_n4_cung_dt_pct","doi_so_voi_tsfeatures_cung_n_pct"
+"ets",4,"tsfeatures","xgbcls","min",0.985715027757171,0.221183800623053,0.66,0,0
+"ets",4,"tsfeatures","xgbreg","min",0.999162362241779,0.143302180685358,2.03,0,0
+"ets",4,"tsfeatures","lgbcls","min",0.96818015745624,0.242990654205607,-1.13,0,0
+"ets",4,"tsfeatures","lgbreg","min",0.99309325644336,0.158878504672897,1.41,0,0
+"ets",4,"tsfeatures","xgbcls","mean",0.964291115124649,0.236760124610592,-1.53,0,0
+"ets",4,"tsfeatures","xgbreg","mean",0.983173415652783,0.174454828660436,0.4,0,0
+"ets",4,"tsfeatures","lgbcls","mean",0.958887922603122,0.264797507788162,-2.08,0,0
+"ets",4,"tsfeatures","lgbreg","mean",0.982634922417977,0.171339563862928,0.34,0,0
+"ets",4,"tsfeatures + diem gay","xgbcls","min",0.990265503425402,0.202492211838006,1.12,0,0.46
+"ets",4,"tsfeatures + diem gay","xgbreg","min",0.98683756393715,0.174454828660436,0.77,0,-1.23
+"ets",4,"tsfeatures + diem gay","lgbcls","min",0.990013369303138,0.224299065420561,1.09,0,2.26
+"ets",4,"tsfeatures + diem gay","lgbreg","min",0.996056882696784,0.143302180685358,1.71,0,0.3
+"ets",4,"tsfeatures + diem gay","xgbcls","mean",0.947808423768666,0.277258566978193,-3.22,0,-1.71
+"ets",4,"tsfeatures + diem gay","xgbreg","mean",0.986132220038422,0.168224299065421,0.7,0,0.3
+"ets",4,"tsfeatures + diem gay","lgbcls","mean",0.967488615153077,0.264797507788162,-1.21,0,0.9
+"ets",4,"tsfeatures + diem gay","lgbreg","mean",0.996132022987595,0.146417445482866,1.72,0,1.37
+"ets",4,"tsfeatures + catch22","xgbcls","min",0.991553059367634,0.233644859813084,1.25,0,0.59
+"ets",4,"tsfeatures + catch22","xgbreg","min",0.993728869249652,0.171339563862928,1.47,0,-0.54
+"ets",4,"tsfeatures + catch22","lgbcls","min",0.992917990583471,0.246105919003115,1.39,0,2.56
+"ets",4,"tsfeatures + catch22","lgbreg","min",0.992780954182881,0.121495327102804,1.38,0,-0.03
+"ets",4,"tsfeatures + catch22","xgbcls","mean",0.97180229797303,0.271028037383178,-0.77,0,0.78
+"ets",4,"tsfeatures + catch22","xgbreg","mean",0.990941044131902,0.158878504672897,1.19,0,0.79
+"ets",4,"tsfeatures + catch22","lgbcls","mean",0.980478754598934,0.289719626168224,0.12,0,2.25
+"ets",4,"tsfeatures + catch22","lgbreg","mean",0.987210358234112,0.168224299065421,0.81,0,0.47
+"ets",4,"tsfeatures + catch22 + diem gay","xgbcls","min",0.993489994599465,0.2398753894081,1.45,0,0.79
+"ets",4,"tsfeatures + catch22 + diem gay","xgbreg","min",0.985104579462326,0.168224299065421,0.59,0,-1.41
+"ets",4,"tsfeatures + catch22 + diem gay","lgbcls","min",1.00819018491893,0.233644859813084,2.95,0,4.13
+"ets",4,"tsfeatures + catch22 + diem gay","lgbreg","min",0.988088384292729,0.149532710280374,0.9,0,-0.5
+"ets",4,"tsfeatures + catch22 + diem gay","xgbcls","mean",0.971582829339439,0.264797507788162,-0.79,0,0.76
+"ets",4,"tsfeatures + catch22 + diem gay","xgbreg","mean",0.989900144888022,0.165109034267913,1.08,0,0.68
+"ets",4,"tsfeatures + catch22 + diem gay","lgbcls","mean",0.960358643860555,0.308411214953271,-1.93,0,0.15
+"ets",4,"tsfeatures + catch22 + diem gay","lgbreg","mean",0.992779970303931,0.115264797507788,1.38,0,1.03
+"ets",2,"tsfeatures","xgbcls","min",0.992167826993777,0.221183800623053,1.31,0.65,0
+"ets",2,"tsfeatures","xgbreg","min",1.00678813506937,0.171339563862928,2.81,0.76,0
+"ets",2,"tsfeatures","lgbcls","min",0.989767885516342,0.233644859813084,1.07,2.23,0
+"ets",2,"tsfeatures","lgbreg","min",0.997146922950684,0.143302180685358,1.82,0.41,0
+"ets",2,"tsfeatures","xgbcls","mean",0.977554323841063,0.21183800623053,-0.18,1.38,0
+"ets",2,"tsfeatures","xgbreg","mean",0.974980300578878,0.177570093457944,-0.44,-0.83,0
+"ets",2,"tsfeatures","lgbcls","mean",0.983545295870527,0.183800623052959,0.43,2.57,0
+"ets",2,"tsfeatures","lgbreg","mean",0.973642855573544,0.205607476635514,-0.58,-0.92,0
+"ets",2,"tsfeatures + diem gay","xgbcls","min",0.981710939706898,0.221183800623053,0.25,-0.86,-1.05
+"ets",2,"tsfeatures + diem gay","xgbreg","min",0.995815844193151,0.158878504672897,1.69,0.91,-1.09
+"ets",2,"tsfeatures + diem gay","lgbcls","min",0.973303155736067,0.255451713395639,-0.61,-1.69,-1.66
+"ets",2,"tsfeatures + diem gay","lgbreg","min",0.983330104831755,0.190031152647975,0.41,-1.28,-1.39
+"ets",2,"tsfeatures + diem gay","xgbcls","mean",0.988738917209883,0.193146417445483,0.96,4.32,1.14
+"ets",2,"tsfeatures + diem gay","xgbreg","mean",0.988162368975995,0.193146417445483,0.91,0.21,1.35
+"ets",2,"tsfeatures + diem gay","lgbcls","mean",0.989250923052163,0.205607476635514,1.02,2.25,0.58
+"ets",2,"tsfeatures + diem gay","lgbreg","mean",0.970008985381465,0.202492211838006,-0.95,-2.62,-0.37
+"ets",2,"tsfeatures + catch22","xgbcls","min",0.996725361899513,0.208722741433022,1.78,0.52,0.46
+"ets",2,"tsfeatures + catch22","xgbreg","min",0.995895056233171,0.155763239875389,1.7,0.22,-1.08
+"ets",2,"tsfeatures + catch22","lgbcls","min",1.00056058238547,0.205607476635514,2.17,0.77,1.09
+"ets",2,"tsfeatures + catch22","lgbreg","min",0.99274517858292,0.161993769470405,1.37,0,-0.44
+"ets",2,"tsfeatures + catch22","xgbcls","mean",0.992474730668018,0.202492211838006,1.35,2.13,1.53
+"ets",2,"tsfeatures + catch22","xgbreg","mean",0.971894747251682,0.193146417445483,-0.76,-1.92,-0.32
+"ets",2,"tsfeatures + catch22","lgbcls","mean",0.989319598712594,0.193146417445483,1.02,0.9,0.59
+"ets",2,"tsfeatures + catch22","lgbreg","mean",0.979439580617004,0.180685358255452,0.01,-0.79,0.6
+"ets",2,"tsfeatures + catch22 + diem gay","xgbcls","min",1.0021467098225,0.205607476635514,2.33,0.87,1.01
+"ets",2,"tsfeatures + catch22 + diem gay","xgbreg","min",0.990186529807226,0.165109034267913,1.11,0.52,-1.65
+"ets",2,"tsfeatures + catch22 + diem gay","lgbcls","min",0.99567310761853,0.230529595015576,1.67,-1.24,0.6
+"ets",2,"tsfeatures + catch22 + diem gay","lgbreg","min",0.996785160206194,0.130841121495327,1.79,0.88,-0.04
+"ets",2,"tsfeatures + catch22 + diem gay","xgbcls","mean",0.980963539200042,0.199376947040498,0.17,0.97,0.35
+"ets",2,"tsfeatures + catch22 + diem gay","xgbreg","mean",1.01263903338796,0.180685358255452,3.4,2.3,3.86
+"ets",2,"tsfeatures + catch22 + diem gay","lgbcls","mean",0.974220657328123,0.218068535825545,-0.52,1.44,-0.95
+"ets",2,"tsfeatures + catch22 + diem gay","lgbreg","mean",0.988760591564051,0.190031152647975,0.97,-0.4,1.55
+"thetaf",4,"tsfeatures","xgbcls","min",1.06212445144808,0.314641744548287,4.03,0,0
+"thetaf",4,"tsfeatures","xgbreg","min",1.03356322293026,0.168224299065421,1.23,0,0
+"thetaf",4,"tsfeatures","lgbcls","min",1.07395058613478,0.327102803738318,5.19,0,0
+"thetaf",4,"tsfeatures","lgbreg","min",1.01972811937482,0.205607476635514,-0.12,0,0
+"thetaf",4,"tsfeatures","xgbcls","mean",0.995733839637655,0.29595015576324,-2.47,0,0
+"thetaf",4,"tsfeatures","xgbreg","mean",1.00479769939187,0.183800623052959,-1.58,0,0
+"thetaf",4,"tsfeatures","lgbcls","mean",1.02468924515879,0.317757009345794,0.36,0,0
+"thetaf",4,"tsfeatures","lgbreg","mean",1.00596682673378,0.137071651090343,-1.47,0,0
+"thetaf",4,"tsfeatures + diem gay","xgbcls","min",1.06091249651446,0.348909657320872,3.91,0,-0.11
+"thetaf",4,"tsfeatures + diem gay","xgbreg","min",1.01276329473641,0.227414330218069,-0.8,0,-2.01
+"thetaf",4,"tsfeatures + diem gay","lgbcls","min",1.09057520181309,0.308411214953271,6.82,0,1.55
+"thetaf",4,"tsfeatures + diem gay","lgbreg","min",1.03170674495346,0.221183800623053,1.05,0,1.17
+"thetaf",4,"tsfeatures + diem gay","xgbcls","mean",1.00261409461,0.345794392523364,-1.8,0,0.69
+"thetaf",4,"tsfeatures + diem gay","xgbreg","mean",1.01427915722358,0.202492211838006,-0.66,0,0.94
+"thetaf",4,"tsfeatures + diem gay","lgbcls","mean",1.00984722928143,0.336448598130841,-1.09,0,-1.45
+"thetaf",4,"tsfeatures + diem gay","lgbreg","mean",0.998824433728402,0.152647975077882,-2.17,0,-0.71
+"thetaf",4,"tsfeatures + catch22","xgbcls","min",1.07980895261376,0.317757009345794,5.76,0,1.67
+"thetaf",4,"tsfeatures + catch22","xgbreg","min",1.01776889736938,0.180685358255452,-0.31,0,-1.53
+"thetaf",4,"tsfeatures + catch22","lgbcls","min",1.09120060331748,0.320872274143302,6.88,0,1.61
+"thetaf",4,"tsfeatures + catch22","lgbreg","min",1.02077884022944,0.214953271028037,-0.02,0,0.1
+"thetaf",4,"tsfeatures + catch22","xgbcls","mean",1.0006585572456,0.305295950155763,-1.99,0,0.49
+"thetaf",4,"tsfeatures + catch22","xgbreg","mean",1.00845912072996,0.168224299065421,-1.23,0,0.36
+"thetaf",4,"tsfeatures + catch22","lgbcls","mean",1.01016618711311,0.320872274143302,-1.06,0,-1.42
+"thetaf",4,"tsfeatures + catch22","lgbreg","mean",1.00055815240421,0.168224299065421,-2,0,-0.54
+"thetaf",4,"tsfeatures + catch22 + diem gay","xgbcls","min",1.07902282658547,0.289719626168224,5.69,0,1.59
+"thetaf",4,"tsfeatures + catch22 + diem gay","xgbreg","min",1.03389369074863,0.214953271028037,1.27,0,0.03
+"thetaf",4,"tsfeatures + catch22 + diem gay","lgbcls","min",1.09212147689851,0.314641744548287,6.97,0,1.69
+"thetaf",4,"tsfeatures + catch22 + diem gay","lgbreg","min",1.00806806142802,0.227414330218069,-1.26,0,-1.14
+"thetaf",4,"tsfeatures + catch22 + diem gay","xgbcls","mean",0.998586126782687,0.308411214953271,-2.19,0,0.29
+"thetaf",4,"tsfeatures + catch22 + diem gay","xgbreg","mean",1.00076618763874,0.205607476635514,-1.98,0,-0.4
+"thetaf",4,"tsfeatures + catch22 + diem gay","lgbcls","mean",1.00289745937396,0.333333333333333,-1.77,0,-2.13
+"thetaf",4,"tsfeatures + catch22 + diem gay","lgbreg","mean",0.993698428622812,0.193146417445483,-2.67,0,-1.22
+"thetaf",2,"tsfeatures","xgbcls","min",1.0537736349079,0.314641744548287,3.21,-0.79,0
+"thetaf",2,"tsfeatures","xgbreg","min",1.02343625209197,0.214953271028037,0.24,-0.98,0
+"thetaf",2,"tsfeatures","lgbcls","min",1.044397147021,0.320872274143302,2.29,-2.75,0
+"thetaf",2,"tsfeatures","lgbreg","min",1.02159802313239,0.193146417445483,0.06,0.18,0
+"thetaf",2,"tsfeatures","xgbcls","mean",1.02683555953758,0.314641744548287,0.57,3.12,0
+"thetaf",2,"tsfeatures","xgbreg","mean",1.00276795790957,0.196261682242991,-1.78,-0.2,0
+"thetaf",2,"tsfeatures","lgbcls","mean",1.02491079450627,0.305295950155763,0.39,0.02,0
+"thetaf",2,"tsfeatures","lgbreg","mean",1.00072035064342,0.196261682242991,-1.98,-0.52,0
+"thetaf",2,"tsfeatures + diem gay","xgbcls","min",1.05342685935193,0.264797507788162,3.18,-0.71,-0.03
+"thetaf",2,"tsfeatures + diem gay","xgbreg","min",1.00639220742348,0.208722741433022,-1.43,-0.63,-1.67
+"thetaf",2,"tsfeatures + diem gay","lgbcls","min",1.04791663342292,0.299065420560748,2.64,-3.91,0.34
+"thetaf",2,"tsfeatures + diem gay","lgbreg","min",1.00823331827341,0.193146417445483,-1.25,-2.28,-1.31
+"thetaf",2,"tsfeatures + diem gay","xgbcls","mean",1.0126485525542,0.314641744548287,-0.82,1,-1.38
+"thetaf",2,"tsfeatures + diem gay","xgbreg","mean",1.00367351766013,0.193146417445483,-1.69,-1.05,0.09
+"thetaf",2,"tsfeatures + diem gay","lgbcls","mean",0.997824293617139,0.314641744548287,-2.27,-1.19,-2.64
+"thetaf",2,"tsfeatures + diem gay","lgbreg","mean",1.00574348323359,0.208722741433022,-1.49,0.69,0.5
+"thetaf",2,"tsfeatures + catch22","xgbcls","min",1.05308356446255,0.292834890965732,3.14,-2.48,-0.07
+"thetaf",2,"tsfeatures + catch22","xgbreg","min",1.01672792335838,0.199376947040498,-0.42,-0.1,-0.66
+"thetaf",2,"tsfeatures + catch22","lgbcls","min",1.05640680179846,0.271028037383178,3.47,-3.19,1.15
+"thetaf",2,"tsfeatures + catch22","lgbreg","min",1.00873476762523,0.180685358255452,-1.2,-1.18,-1.26
+"thetaf",2,"tsfeatures + catch22","xgbcls","mean",0.999637116885745,0.308411214953271,-2.09,-0.1,-2.65
+"thetaf",2,"tsfeatures + catch22","xgbreg","mean",1.02053714939553,0.133956386292835,-0.04,1.2,1.77
+"thetaf",2,"tsfeatures + catch22","lgbcls","mean",1.00749685983031,0.320872274143302,-1.32,-0.26,-1.7
+"thetaf",2,"tsfeatures + catch22","lgbreg","mean",1.00114147169898,0.152647975077882,-1.94,0.06,0.04
+"thetaf",2,"tsfeatures + catch22 + diem gay","xgbcls","min",1.04381239261554,0.292834890965732,2.24,-3.26,-0.95
+"thetaf",2,"tsfeatures + catch22 + diem gay","xgbreg","min",1.01824306354643,0.208722741433022,-0.27,-1.51,-0.51
+"thetaf",2,"tsfeatures + catch22 + diem gay","lgbcls","min",1.05265725442938,0.289719626168224,3.1,-3.61,0.79
+"thetaf",2,"tsfeatures + catch22 + diem gay","lgbreg","min",1.00372627530116,0.224299065420561,-1.69,-0.43,-1.75
+"thetaf",2,"tsfeatures + catch22 + diem gay","xgbcls","mean",0.994884795768921,0.311526479750779,-2.56,-0.37,-3.11
+"thetaf",2,"tsfeatures + catch22 + diem gay","xgbreg","mean",1.00288904283607,0.177570093457944,-1.77,0.21,0.01
+"thetaf",2,"tsfeatures + catch22 + diem gay","lgbcls","mean",1.00120176110712,0.32398753894081,-1.94,-0.17,-2.31
+"thetaf",2,"tsfeatures + catch22 + diem gay","lgbreg","mean",1.0064960104201,0.158878504672897,-1.42,1.29,0.58

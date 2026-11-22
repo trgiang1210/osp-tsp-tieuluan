@@ -1,0 +1,55 @@
+"mo_hinh","nhom","phuong_phap","nhan","MASE_moi","so_voi","ty_le_dung_khoang_tran","giam_so_voi_moc_pct"
+"ets","Moc","Total series",NA,0.97929438483845,NA,NA,NA
+"ets","OSP goc (mau so A)","xgbcls","min",0.985715027757171,"Total series",0.221183800623053,0.66
+"ets","OSP goc (mau so A)","xgbreg","min",0.999162362241779,"Total series",0.143302180685358,2.03
+"ets","OSP goc (mau so A)","lgbcls","min",0.96818015745624,"Total series",0.242990654205607,-1.13
+"ets","OSP goc (mau so A)","lgbreg","min",0.99309325644336,"Total series",0.158878504672897,1.41
+"ets","OSP goc (mau so A)","xgbcls","mean",0.964291115124649,"Total series",0.236760124610592,-1.53
+"ets","OSP goc (mau so A)","xgbreg","mean",0.983173415652783,"Total series",0.174454828660436,0.4
+"ets","OSP goc (mau so A)","lgbcls","mean",0.958887922603122,"Total series",0.264797507788162,-2.08
+"ets","OSP goc (mau so A)","lgbreg","mean",0.982634922417977,"Total series",0.171339563862928,0.34
+"ets","Moc","TB deu 5 khoang",NA,0.976042133141308,"Total series",NA,-0.33
+"ets","Cai tien: + diem gay","xgbcls + diem gay","min",0.990265503425402,"xgbcls_min",0.202492211838006,0.46
+"ets","Cai tien: + diem gay","xgbreg + diem gay","min",0.98683756393715,"xgbreg_min",0.174454828660436,-1.23
+"ets","Cai tien: + diem gay","lgbcls + diem gay","min",0.990013369303138,"lgbcls_min",0.224299065420561,2.26
+"ets","Cai tien: + diem gay","lgbreg + diem gay","min",0.996056882696784,"lgbreg_min",0.143302180685358,0.3
+"ets","Cai tien: + diem gay","xgbcls + diem gay","mean",0.947808423768666,"xgbcls_mean",0.277258566978193,-1.71
+"ets","Cai tien: + diem gay","xgbreg + diem gay","mean",0.986132220038422,"xgbreg_mean",0.168224299065421,0.3
+"ets","Cai tien: + diem gay","lgbcls + diem gay","mean",0.967488615153077,"lgbcls_mean",0.264797507788162,0.9
+"ets","Cai tien: + diem gay","lgbreg + diem gay","mean",0.996132022987595,"lgbreg_mean",0.146417445482866,1.37
+"ets","Cai tien: + catch22 + diem gay","xgbcls + catch22 + diem gay","min",0.993489994599465,"xgbcls_min",0.2398753894081,0.79
+"ets","Cai tien: + catch22 + diem gay","xgbreg + catch22 + diem gay","min",0.985104579462326,"xgbreg_min",0.168224299065421,-1.41
+"ets","Cai tien: + catch22 + diem gay","lgbcls + catch22 + diem gay","min",1.00819018491893,"lgbcls_min",0.233644859813084,4.13
+"ets","Cai tien: + catch22 + diem gay","lgbreg + catch22 + diem gay","min",0.988088384292729,"lgbreg_min",0.149532710280374,-0.5
+"ets","Cai tien: + catch22 + diem gay","xgbcls + catch22 + diem gay","mean",0.971582829339439,"xgbcls_mean",0.264797507788162,0.76
+"ets","Cai tien: + catch22 + diem gay","xgbreg + catch22 + diem gay","mean",0.989900144888022,"xgbreg_mean",0.165109034267913,0.68
+"ets","Cai tien: + catch22 + diem gay","lgbcls + catch22 + diem gay","mean",0.960358643860555,"lgbcls_mean",0.308411214953271,0.15
+"ets","Cai tien: + catch22 + diem gay","lgbreg + catch22 + diem gay","mean",0.992779970303931,"lgbreg_mean",0.115264797507788,1.03
+"ets","Tran (tham khao)","Tran: khoang tot nhat (TB 4 diem)",NA,0.826971125747863,NA,NA,NA
+"thetaf","Moc","Total series",NA,1.02097547777182,NA,NA,NA
+"thetaf","OSP goc (mau so A)","xgbcls","min",1.06212445144808,"Total series",0.314641744548287,4.03
+"thetaf","OSP goc (mau so A)","xgbreg","min",1.03356322293026,"Total series",0.168224299065421,1.23
+"thetaf","OSP goc (mau so A)","lgbcls","min",1.07395058613478,"Total series",0.327102803738318,5.19
+"thetaf","OSP goc (mau so A)","lgbreg","min",1.01972811937482,"Total series",0.205607476635514,-0.12
+"thetaf","OSP goc (mau so A)","xgbcls","mean",0.995733839637655,"Total series",0.29595015576324,-2.47
+"thetaf","OSP goc (mau so A)","xgbreg","mean",1.00479769939187,"Total series",0.183800623052959,-1.58
+"thetaf","OSP goc (mau so A)","lgbcls","mean",1.02468924515879,"Total series",0.317757009345794,0.36
+"thetaf","OSP goc (mau so A)","lgbreg","mean",1.00596682673378,"Total series",0.137071651090343,-1.47
+"thetaf","Moc","TB deu 5 khoang",NA,1.01760841599127,"Total series",NA,-0.33
+"thetaf","Cai tien: + diem gay","xgbcls + diem gay","min",1.06091249651446,"xgbcls_min",0.348909657320872,-0.11
+"thetaf","Cai tien: + diem gay","xgbreg + diem gay","min",1.01276329473641,"xgbreg_min",0.227414330218069,-2.01
+"thetaf","Cai tien: + diem gay","lgbcls + diem gay","min",1.09057520181309,"lgbcls_min",0.308411214953271,1.55
+"thetaf","Cai tien: + diem gay","lgbreg + diem gay","min",1.03170674495346,"lgbreg_min",0.221183800623053,1.17
+"thetaf","Cai tien: + diem gay","xgbcls + diem gay","mean",1.00261409461,"xgbcls_mean",0.345794392523364,0.69
+"thetaf","Cai tien: + diem gay","xgbreg + diem gay","mean",1.01427915722358,"xgbreg_mean",0.202492211838006,0.94
+"thetaf","Cai tien: + diem gay","lgbcls + diem gay","mean",1.00984722928143,"lgbcls_mean",0.336448598130841,-1.45
+"thetaf","Cai tien: + diem gay","lgbreg + diem gay","mean",0.998824433728402,"lgbreg_mean",0.152647975077882,-0.71
+"thetaf","Cai tien: + catch22 + diem gay","xgbcls + catch22 + diem gay","min",1.07902282658547,"xgbcls_min",0.289719626168224,1.59
+"thetaf","Cai tien: + catch22 + diem gay","xgbreg + catch22 + diem gay","min",1.03389369074863,"xgbreg_min",0.214953271028037,0.03
+"thetaf","Cai tien: + catch22 + diem gay","lgbcls + catch22 + diem gay","min",1.09212147689851,"lgbcls_min",0.314641744548287,1.69
+"thetaf","Cai tien: + catch22 + diem gay","lgbreg + catch22 + diem gay","min",1.00806806142802,"lgbreg_min",0.227414330218069,-1.14
+"thetaf","Cai tien: + catch22 + diem gay","xgbcls + catch22 + diem gay","mean",0.998586126782687,"xgbcls_mean",0.308411214953271,0.29
+"thetaf","Cai tien: + catch22 + diem gay","xgbreg + catch22 + diem gay","mean",1.00076618763874,"xgbreg_mean",0.205607476635514,-0.4
+"thetaf","Cai tien: + catch22 + diem gay","lgbcls + catch22 + diem gay","mean",1.00289745937396,"lgbcls_mean",0.333333333333333,-2.13
+"thetaf","Cai tien: + catch22 + diem gay","lgbreg + catch22 + diem gay","mean",0.993698428622812,"lgbreg_mean",0.193146417445483,-1.22
+"thetaf","Tran (tham khao)","Tran: khoang tot nhat (TB 4 diem)",NA,0.872816473462435,NA,NA,NA
